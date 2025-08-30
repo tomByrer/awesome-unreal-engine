@@ -26,7 +26,7 @@ function createMD(aweArr) {
     }
     // list += ((language === "ES2015") || (language === "ES2017")) ? `JS` : language
     if (list !== ` [`) {
-      return `${list.replace(/,(?=[^\s])/g, ", ")}]`
+      return `${list.replace(/,(?=[^\s])/g, ", ").replace(/,\s?$/, "")}]`
     } else {
       return ``
     }
@@ -47,7 +47,7 @@ function createMD(aweArr) {
     headerNow = HEADERS[h]
     headerCapCase = headerNow.charAt(0).toUpperCase() + headerNow.slice(1)
     toc += `\n - [${headerCapCase}](#${headerNow})`
-    md += `\n\n## ${headerCapCase}\n`
+    md += `\n\n\n## ${headerCapCase}`
 
     for (let i=0; i < aweArr.length; i++) {
       currentRow = aweArr[i]
@@ -84,6 +84,7 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
 
 `
 let mdAppend = `
+
 
 ## Also by Author
 

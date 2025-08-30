@@ -17,30 +17,31 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
  - [Tutorial](#tutorial)
  - [Analysis](#analysis)
 
+
 ## Course
 
+ [⏯️🏪 Ghibli-Inspired Stylized meadow ~ GraphicLine Games](https://youtu.be/2VRZrm3eCEs) [asset] ([course files; can donate $0](https://graphicline.gumroad.com/l/opjhs)) - FULL COURSE 2.20 hours.
 
- [⏯️🏪 Ghibli-Inspired Stylized meadow ~ GraphicLine Games](https://youtu.be/2VRZrm3eCEs) [asset,] ([course files; can donate $0](https://graphicline.gumroad.com/l/opjhs)) - FULL COURSE 2.20 hours.
+ [⏯️ Game Environment ~ Stylized Station](https://youtu.be/1C81K60KTtc) [tutorial] - sculpt, texture, lighting.
 
- [⏯️ Game Environment ~ Stylized Station](https://youtu.be/1C81K60KTtc) [tutorial,] - sculpt, texture, lighting.
 
 ## Tutorial
-
 
  [⏯️ Trees – Blender to UE5 Workflow ~ selsner](https://www.youtube.com/shorts/yWyc14-6sog?feature=share) - blob-less, recomputed, short.
 
  [⏯️ 10 EFFECTS in 10 MINUTES ~ Gabriel Aguiar Prod](https://www.youtube.com/shorts/jagvNDg7Iaw?feature=share) - Lightning, Rain, Heal, Loot Drop, Portal, Meteor Rain, Flamethrower, Muzzle Flash, Explosion & Projectile.
 
- [⏯️ Low Poly open world w/free assets ~  Dutchmangames](https://youtu.be/cjQKbGsWT-M) [demo,] ([part 2](https://youtu.be/I-xgz0GNanw)) - place prefabs for beginners.
+ [⏯️ Low Poly open world w/free assets ~  Dutchmangames](https://youtu.be/cjQKbGsWT-M) [demo] ([part 2](https://youtu.be/I-xgz0GNanw)) - place prefabs for beginners.
 
- [⏯️ stylized comic book shader ~ Chris Folea Makes Things](https://youtu.be/Ctx1TP0XDUM) [pre-process,] - WITHOUT post processing.
+ [⏯️ stylized comic book shader ~ Chris Folea Makes Things](https://youtu.be/Ctx1TP0XDUM) [pre-process] - WITHOUT post processing.
 
  [⏯️ Simple Stylization Techniques | GDC 2024 ~  Chris Murphy](https://youtu.be/exMzwH7EJUY) ([article](https://dev.epicgames.com/community/learning/talks-and-demos/XayP/fortnite-simple-stylization-techniques-in-unreal-engine-5)) - colorized 'fog of war'.
 
+
 ## Analysis
 
-
  [⏯️ how grass works in Ghost of Tsushima ~ Stylized Station](https://youtu.be/G8HH_pMKOhk) [article] ([source of talk: Eric Wohllaib](https://youtu.be/Ibe1JBF5i5Y)).
+
 
 ## Also by Author
 
