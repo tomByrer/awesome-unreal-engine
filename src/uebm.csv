@@ -1,0 +1,22 @@
+﻿idx,title,author,url,updated,recMod,header,version,format,topics,style,language,lang,notes,urlOtherTitle,urlOther
+211,Simple Stylization Techniques | GDC 2024, Chris Murphy,https://youtu.be/exMzwH7EJUY,2024-04-29,2025-08-31,tutorial,UE5,video,tutorial,stylized,Blueprint,blueprint,colorized 'fog of war',article,https://dev.epicgames.com/community/learning/talks-and-demos/XayP/fortnite-simple-stylization-techniques-in-unreal-engine-5
+212,stylized comic book shader,Chris Folea Makes Things,https://youtu.be/Ctx1TP0XDUM,2024-07-01,2025-08-31,tutorial,UE5,video,pre-process,"comic,stylized",Blueprint,blueprint,WITHOUT post processing,,
+213,Stylized Grass,FastTrack Tutorials,https://youtu.be/x3k_zeQc958,2024-07-01,2025-08-31,,UE5,video,"Blender,tutorial",stylized,Blueprint,blueprint,2 parts,part 2,https://youtu.be/7yhTc6GNEd8
+214,Low Poly open world w/free assets, Dutchmangames,https://youtu.be/cjQKbGsWT-M,2024-11-07,2025-08-31,tutorial,UE5,video,"demo,tutorial",stylized,environment,environment,place prefabs for beginners,part 2,https://youtu.be/I-xgz0GNanw
+215,Interactive GRASS & FOLIAGE,GraphicLine Games,https://youtu.be/Lf0LgD_GJ58,2025-06-23,2025-08-31,,UE5,video,tutorial,stylized,Blueprint,blueprint,grass reacts dynamically when your character walks through,,
+216,how grass works in Ghost of Tsushima,Stylized Station,https://youtu.be/G8HH_pMKOhk,2022-08-15,2025-08-31,analysis,UE5,video,article,,analysis,analysis,,source of talk: Eric Wohllaib,https://youtu.be/Ibe1JBF5i5Y
+217,Ghibli-Inspired Stylized meadow,GraphicLine Games,https://youtu.be/2VRZrm3eCEs,2025-08-04,2025-08-31,course,UE5,"video,store",asset,"stylized,Ghibli",Blueprint,blueprint,FULL COURSE 2.20 hours,course files; can donate $0,https://graphicline.gumroad.com/l/opjhs
+218,Modular Anime Character,yyyrjis,https://www.fab.com/sellers/yyyrjis,2025-07-17,2025-08-31,,UE5.3+,store,asset,"stylized,anime",asset,asset,,,
+219,Color Correcting Stylized Cartoony Graphics,The Bradshacalypse,https://youtu.be/BKfIgBUYfSg,2023-12-07,2025-08-29,,UE5,video,post-process,"stylized,comic",asset,,"turn down ""tone curve amount"" in post",,
+220,Making stylized animations….in #Blueprints,rowdydev,https://www.youtube.com/shorts/SYI54wk5K0U?feature=share,2025-01-13,2025-08-29,,UE5,video,animation,stylized,Blueprint,,timeline node for easy animations,,
+221,your first water shader ,Stylized Station,https://youtu.be/kXH1-uY0wjY,2022-09-12,2025-08-29,,UE5,video,tutorial,"stylized,water",Blueprint,,"preview.... refraction, etc",,
+222,Game Environment,Stylized Station,https://youtu.be/1C81K60KTtc,2024-11-04,2025-08-30,course,UE5,video,tutorial,stylized,environment,,"sculpt, texture, lighting",,
+223,Smoke VFX - Niagara,Gabriel Aguiar Prod,https://youtu.be/HRagD5L-WF8,2024-03-12,2025-08-30,,UE5,video,tutorial,"stylized,effect",Niagara,,Smoke effect done with Niagara particle system,,
+224,10 EFFECTS in 10 MINUTES,Gabriel Aguiar Prod,https://www.youtube.com/shorts/jagvNDg7Iaw?feature=share,2024-12-04,2025-08-30,tutorial,UE5,video,tutorial,"stylized,effect",Niagara,,"Lightning, Rain, Heal, Loot Drop, Portal, Meteor Rain, Flamethrower, Muzzle Flash, Explosion & Projectile",,
+225,Stylized Environment V1,AeonShaper,https://www.fab.com/listings/6ae05e13-e0ee-468b-a6b0-07404b73d978,2025-06-13,2025-08-30,,UE5,store,"commercial,asset",stylized,environment,,"trees, rocks, stones, cliffs, water, grass, flowers, and bushes, vfx",,
+226,Create Anime-Style Game Environments,Stylized Station,https://youtu.be/w1SPnlOIR94,2024-11-25,2025-08-30,,UE5,video,tutorial,stylized,environment,,Yun Li,,
+227,shader that saved a million ships at sea,Stylized Station,https://youtu.be/gruiNVU7x7Q,2023-02-20,2025-08-30,,UE5,video,article,stylized,shader,,"fresnel: steep angle = weak reflection, shallow angle = strong reflection",,
+228,trees,Vladimir Trofimov,https://www.fab.com/sellers/Vladimir%20Trofimov,2024-12-07,2025-08-30,,UE5,store,"commercial,asset",stylized,environment,,"trees, rocks , grasses, flowers, plants, bushes and landscape material",,
+229,Trees – Blender to UE5 Workflow,selsner,https://www.youtube.com/shorts/yWyc14-6sog?feature=share,2025-05-17,2025-08-31,tutorial,UE5,video,tutorial,stylized,asset,,"blob-less, recomputed, short",,
+230,comic book shader,Chris Folea Makes Things,https://youtu.be/Ctx1TP0XDUM,2024-08-31,2025-08-30,,UE5,video,tutorial,"stylized,comic",shader,,,,
+231,,,,,2025-08-31,,UE5,video,tutorial,stylized,shader,,,,

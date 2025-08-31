@@ -7,7 +7,7 @@
 A curated list of awesome articles & resources for **[Unreal game engine](https://workers.cloudflare.com/)**, though most techniques will work with many art directions given enough tweaks.
 There are a select few non-specific Unreal Engine/Stylized resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.  (A bit different, since the CSV bookmark dump contains *many* other links that didn't make the 'awesome' list.)
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.  (A bit different, since the CSV bookmark dump & [all page]() contains *many* other links that didn't make the 'awesome' list.)
 
 Please use the [Link Suggestion Form]() to add an URL to this list.  To fix something, suggest a new category, tag, etc, reach me on Twitter/X.
 

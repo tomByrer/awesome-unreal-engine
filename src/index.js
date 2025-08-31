@@ -5,7 +5,7 @@
 
 import Papa from 'papaparse'
 import fs from 'node:fs'
-import { awesomePreamble, append } from './copy.js'
+import { awesomePreamble, allPreamble, append } from './copy.js'
 
 function getIconFormat(format){
   let ret = ''
@@ -80,31 +80,73 @@ function createAwesome(aweArr) {
   return toc + md
 }
 
+function createAll(aweArr) {
+  const LANG = [
+    // note order
+    "analysis",
+    "environment",
+    "asset",
+    "shader",
+    "niagara",
+    "blueprint",
+    "c++",
+  ]
+  let md = ""
+  let toc = `\n## Contents\n`
+  let headerNow = ""
+  let currentRow = {}
+
+  for (let h=0; h < LANG.length; h++) {
+    headerNow = LANG[h]
+    const { tocHeader, mdHeader } = getHeader(headerNow)
+    toc += tocHeader
+    md += mdHeader
+
+    for (let i=0; i < aweArr.length; i++) {
+      currentRow = aweArr[i]
+      if (headerNow === currentRow.lang) {
+        md += getBookmark(currentRow)
+      }
+    }
+  }
+
+  return toc + md
+}
+
 // main
 let csvRows = []
 let res = {}
-fs.readFile("./src/unreal-bookmarks.csv", 'utf8', (err, data) => {
+fs.readFile("./src/uebm.csv", 'utf8', (err, data) => {
   if (err) throw err;
   Papa.parse(data, {
     header: true,
     step: csvRow => {
       res = csvRow.data
-      if (res.header) { // header = include in awesome list
+      // if (res.header) { // header = include in awesome list
         res.topics = res.topics.split(",", 3)
         return csvRows.push(res)
-      } else { // noop
-        return 
-      }
+      // } else { // noop
+      //   return 
+      // }
     }
   })
   csvRows.sort((a, b) => (a.updated < b.updated) ? 1 : -1)
-  let content = awesomePreamble
-  content += createAwesome(csvRows)
-  content += append
 
-  fs.writeFile("./README.md", content, (err) => {
+  // Awesome, AKA README 'best of best'
+  let contentAwesome = awesomePreamble
+  contentAwesome += createAwesome(csvRows)
+  contentAwesome += append
+  fs.writeFile("./README.md", contentAwesome, (err) => {
     if (err) throw err;
     console.info(`csv-to-awesome: new file at "./readme.md"`)
-    // console.log(content)
+  })
+
+  // all = entire csv
+  let contentAll = allPreamble
+  contentAll += createAll(csvRows)
+  contentAll += append
+  fs.writeFile("./all.md", contentAll, (err) => {
+    if (err) throw err;
+    console.info(`csv-to-awesome: new file at "./all.md"`)
   })
 })
