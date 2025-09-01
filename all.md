@@ -28,18 +28,40 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
 
 ## Environment
 
+ [🏪 Stylized Environment V1 ~ AeonShaper](https://www.fab.com/listings/6ae05e13-e0ee-468b-a6b0-07404b73d978) [commercial, asset] - trees, rocks, stones, cliffs, water, grass, flowers, and bushes, vfx.
+
+ [🏪 trees ~ Vladimir Trofimov](https://www.fab.com/sellers/Vladimir%20Trofimov) [commercial, asset] - trees, rocks , grasses, flowers, plants, bushes and landscape material.
+
+ [⏯️ Create Anime-Style Game Environments ~ Stylized Station](https://youtu.be/w1SPnlOIR94) [tutorial] - Yun Li.
+
  [⏯️ Low Poly open world w/free assets ~  Dutchmangames](https://youtu.be/cjQKbGsWT-M) [demo, tutorial] ([part 2](https://youtu.be/I-xgz0GNanw)) - place prefabs for beginners.
+
+ [⏯️ Game Environment ~ Stylized Station](https://youtu.be/1C81K60KTtc) [tutorial] - sculpt, texture, lighting.
 
 
 ## Asset
 
- [🏪 Modular Anime Character ~ yyyrjis](https://www.fab.com/sellers/yyyrjis) [asset].
+ [🏪 Modular Anime Character ~ yyyrjis](https://www.fab.com/sellers/yyyrjis) [commercial, character].
+
+ [⏯️ Trees – Blender to UE5 Workflow ~ selsner](https://www.youtube.com/shorts/yWyc14-6sog?feature=share) [tutorial] - blob-less, recomputed, short.
+
+ [⏯️ Color Correcting Stylized Cartoony Graphics ~ The Bradshacalypse](https://youtu.be/BKfIgBUYfSg) [post-process] - turn down "tone curve amount" in post.
 
 
 ## Shader
 
+ [⏯️ comic book shader ~ Chris Folea Makes Things](https://youtu.be/Ctx1TP0XDUM) [tutorial].
+
+ [⏯️ shader that saved a million ships at sea ~ Stylized Station](https://youtu.be/gruiNVU7x7Q) [article] - fresnel: steep angle = weak reflection, shallow angle = strong reflection.
+
+ [⏯️  ~ ]() [tutorial].
+
 
 ## Niagara
+
+ [⏯️ 10 EFFECTS in 10 MINUTES ~ Gabriel Aguiar Prod](https://www.youtube.com/shorts/jagvNDg7Iaw?feature=share) [tutorial] - Lightning, Rain, Heal, Loot Drop, Portal, Meteor Rain, Flamethrower, Muzzle Flash, Explosion & Projectile.
+
+ [⏯️ Smoke VFX - Niagara ~ Gabriel Aguiar Prod](https://youtu.be/HRagD5L-WF8) [tutorial] - Smoke effect done with Niagara particle system.
 
 
 ## Blueprint
@@ -48,11 +70,15 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
 
  [⏯️ Interactive GRASS & FOLIAGE ~ GraphicLine Games](https://youtu.be/Lf0LgD_GJ58) [tutorial] - grass reacts dynamically when your character walks through.
 
+ [⏯️ Making stylized animations….in #Blueprints ~ rowdydev](https://www.youtube.com/shorts/SYI54wk5K0U?feature=share) [animation] - timeline node for easy animations.
+
  [⏯️ Stylized Grass ~ FastTrack Tutorials](https://youtu.be/x3k_zeQc958) [Blender, tutorial] ([part 2](https://youtu.be/7yhTc6GNEd8)) - 2 parts.
 
  [⏯️ stylized comic book shader ~ Chris Folea Makes Things](https://youtu.be/Ctx1TP0XDUM) [pre-process] - WITHOUT post processing.
 
  [⏯️ Simple Stylization Techniques | GDC 2024 ~  Chris Murphy](https://youtu.be/exMzwH7EJUY) [tutorial] ([article](https://dev.epicgames.com/community/learning/talks-and-demos/XayP/fortnite-simple-stylization-techniques-in-unreal-engine-5)) - colorized 'fog of war'.
+
+ [⏯️ your first water shader  ~ Stylized Station](https://youtu.be/kXH1-uY0wjY) [tutorial] - preview.... refraction, etc.
 
 
 ## C++
