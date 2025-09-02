@@ -19,4 +19,19 @@
 228,trees,Vladimir Trofimov,https://www.fab.com/sellers/Vladimir%20Trofimov,2024-12-07,2025-08-31,,UE5,store,"commercial,asset",stylized,environment,"trees, rocks , grasses, flowers, plants, bushes and landscape material",,
 229,Trees – Blender to UE5 Workflow,selsner,https://www.youtube.com/shorts/yWyc14-6sog?feature=share,2025-05-17,2025-08-31,tutorial,UE5,video,tutorial,stylized,asset,"blob-less, recomputed, short",,
 230,comic book shader,Chris Folea Makes Things,https://youtu.be/Ctx1TP0XDUM,2024-08-31,2025-08-31,,UE5,video,tutorial,"stylized,comic",shader,,,
-231,,,,,2025-08-31,,UE5,video,tutorial,stylized,shader,,,
+231,Kawaii Physics-Hidden Physics Engine,Cobra Code,https://youtu.be/9ThmoMHnHhw,2025-05-21,2025-09-01,tool,"UE4,UE5",video,tutorial,effect,physics,stylized hair & clothes physics,KawaiiPhysics  repo,https://github.com/pafuhana1213/KawaiiPhysics
+232,UE5 Starter Course,Unreal Sensei,https://youtu.be/k-zMkzmduqI,2022-06-30,2025-09-01,tutorial,UE5,video,tutorial,,beginner," tutorial for everything in '22, including nanite & lumen",assets,https://www.unrealsensei.com/asset/ue5beginner
+233,RPG Tutorial Series,Gorka Games,https://youtu.be/WcDj4uZygyE?list=PLiSlOaRBfgkcPAhYpGps16PT_9f28amXi,2023-02-21,2025-09-01,,UE5,video,tutorial,stylized,beginner,83 part tutorial,,
+234,GASP Motion Matching - Improved Hit Effects,MakeCodeSimple_Unreal,https://youtu.be/qNWl3NmHCe4,2025-08-28,2025-09-01,,UE5,video,livestream,,blueprint,improving the custom replicated Hit Effects for Blood or Dust,,
+235,Physically Based Cel Shading,Visual Tech Art,https://youtu.be/eBS3BOI5KnM,2024-07-16,2025-09-01,tutorial,UE5,video,"tutorial,pre-process",comic,blueprint,Physically Based pipeline,,
+236,Stylized Rendering in a Physically Based Context - Lighting for Videogames,Visual Tech Art,https://youtu.be/1Q9UqIPCh1A,2024-12-16,2025-09-01,,UE5,video,"livestream,pre-process",stylized,analysis,,,
+237,overhauled our toon shader and added enemies and ladders,Lost Umbrella Games,https://youtu.be/AVbzkvnTIlI,2023-08-05,2025-09-01,,UE5,video,tutorial,stylized,shader,"occlusion shader, ladder, C++ & blueprints",,
+238,10 Ways to Make Combat Feel Better,Ali Elzoheiry,https://youtu.be/xkSDw6Z4PKk,2024-11-17,2025-09-01,,UE5,video,animation,stylized,analysis,,,
+239,Gameplay Ability System in 20 minutes,Danny Goodayle,https://youtu.be/s3-kOmP5bVw,2023-10-16,2025-09-01,,UE5,video,"tutorial,animation",,c++,,,
+240,Jumping Fish & Splash Effect,Kovilgaming,https://www.fab.com/listings/10b9c695-50f0-4bd8-8402-d44ce8966118,2025-08-28,2025-09-01,,UE5,store,"animation,asset",anime,niagara,fish jumping out & in water,,
+241,Pixel Normal WorldSpace Node,PrismaticaDev,https://youtu.be/jOGfr6JXWcI,2021-03-30,2025-09-01,,UE4,video,tutorial,,shader,good for putting snow/sand on top of objects,,
+242,Intro to Custom Niagara Modules,PrismaticaDev,https://youtu.be/QCWrRjTdAmI,2025-06-04,2025-09-01,tutorial,UE5,video,tutorial,,niagara,,,
+243,Optimizing Foliage with WPO Disable Distance,PrismaticaDev,https://youtu.be/4UJp4iB53qs,2025-03-13,2025-09-01,tutorial,UE5,video,"tutorial,optmimize",,blueprint,reduce CPU/GPU for distant vegetation ,,
+244,Prismatiscape Interaction Plugin,PrismaticaDev,https://www.fab.com/listings/be1147e5-65b3-43b2-99a6-a3b2ed0d5748,2024-03-21,2025-09-01,,UE5.3+,store,"animation,commercial",,shader,"water/wind,/ground, etc  locally-bound global shader interaction system ",gumroad,https://prismaticadev.gumroad.com/l/axvvm
+245,Wireframe,Elias Wick,https://www.fab.com/listings/d97c650b-e577-4f33-8800-6073290a2af7,2023-06-11,2025-09-01,,UE5,store,commercial,stylized,environment,display wireframes/outlines on your assets and environments,gumroad,https://eliaswick.gumroad.com/l/EliasWickWireframe
+246,Stylized WATER shader for Beginners,Stylized Craft,https://youtu.be/HWhZuz287FI,2025-02-21,2025-09-01,,UE5,video,tutorial,stylized,shader,"AI voice, but still good info",,

@@ -50,6 +50,15 @@ function getBookmark(bm){
   }
   return md + '.' // per awesome guidelines
 }
+function getFooter(count){
+  return `
+
+---
+---
+
+*updated: ${new Date().toISOString()}, bookmarks listed: ${count}*
+`
+}
 
 function createAwesome(aweArr) {
   const HEADERS = [
@@ -62,6 +71,7 @@ function createAwesome(aweArr) {
   let toc = `\n## Contents\n`
   let headerNow = ""
   let currentRow = {}
+  let count = 0
 
   for (let h=0; h < HEADERS.length; h++) {
     headerNow = HEADERS[h]
@@ -73,19 +83,22 @@ function createAwesome(aweArr) {
       currentRow = aweArr[i]
       if (headerNow === currentRow.header) {
         md += getBookmark(currentRow)
+        count++
       }
     }
   }
 
-  return toc + md
+  return toc + md + getFooter(count)
 }
 
 function createAll(aweArr) {
   const LANG = [
     // note order
+    "beginner",
     "analysis",
     "environment",
     "asset",
+    "physics",
     "shader",
     "niagara",
     "blueprint",
@@ -95,6 +108,7 @@ function createAll(aweArr) {
   let toc = `\n## Contents\n`
   let headerNow = ""
   let currentRow = {}
+  let count = 0
 
   for (let h=0; h < LANG.length; h++) {
     headerNow = LANG[h]
@@ -106,11 +120,12 @@ function createAll(aweArr) {
       currentRow = aweArr[i]
       if (headerNow === currentRow.lang) {
         md += getBookmark(currentRow)
+        count++
       }
     }
   }
 
-  return toc + md
+  return toc + md + getFooter(count)
 }
 
 // main

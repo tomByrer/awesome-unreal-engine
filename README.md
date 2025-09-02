@@ -28,20 +28,34 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
 
 ## Tutorial
 
+ [⏯️ Intro to Custom Niagara Modules ~ PrismaticaDev](https://youtu.be/QCWrRjTdAmI) [tutorial].
+
  [⏯️ Trees – Blender to UE5 Workflow ~ selsner](https://www.youtube.com/shorts/yWyc14-6sog?feature=share) [tutorial] - blob-less, recomputed, short.
+
+ [⏯️ Optimizing Foliage with WPO Disable Distance ~ PrismaticaDev](https://youtu.be/4UJp4iB53qs) [tutorial, optmimize] - reduce CPU/GPU for distant vegetation .
 
  [⏯️ 10 EFFECTS in 10 MINUTES ~ Gabriel Aguiar Prod](https://www.youtube.com/shorts/jagvNDg7Iaw?feature=share) [tutorial] - Lightning, Rain, Heal, Loot Drop, Portal, Meteor Rain, Flamethrower, Muzzle Flash, Explosion & Projectile.
 
  [⏯️ Low Poly open world w/free assets ~  Dutchmangames](https://youtu.be/cjQKbGsWT-M) [demo, tutorial] ([part 2](https://youtu.be/I-xgz0GNanw)) - place prefabs for beginners.
 
+ [⏯️ Physically Based Cel Shading ~ Visual Tech Art](https://youtu.be/eBS3BOI5KnM) [tutorial, pre-process] - Physically Based pipeline.
+
  [⏯️ stylized comic book shader ~ Chris Folea Makes Things](https://youtu.be/Ctx1TP0XDUM) [pre-process] - WITHOUT post processing.
 
  [⏯️ Simple Stylization Techniques | GDC 2024 ~  Chris Murphy](https://youtu.be/exMzwH7EJUY) [tutorial] ([article](https://dev.epicgames.com/community/learning/talks-and-demos/XayP/fortnite-simple-stylization-techniques-in-unreal-engine-5)) - colorized 'fog of war'.
+
+ [⏯️ UE5 Starter Course ~ Unreal Sensei](https://youtu.be/k-zMkzmduqI) [tutorial] ([assets](https://www.unrealsensei.com/asset/ue5beginner)) -  tutorial for everything in '22, including nanite & lumen.
 
 
 ## Analysis
 
  [⏯️ how grass works in Ghost of Tsushima ~ Stylized Station](https://youtu.be/G8HH_pMKOhk) [article] ([source of talk: Eric Wohllaib](https://youtu.be/Ibe1JBF5i5Y)).
+
+---
+---
+
+*updated: 2025-09-02T00:35:16.666Z, bookmarks listed: 12*
+
 
 
 ## Also by Author
