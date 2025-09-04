@@ -60,6 +60,61 @@ function getFooter(count){
 `
 }
 
+function createAll(aweArr) {
+  const LANG = [
+    // note order
+    "beginner",
+    "analysis",
+    "environment",
+    "asset",
+    "physics",
+    "gradient",
+    "shader",
+    "material",
+    "niagara",
+    "blueprint",
+    "c++",
+    "msc",
+  ]
+  let md = ""
+  let toc = `\n## Contents\n`
+  let headerNow = ""
+  let currentRow = {}
+  let count = 0
+  const uniqueURLs = new Set()
+  let uURLsSize = 0
+
+  for (let h=0; h < LANG.length; h++) {
+    headerNow = LANG[h]
+    const { tocHeader, mdHeader } = getHeader(headerNow)
+    toc += tocHeader
+    md += mdHeader
+
+    for (let i=0; i < aweArr.length; i++) {
+      currentRow = aweArr[i]
+      if (headerNow === currentRow.lang) {
+        uniqueURLs.add(currentRow.url)
+        console.log(uniqueURLs.size)
+        if ( uniqueURLs.size === (uURLsSize + 1) ){
+          uURLsSize++
+          md += getBookmark(currentRow)
+          count++
+        }
+        else {
+          console.error('duplicate:', currentRow.url)
+        }
+      }
+    }
+  }
+  console.log(
+    'all length:', aweArr.length-1, //- header
+    'count', count,
+    'uniqueURLs', uniqueURLs.size
+  )
+
+  return toc + md + getFooter(count)
+}
+
 function createAwesome(aweArr) {
   const HEADERS = [
     // note order
@@ -91,42 +146,6 @@ function createAwesome(aweArr) {
   return toc + md + getFooter(count)
 }
 
-function createAll(aweArr) {
-  const LANG = [
-    // note order
-    "beginner",
-    "analysis",
-    "environment",
-    "asset",
-    "physics",
-    "shader",
-    "niagara",
-    "blueprint",
-    "c++",
-  ]
-  let md = ""
-  let toc = `\n## Contents\n`
-  let headerNow = ""
-  let currentRow = {}
-  let count = 0
-
-  for (let h=0; h < LANG.length; h++) {
-    headerNow = LANG[h]
-    const { tocHeader, mdHeader } = getHeader(headerNow)
-    toc += tocHeader
-    md += mdHeader
-
-    for (let i=0; i < aweArr.length; i++) {
-      currentRow = aweArr[i]
-      if (headerNow === currentRow.lang) {
-        md += getBookmark(currentRow)
-        count++
-      }
-    }
-  }
-
-  return toc + md + getFooter(count)
-}
 
 // main
 let csvRows = []
@@ -147,6 +166,15 @@ fs.readFile("./src/uebm.csv", 'utf8', (err, data) => {
   })
   csvRows.sort((a, b) => (a.updated < b.updated) ? 1 : -1)
 
+  // all = entire csv
+  let contentAll = allPreamble
+  contentAll += createAll(csvRows)
+  contentAll += append
+  fs.writeFile("./all.md", contentAll, (err) => {
+    if (err) throw err;
+    console.info(`csv-to-awesome: new file at "./all.md"`)
+  })
+
   // Awesome, AKA README 'best of best'
   let contentAwesome = awesomePreamble
   contentAwesome += createAwesome(csvRows)
@@ -156,12 +184,4 @@ fs.readFile("./src/uebm.csv", 'utf8', (err, data) => {
     console.info(`csv-to-awesome: new file at "./readme.md"`)
   })
 
-  // all = entire csv
-  let contentAll = allPreamble
-  contentAll += createAll(csvRows)
-  contentAll += append
-  fs.writeFile("./all.md", contentAll, (err) => {
-    if (err) throw err;
-    console.info(`csv-to-awesome: new file at "./all.md"`)
-  })
 })
