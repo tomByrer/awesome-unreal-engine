@@ -29,8 +29,14 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
 
  [⏯️ Large Scale PCG Tutorial with Gaea Maps ~ Aziel Arts](https://youtu.be/ElpH2AA4Nzc) [tutorial] - Zelda-inspired landscape using Procedural Content Generation.
 
+ [⏯️ many techniques available for Stylized Grass ~ Ghislain Girardot](https://youtu.be/pVKDfZMffpc) [tutorial, Blender, asset].
+
 
 ## Tutorial
+
+ [⏯️ Witcher 4 Baked Water Simulation ~ Aziel Arts](https://youtu.be/akHCbIECFX8) [tutorial, animation] - easy realistic looking river.
+
+ [⏯️ I Nailed the Anime Look ~ SILKROAD Project](https://youtu.be/nyRcPMOpxcI) [optimize, Houdini , character] - outline & shadows part of UV, not filter.
 
  [⏯️ Intro to Custom Niagara Modules ~ PrismaticaDev](https://youtu.be/QCWrRjTdAmI) [tutorial].
 
@@ -38,19 +44,29 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
 
  [⏯️ Optimizing Foliage with WPO Disable Distance ~ PrismaticaDev](https://youtu.be/4UJp4iB53qs) [tutorial, optimize] - reduce CPU/GPU for distant vegetation .
 
+ [⏯️ BEST 3D TREE in anime STYLE ~ GraphicLine Games](https://youtu.be/kI8pSj-9Xxw) [tutorial].
+
+ [⏯️ Advanced Cel Shader ~ Pitchfork Academy](https://youtu.be/HDyswSWIdY0) [tutorial].
+
  [⏯️ Character and Object Foliage Interaction ~ Arghanion's Puzzlebox](https://youtu.be/za6ffTin5GQ) [tutorial, optimize] ([free foliage tools](https://www.patreon.com/posts/118145659?pr=true)) - cheap; no bones.
 
  [⏯️ 10 EFFECTS in 10 MINUTES ~ Gabriel Aguiar Prod](https://www.youtube.com/shorts/jagvNDg7Iaw?feature=share) [tutorial] - Lightning, Rain, Heal, Loot Drop, Portal, Meteor Rain, Flamethrower, Muzzle Flash, Explosion & Projectile.
 
+ [⏯️ Achieve True Color in Unreal Engine: Disabling Tonemapper ~ Kibibyte](https://youtu.be/mNr5K2tIAg8) [tutorial, post-process, pre-process] - custom look, LUTs, etc.
+
  [⏯️ Low Poly open world w/free assets ~  Dutchmangames](https://youtu.be/cjQKbGsWT-M) [demo, tutorial] ([part 2](https://youtu.be/I-xgz0GNanw)) - place prefabs for beginners.
 
  [⏯️ Physically Based Cel Shading ~ Visual Tech Art](https://youtu.be/eBS3BOI5KnM) [tutorial, pre-process] - Physically Based pipeline.
+
+ [⏯️ Physically Based Cel Shading ~ Visual Tech Art](https://youtu.be/eBS3BOI5KnM) [tutorial] - with outlines.
 
  [⏯️ stylized comic book shader ~ Chris Folea Makes Things](https://youtu.be/Ctx1TP0XDUM) [pre-process] - WITHOUT post processing.
 
  [⏯️ Materials in 6 Levels of Complexity ~ pwnisher](https://youtu.be/iZgbzwBQTPY) [tutorial, tool] ([Master Material FAB](https://www.fab.com/listings/95f437fe-024e-455e-ad8e-a14bb1128131)) - fast.
 
  [⏯️ Simple Stylization Techniques | GDC 2024 ~  Chris Murphy](https://youtu.be/exMzwH7EJUY) [tutorial] ([article](https://dev.epicgames.com/community/learning/talks-and-demos/XayP/fortnite-simple-stylization-techniques-in-unreal-engine-5)) - colorized 'fog of war'.
+
+ [⏯️ Reroute node ~ pixelfondue](https://www.youtube.com/shorts/dhgI91-Ic90?feature=share) [tutorial] ([other shortcuts](https://youtu.be/ke6kcoRqEHw)) - reduce blueprint spaghetti.
 
  [⏯️ UNDERSTAND and RECREATE a Fortnite-like Landscape Material ~ Imphenzia](https://youtu.be/W6VZcyKU_Nk) [tutorial, asset, Blender].
 
@@ -60,8 +76,12 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
 
  [⏯️ Environment Art Breakdown ~ Stylized Station](https://youtu.be/SonheTAwcUI) [tutorial, Blender] - by Melissa Perl.
 
+ [⏯️ Individual Foliage Logic [Harvesting, Damage, Particles] ~ PrismaticaDev](https://youtu.be/6sjc4dqoCF0) [tutorial, animation, character].
+
 
 ## Analysis
+
+ [⏯️ Long-Form Narrative Workflow ~ Unreal Engine](https://youtu.be/UVRlNFFBa1o) [tutorial] - Steamroller Animation 2D cartoon.
 
  [⏯️ Real-time animation on ‘War Is Over!’ ~ Unreal Engine](https://youtu.be/0x2yPI5Alms) [article] - the creative process behind the making animation.
 
@@ -72,7 +92,7 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
 ---
 ---
 
-*updated: 2025-09-04T11:03:53.265Z, bookmarks listed: 21*
+*updated: 2025-09-06T18:03:28.724Z, bookmarks listed: 31*
 
 
 

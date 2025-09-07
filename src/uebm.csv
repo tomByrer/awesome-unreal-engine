@@ -66,3 +66,27 @@
 286,3d controlled AI video generation,Utopai Studios,https://youtu.be/301tJ7HCApk,2025-03-28,2025-09-04,,UE5,video,"commercial,demo",,AI,real-time control over scene composition,,
 287,Calysto World 2/Massive World PCG Map Toolkit,Michael Simard,https://youtu.be/hHu3mEdT1c8,2025-09-04,2025-09-04,,UE5,"video,store","tutorial,demo,commercial",,environment,procedural world generation,FAB store,https://www.fab.com/listings/8631308a-67a3-4e20-b3e4-74be19813f77
 288,Complete AI Toolkit,Ludus AI,https://ludusengine.com/,2025-09-04,2025-09-04,,UE5,store,"commercial,asset",,c++,"generate C++ code, 3D models, and functional Blueprints",YouTube,https://www.youtube.com/@LudusAI
+289,Destroy Actor Node Doesn't Do What you Think,Taken Grace,https://youtu.be/aeCNMYpoBQk,2025-08-30,2025-09-04,,UE5,video,tutorial,,c++,fix memory leak in C++ & Blueprints,,
+290,Asset Manager Studio Launcher,master-technology,https://assetmanager.studio/,2025-09-04,2025-09-04,tool,UE5,store,tool,stylized,msc,,video walkthrough,https://youtu.be/PJzLVx0iVGU
+291,Achieve True Color in Unreal Engine: Disabling Tonemapper,Kibibyte,https://youtu.be/mNr5K2tIAg8,2024-11-07,2025-09-04,tutorial,UE5,video,"tutorial,post-process,pre-process",,environment,"custom look, LUTs, etc",,
+292,"Individual Foliage Logic [Harvesting, Damage, Particles]",PrismaticaDev,https://youtu.be/6sjc4dqoCF0,2021-10-01,2025-09-04,tutorial,UE5,video,"tutorial,animation,character",,blueprint,,,
+293,Long-Form Narrative Workflow,Unreal Engine,https://youtu.be/UVRlNFFBa1o,2025-03-21,2025-09-04,analysis,UE5,video,tutorial,"stylized,comic",msc,Steamroller Animation 2D cartoon,,
+294,Easy Stylized Grass,Aziel Arts,https://youtu.be/pPNsGrfuaCc,2024-05-20,2025-09-04,,UE5,video,tutorial,stylized,asset,,,
+295,Witcher 4 Baked Water Simulation,Aziel Arts,https://youtu.be/akHCbIECFX8,2025-07-17,2025-09-04,tutorial,UE5.6,video,"tutorial,animation",,physics,easy realistic looking river,,
+296,Grid Terrain Generator,MadeFun3D,https://www.fab.com/listings/224f16d2-74a6-4f43-a926-c1b3e9db83e3,2025-06-21,2025-09-04,,UE5,store,commercial,,blueprint,,,
+297,stylized GHIBLI inspired TREE,GraphicLine Games,https://youtu.be/yXz7JXfe4sM,2025-05-05,2025-09-04,,UE5,video,"tutorial,Blender","stylized,Ghibli",asset,,,
+298,Advanced Cel Shader,Pitchfork Academy,https://youtu.be/HDyswSWIdY0,2025-01-07,2025-09-05,tutorial,UE5,video,tutorial,"stylized,cartoon",material,,,
+299,Hologram And Glitch Effects,Pitchfork Academy,https://youtu.be/LOKYUgfZI6Y,2025-01-12,2025-09-05,,UE5,video,tutorial,scifi,material,"see-through, scan lines, glitch",,
+300,I Nailed the Anime Look,SILKROAD Project,https://youtu.be/nyRcPMOpxcI,2025-07-07,2025-09-05,tutorial,UE5,video,"optimize,Houdini ,character","stylized,anime",asset,"outline & shadows part of UV, not filter",,
+301,Lighting Stylized Assets,Stylized Schools,https://youtu.be/4x8F6wxtquM,2025-06-24,2025-09-05,,UE5,video,asset,stylized,msc,,,
+302,Animated Procedural Water Drops,Stylized Schools,https://youtu.be/6hqiBHAHryg,2025-08-05,2025-09-05,,UE5,video,tutorial,,shader,water on surface,,
+303,MeshBlend,Tore Lervik,https://www.fab.com/listings/1f4abe73-4cda-42db-995a-c9f8ca4790e5,2025-09-04,2025-09-05,,UE5,store,,stylized,msc,controllable blending of meshes,,
+304,Blending Objects into Landscapes,Mohammad Solei,https://youtu.be/GSJFuoerkaw,2024-02-22,2025-09-05,,UE5,video,tutorial,,environment,Runtime Virtual Texture,,
+305,many techniques available for Stylized Grass,Ghislain Girardot,https://youtu.be/pVKDfZMffpc,2023-04-03,2025-09-05,course,UE5,video,"tutorial,Blender,asset",stylized,environment,,,
+306,GPU Swarm VFX in Unreal Engine with Niagara,Ghislain Girardot,https://youtu.be/PFkiUYAhTyQ,2025-08-15,2025-09-05,,UE5,video,article,,niagara,uses State Machine,earlier part: using shaders & State Machines,https://youtu.be/IYI7agYFOZY
+307,Intro to Niagara’s Dynamic Mesh Interface,Ghislain Girardot,https://youtu.be/mbH3HLcRt3I,2025-08-26,2025-09-05,,UE5,video,article,,niagara,,,
+308,Physically Based Cel Shading,Visual Tech Art,https://youtu.be/eBS3BOI5KnM,2024-07-15,2025-09-06,tutorial,UE5,video,tutorial,"stylized,cartoon",blueprint,with outlines,,
+309,stylized pink clouds,Shadows Uncovered,https://youtu.be/adpcECwt3ac,2022-09-29,2025-09-06,,UE4,video,tutorial,stylized,asset,,,
+310,BEST 3D TREE in anime STYLE,GraphicLine Games,https://youtu.be/kI8pSj-9Xxw,2025-01-13,2025-09-06,tutorial,UE5,video,tutorial,"stylized,Ghibli,anime",asset,,,
+311,watercolor SHADER in BLENDER,GraphicLine Games,https://youtu.be/gaO_27QRpUY,2025-06-30,2025-09-06,,Blender,video,"tutorial,Blender",stylized,shader,,,
+312,Reroute node,pixelfondue,https://www.youtube.com/shorts/dhgI91-Ic90?feature=share,2023-09-05,2025-09-06,tutorial,UE5,video,tutorial,stylized,blueprint,reduce blueprint spaghetti,other shortcuts,https://youtu.be/ke6kcoRqEHw
