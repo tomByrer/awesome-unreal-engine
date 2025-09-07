@@ -18,20 +18,21 @@ function getIconFormat(format){
   }
   return ret + ' '
 }
-function listTags(headerNow, topics, language){
-  let list = ` [${topics.filter(topic => topic !== headerNow)}`
-  //todo: filter out if in descriptions
-  if (language && list !== " [") {
-    list += `,`
-  }
-  // list += ((language === "ES2015") || (language === "ES2017")) ? `JS` : language
-  if (list !== ` [`) {
-    return `${list.replace(/,(?=[^\s])/g, ", ").replace(/,\s?$/, "")}]`
-  } else {
-    return ``
-  }
-}
+// function listTags(headerNow, topics, language){
+//   let list = ` [${topics.filter(topic => topic !== headerNow)}`
+//   //todo: filter out if in descriptions
+//   if (language && list !== " [") {
+//     list += `,`
+//   }
+//   // list += ((language === "ES2015") || (language === "ES2017")) ? `JS` : language
+//   if (list !== ` [`) {
+//     return `${list.replace(/,(?=[^\s])/g, ", ").replace(/,\s?$/, "")}]`
+//   } else {
+//     return ``
+//   }
+// }
 function getHeader(header){
+  header = (header === null) ? 'styleless' : header
   const headerCapCase = header.charAt(0).toUpperCase() + header.slice(1)
   return{
     tocHeader: `\n - [${headerCapCase}](#${header})`,
@@ -41,7 +42,8 @@ function getHeader(header){
 function getBookmark(bm){
   let md = '\n\n [' + getIconFormat(bm.format)
   md += `${bm.title} ~ ${bm.author}](${bm.url})`
-  md += listTags(bm, bm.topics, bm.language)
+  // md += listTags(bm, bm.topics, bm.lang)
+  md += '['+ bm.topics +','+ bm.lang + ']'
   if (bm.urlOther) {
     md += ` ([${bm.urlOtherTitle}](${bm.urlOther}))`
   }
@@ -60,22 +62,21 @@ function getFooter(count){
 `
 }
 
-function createAll(aweArr) {
-  const LANG = [
-    // note order
-    "beginner",
-    "analysis",
-    "environment",
-    "asset",
-    "physics",
-    "gradient",
-    "shader",
-    "material",
-    "niagara",
-    "blueprint",
-    "c++",
-    "msc",
-  ]
+const STYLE = [
+  'Ghibli',
+  'anime',
+  'comic',
+  'cartoon',
+  'pixelized',
+  'Zelda',
+  'Fortnite',
+  'scifi',
+  'water',
+  'effect',
+  'stylized',
+  'generic', //fall back; if not specific style
+]
+function createMarkdwon(aweArr, isAwesome=false) {
   let md = ""
   let toc = `\n## Contents\n`
   let headerNow = ""
@@ -84,24 +85,26 @@ function createAll(aweArr) {
   const uniqueURLs = new Set()
   let uURLsSize = 0
 
-  for (let h=0; h < LANG.length; h++) {
-    headerNow = LANG[h]
+  for (let h=0; h < STYLE.length; h++) {
+    headerNow = STYLE[h]
     const { tocHeader, mdHeader } = getHeader(headerNow)
     toc += tocHeader
     md += mdHeader
 
     for (let i=0; i < aweArr.length; i++) {
       currentRow = aweArr[i]
-      if (headerNow === currentRow.lang) {
-        uniqueURLs.add(currentRow.url)
-        console.log(uniqueURLs.size)
-        if ( uniqueURLs.size === (uURLsSize + 1) ){
-          uURLsSize++
-          md += getBookmark(currentRow)
-          count++
-        }
-        else {
-          console.error('duplicate:', currentRow.url)
+      if (!isAwesome || (isAwesome && currentRow.header)){
+        if (headerNow === currentRow.style) {
+          uniqueURLs.add(currentRow.url)
+          console.log(uniqueURLs.size)
+          if ( uniqueURLs.size === (uURLsSize + 1) ){
+            uURLsSize++
+            md += getBookmark(currentRow)
+            count++
+          }
+          else {
+            console.error('duplicate:', currentRow.url)
+          }
         }
       }
     }
@@ -111,37 +114,6 @@ function createAll(aweArr) {
     'count', count,
     'uniqueURLs', uniqueURLs.size
   )
-
-  return toc + md + getFooter(count)
-}
-
-function createAwesome(aweArr) {
-  const HEADERS = [
-    // note order
-    "course",
-    "tutorial",
-    "analysis",
-  ]
-  let md = ""
-  let toc = `\n## Contents\n`
-  let headerNow = ""
-  let currentRow = {}
-  let count = 0
-
-  for (let h=0; h < HEADERS.length; h++) {
-    headerNow = HEADERS[h]
-    const { tocHeader, mdHeader } = getHeader(headerNow)
-    toc += tocHeader
-    md += mdHeader
-
-    for (let i=0; i < aweArr.length; i++) {
-      currentRow = aweArr[i]
-      if (headerNow === currentRow.header) {
-        md += getBookmark(currentRow)
-        count++
-      }
-    }
-  }
 
   return toc + md + getFooter(count)
 }
@@ -168,7 +140,7 @@ fs.readFile("./src/uebm.csv", 'utf8', (err, data) => {
 
   // all = entire csv
   let contentAll = allPreamble
-  contentAll += createAll(csvRows)
+  contentAll += createMarkdwon(csvRows)
   contentAll += append
   fs.writeFile("./all.md", contentAll, (err) => {
     if (err) throw err;
@@ -177,7 +149,7 @@ fs.readFile("./src/uebm.csv", 'utf8', (err, data) => {
 
   // Awesome, AKA README 'best of best'
   let contentAwesome = awesomePreamble
-  contentAwesome += createAwesome(csvRows)
+  contentAwesome += createMarkdwon(csvRows, true)
   contentAwesome += append
   fs.writeFile("./README.md", contentAwesome, (err) => {
     if (err) throw err;

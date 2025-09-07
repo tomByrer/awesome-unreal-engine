@@ -39,7 +39,7 @@ export let append = `
 
 Copyright (c)2025, JS code Copyright (c)2019-2025
 You may fork &/or copy to your own harddrive if you intend to make improvements and send them back to this repo.
-You may NOT republish/repurpose the entire list (in readme.md, honorable-mention.md, &/or the CSV file) to any other platform.
+You may NOT republish/repurpose the entire list (in readme.md, all.md, &/or the CSV file) to any other platform.
 
 You are free link to this repo, so please share a link in your blog, YouTube channel, Reddit, etc.
 `
