@@ -24,6 +24,7 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
  - [Effect](#effect)
  - [Stylized](#stylized)
  - [Generic](#generic)
+ - [None](#none)
 
 
 ## Ghibli
@@ -93,6 +94,10 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
 
 
 ## Water
+
+ [⏯️ Animated Procedural Water Drops ~ Stylized Schools](https://youtu.be/6hqiBHAHryg)[tutorial,shader] - water on surface.
+
+ [⏯️ Witcher 4 Baked Water Simulation ~ Aziel Arts](https://youtu.be/akHCbIECFX8)[tutorial,animation,physics] - easy realistic looking river.
 
  [⏯️ your first water shader  ~ Stylized Station](https://youtu.be/kXH1-uY0wjY)[tutorial,blueprint] - preview.... refraction, etc.
 
@@ -183,27 +188,31 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
 
 ## Generic
 
- [🏪 Complete AI Toolkit ~ Ludus AI](https://ludusengine.com/)[commercial,asset,c++] ([YouTube](https://www.youtube.com/@LudusAI)) - generate C++ code, 3D models, and functional Blueprints.
+ [⏯️ 10 Awesome Free Plugins ~ Unreal University](https://youtu.be/dmTF57Zwlbc)[demo,msc].
+
+ [⏯️ Learn UE5: Create an Adventure Game ~ Gorka Games](https://youtu.be/4r9TYrQu8QY)[tutorial,beginner] - 2 hours, beginner.
 
  [⏯️🏪 Calysto World 2/Massive World PCG Map Toolkit ~ Michael Simard](https://youtu.be/hHu3mEdT1c8)[tutorial,demo,commercial,environment] ([FAB store](https://www.fab.com/listings/8631308a-67a3-4e20-b3e4-74be19813f77)) - procedural world generation.
 
  [🏪 Surface Forge ~ Arghanion's Puzzlebox](https://www.fab.com/listings/9d27e228-5ee3-4bb5-a4a2-87ba386cb53a)[tool,material] ([video](https://youtu.be/uCbnTOKhyWg)) - surface painter designed for any mesh.
 
- [⏯️ Destroy Actor Node Doesn't Do What you Think ~ Taken Grace](https://youtu.be/aeCNMYpoBQk)[tutorial,c++] - fix memory leak in C++ & Blueprints.
+ [⏯️ adding destruction ~ EODdev](https://www.youtube.com/shorts/XIliGusbLFs?feature=share)[tutorial,asset,asset].
 
  [⏯️ GASP Motion Matching - Improved Hit Effects ~ MakeCodeSimple_Unreal](https://youtu.be/qNWl3NmHCe4)[livestream,blueprint] - improving the custom replicated Hit Effects for Blood or Dust.
 
  [⏯️ Intro to Niagara’s Dynamic Mesh Interface ~ Ghislain Girardot](https://youtu.be/mbH3HLcRt3I)[article,niagara].
 
+ [⏯️ Animation Blueprints for Multiple Characters ~ Zero2GameDev](https://youtu.be/9o3QCmZDL98)[tutorial,blueprint].
+
  [⏯️ GPU Swarm VFX in Unreal Engine with Niagara ~ Ghislain Girardot](https://youtu.be/PFkiUYAhTyQ)[article,niagara] ([earlier part: using shaders & State Machines](https://youtu.be/IYI7agYFOZY)) - uses State Machine.
-
- [⏯️ Animated Procedural Water Drops ~ Stylized Schools](https://youtu.be/6hqiBHAHryg)[tutorial,shader] - water on surface.
-
- [⏯️ Witcher 4 Baked Water Simulation ~ Aziel Arts](https://youtu.be/akHCbIECFX8)[tutorial,animation,physics] - easy realistic looking river.
 
  [🏪 Grid Terrain Generator ~ MadeFun3D](https://www.fab.com/listings/224f16d2-74a6-4f43-a926-c1b3e9db83e3)[commercial,blueprint].
 
  [⏯️ Intro to Custom Niagara Modules ~ PrismaticaDev](https://youtu.be/QCWrRjTdAmI)[tutorial,niagara].
+
+ [⏯️ world generator tool is too powerful ~ Connor "Bluedrake42" Hill](https://youtu.be/Em5Wnch-STk)[demo,commercial,AI] - Polygon World Dash.
+
+ [⏯️ Character Customization!, All 4 Methods ~ Unreal University](https://youtu.be/englZ3fwyUM)[tutorial,asset,msc] - Changing Materials, Change/Add Meshes, Mutable Plugin .
 
  [⏯️ 3d controlled AI video generation ~ Utopai Studios](https://youtu.be/301tJ7HCApk)[commercial,demo,AI] - real-time control over scene composition.
 
@@ -220,6 +229,8 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
  [⏯️ Intro to Flow Maps ~ PrismaticaDev](https://youtu.be/FvbPnndigL4)[tutorial,physics] - alternative to Panners and  effects like oceans, rivers and lakes.
 
  [⏯️ Materials in 6 Levels of Complexity ~ pwnisher](https://youtu.be/iZgbzwBQTPY)[tutorial,tool,material] ([Master Material FAB](https://www.fab.com/listings/95f437fe-024e-455e-ad8e-a14bb1128131)) - fast.
+
+ [⏯️ Bow & Arrow Masterclass ~ Ali Elzoheiry](https://youtu.be/se8gkySUfi4?list=PLNwKK6OwH7eWELWykJv1-P9gVLKAHkWqz)[tutorial,character,animation,msc] ([files](https://www.patreon.com/posts/101931804?collection=1452149)) - 5 parts, long-ish.
 
  [🏪 Prismatiscape Interaction Plugin ~ PrismaticaDev](https://www.fab.com/listings/be1147e5-65b3-43b2-99a6-a3b2ed0d5748)[animation,commercial,shader] ([gumroad](https://prismaticadev.gumroad.com/l/axvvm)) - water/wind,/ground, etc  locally-bound global shader interaction system .
 
@@ -241,10 +252,53 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
 
  [🏪 Interactive Foliage Physics ~ Etherion Designs](https://www.fab.com/listings/fcdb655a-8f79-4a97-994d-3c2140067604)[animation,optimize,c++] ([Pro $$$ version](https://www.fab.com/listings/a3f7729e-c68e-4533-9b51-2106357b2316)) - plants react naturally to footsteps and wind.  very cheap, .
 
+
+## None
+
+ [⏯️ free FAB newsletter ~ Zero2GameDev](https://www.youtube.com/@Zero2GameDev0)[tool,msc] - links to free FAB packs every month.
+
+ [⏯️ C++ Beginners Tutorial series ~ Tony Munoz](https://youtu.be/qsB7fxOJzvI?list=PLjlIN9XAUewh2IL3icBOzqLsqYWQH4dfi)[tutorial,c++] - 8 parts, medium length.
+
+ [🏪 Complete AI Toolkit ~ Ludus AI](https://ludusengine.com/)[commercial,asset,c++] ([YouTube](https://www.youtube.com/@LudusAI)) - generate C++ code, 3D models, and functional Blueprints.
+
+ [⏯️ 2 hour Beginner Masterclass ~ Unreal University](https://youtu.be/TfdyJzkYOD4)[tutorial,msc] - basic controls.
+
+ [⏯️ Destroy Actor Node Doesn't Do What you Think ~ Taken Grace](https://youtu.be/aeCNMYpoBQk)[tutorial,c++] - fix memory leak in C++ & Blueprints.
+
+ [🏪 Revolt Local AI ~ Connor "Bluedrake42" Hill](https://revolt.projectascension.ai/)[tutorial,AI] ([video intro](https://youtu.be/c9rLu8crN4I)) - $20 GUI, needs high-end system.
+
+ [⏯️  ~ Unreal University](https://youtu.be/ZDqX6T1-tA0)[article,msc] - diversion VCS, migrate assets from packs, early playtesting, consistent styles.
+
+ [⏯️ change how you DEBUG ~ Pobato Tutorials](https://youtu.be/pFyMPOnFYwU)[article,c++] - Visual Logger.
+
+ [⏯️ Beginner Mistakes ~ Pobato Tutorials](https://youtu.be/zqK-RVlWyL4)[tutorial,msc] - coding, pipeline, & building tips.
+
+ [⏯️ From Blueprints to C++ ~ Ali Elzoheiry](https://youtu.be/4AdGIPV1Yw4)[tutorial,c++] - 1 hour.
+
+ [🏪 Parkour System ~ ThunderWolf](https://www.patreon.com/posts/parkour-system-0-124568065)[demo,blueprint] ([v2.2 demo](https://youtu.be/XceElLFdKiw)) - jump, climb, hang, etc.
+
+ [⏯️ Vibe code with this MCP ~ AI Oriented Dev](https://youtu.be/ei2gulox9Yo)[tutorial,AI] ([Github](https://github.com/chongdashu/unreal-mcp)) - Blueprints+Scripting | Cursor, Windsurf, Claude.
+
+ [⏯️ use an LLM to write code ~ Connor "Bluedrake42" Hill](https://youtu.be/qCeW0YNg5iw)[tutorial,AI] - Claude Sonnet 3.5 and Cursor.
+
+ [⏯️ Interaction System series ~ Ali Elzoheiry](https://youtu.be/RiGTU96KiIk?list=PLNwKK6OwH7eVj0NU_ImdvPXEmVFyWfd8E)[tutorial,character,c++] ([files on Patreon](https://www.patreon.com/cw/Alizoh)) - interfaces, event dispatchers, actor components, enums, structs, NPC AI, etc.
+
+ [⏯️ local LLM code assistance ~ Chris Ashworth](https://youtu.be/VJ-3Edxp4-c)[tutorial,AI] - Ollama, Continue.dev and Rider.
+
+ [⏯️ Essential C++ Programming Basics ~ Pobato Tutorials](https://youtu.be/VdGpv2IzUAw?list=PLUafV3PKFG2loWC7UjIfTibPqfHaTIIz-)[tutorial,c++] - 23 short vids, focused topics, no fluff.
+
+ [⏯️ Software Design Patterns series ~ Ali Elzoheiry](https://youtu.be/YFtLd-bKl-U?list=PLNwKK6OwH7eVw8SIE9ziJOJMog2eXK-6r)[tutorial,optimize,analysis] ([blog refrence](https://refactoring.guru/design-patterns/observer)) - C++/Blueprints, quality.
+
+ [🏪 Gazing and Focus Effect ~ Coreb Games](https://www.fab.com/listings/e105169d-7b60-49de-b66d-d2651ee2a809)[commercial,msc].
+
+ [⏯️ How to Use C++ ~ Gorka Games](https://youtu.be/HNfpKFER2hI)[tutorial,c++] - 17 minutes.
+
+ [⏯️ UE5 C++ Tutorial ~ Lötwig Fusel](https://youtu.be/nvruYLgjKkk?list=PL-m4pn2uJvXHL5rxdudkhqrSRM5gN43YN&t=157)[tutorial,c++] - long, 15 parts, older.
+
 ---
 ---
 
-*updated: 2025-09-07T02:47:51.086Z, bookmarks listed: 90*
+*updated: 2025-09-08T04:59:37.551Z, bookmarks listed: 115*
 
 
 

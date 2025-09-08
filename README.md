@@ -26,6 +26,7 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
  - [Effect](#effect)
  - [Stylized](#stylized)
  - [Generic](#generic)
+ - [None](#none)
 
 
 ## Ghibli
@@ -76,6 +77,8 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
 
 ## Water
 
+ [⏯️ Witcher 4 Baked Water Simulation ~ Aziel Arts](https://youtu.be/akHCbIECFX8)[tutorial,animation,physics] - easy realistic looking river.
+
 
 ## Effect
 
@@ -98,8 +101,6 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
 
  [⏯️ Simple Stylization Techniques | GDC 2024 ~  Chris Murphy](https://youtu.be/exMzwH7EJUY)[tutorial,blueprint] ([article](https://dev.epicgames.com/community/learning/talks-and-demos/XayP/fortnite-simple-stylization-techniques-in-unreal-engine-5)) - colorized 'fog of war'.
 
- [⏯️ Reroute node ~ pixelfondue](https://www.youtube.com/shorts/dhgI91-Ic90?feature=share)[tutorial,blueprint] ([other shortcuts](https://youtu.be/ke6kcoRqEHw)) - reduce blueprint spaghetti.
-
  [⏯️ many techniques available for Stylized Grass ~ Ghislain Girardot](https://youtu.be/pVKDfZMffpc)[tutorial,Blender,asset,environment].
 
  [⏯️ Materials for Linear Content ~ Unreal Engine](https://youtu.be/C-27tmCzXsE)[livestream,analysis] - various material creation techniques.
@@ -109,7 +110,7 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
 
 ## Generic
 
- [⏯️ Witcher 4 Baked Water Simulation ~ Aziel Arts](https://youtu.be/akHCbIECFX8)[tutorial,animation,physics] - easy realistic looking river.
+ [⏯️ adding destruction ~ EODdev](https://www.youtube.com/shorts/XIliGusbLFs?feature=share)[tutorial,asset,asset].
 
  [⏯️ Intro to Custom Niagara Modules ~ PrismaticaDev](https://youtu.be/QCWrRjTdAmI)[tutorial,niagara].
 
@@ -129,10 +130,23 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
 
  [🏪 Interactive Foliage Physics ~ Etherion Designs](https://www.fab.com/listings/fcdb655a-8f79-4a97-994d-3c2140067604)[animation,optimize,c++] ([Pro $$$ version](https://www.fab.com/listings/a3f7729e-c68e-4533-9b51-2106357b2316)) - plants react naturally to footsteps and wind.  very cheap, .
 
+
+## None
+
+ [⏯️ free FAB newsletter ~ Zero2GameDev](https://www.youtube.com/@Zero2GameDev0)[tool,msc] - links to free FAB packs every month.
+
+ [⏯️ Interaction System series ~ Ali Elzoheiry](https://youtu.be/RiGTU96KiIk?list=PLNwKK6OwH7eVj0NU_ImdvPXEmVFyWfd8E)[tutorial,character,c++] ([files on Patreon](https://www.patreon.com/cw/Alizoh)) - interfaces, event dispatchers, actor components, enums, structs, NPC AI, etc.
+
+ [⏯️ local LLM code assistance ~ Chris Ashworth](https://youtu.be/VJ-3Edxp4-c)[tutorial,AI] - Ollama, Continue.dev and Rider.
+
+ [⏯️ Essential C++ Programming Basics ~ Pobato Tutorials](https://youtu.be/VdGpv2IzUAw?list=PLUafV3PKFG2loWC7UjIfTibPqfHaTIIz-)[tutorial,c++] - 23 short vids, focused topics, no fluff.
+
+ [⏯️ Software Design Patterns series ~ Ali Elzoheiry](https://youtu.be/YFtLd-bKl-U?list=PLNwKK6OwH7eVw8SIE9ziJOJMog2eXK-6r)[tutorial,optimize,analysis] ([blog refrence](https://refactoring.guru/design-patterns/observer)) - C++/Blueprints, quality.
+
 ---
 ---
 
-*updated: 2025-09-07T02:47:51.087Z, bookmarks listed: 33*
+*updated: 2025-09-08T04:59:37.556Z, bookmarks listed: 38*
 
 
 

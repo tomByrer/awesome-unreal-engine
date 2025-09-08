@@ -74,7 +74,8 @@ const STYLE = [
   'water',
   'effect',
   'stylized',
-  'generic', //fall back; if not specific style
+  'generic',
+  'none', //fall back; if not specific style
 ]
 function createMarkdwon(aweArr, isAwesome=false) {
   let md = ""

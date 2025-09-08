@@ -65,21 +65,21 @@
 285,Blueprint Generator Ai,Kibibyte,https://www.fab.com/listings/6aa00d98-0db0-4f13-8950-e21f0a0eda2c,2025-08-14,2025-09-07,,UE5.3+,store,"commercial,asset",stylized,blueprint,,,
 286,3d controlled AI video generation,Utopai Studios,https://youtu.be/301tJ7HCApk,2025-03-28,2025-09-07,,UE5,video,"commercial,demo",generic,AI,real-time control over scene composition,,
 287,Calysto World 2/Massive World PCG Map Toolkit,Michael Simard,https://youtu.be/hHu3mEdT1c8,2025-09-04,2025-09-07,,UE5,"video,store","tutorial,demo,commercial",generic,environment,procedural world generation,FAB store,https://www.fab.com/listings/8631308a-67a3-4e20-b3e4-74be19813f77
-288,Complete AI Toolkit,Ludus AI,https://ludusengine.com/,2025-09-04,2025-09-07,,UE5,store,"commercial,asset",generic,c++,"generate C++ code, 3D models, and functional Blueprints",YouTube,https://www.youtube.com/@LudusAI
-289,Destroy Actor Node Doesn't Do What you Think,Taken Grace,https://youtu.be/aeCNMYpoBQk,2025-08-30,2025-09-07,,UE5,video,tutorial,generic,c++,fix memory leak in C++ & Blueprints,,
+288,Complete AI Toolkit,Ludus AI,https://ludusengine.com/,2025-09-04,2025-09-07,,UE5,store,"commercial,asset",none,c++,"generate C++ code, 3D models, and functional Blueprints",YouTube,https://www.youtube.com/@LudusAI
+289,Destroy Actor Node Doesn't Do What you Think,Taken Grace,https://youtu.be/aeCNMYpoBQk,2025-08-30,2025-09-07,,UE5,video,tutorial,none,c++,fix memory leak in C++ & Blueprints,,
 290,Asset Manager Studio Launcher,master-technology,https://assetmanager.studio/,2025-09-04,2025-09-07,tool,UE5,store,tool,stylized,msc,,video walkthrough,https://youtu.be/PJzLVx0iVGU
 291,Achieve True Color in Unreal Engine: Disabling Tonemapper,Kibibyte,https://youtu.be/mNr5K2tIAg8,2024-11-07,2025-09-07,tutorial,UE5,video,"tutorial,post-process,pre-process",generic,environment,"custom look, LUTs, etc",,
 292,"Individual Foliage Logic [Harvesting, Damage, Particles]",PrismaticaDev,https://youtu.be/6sjc4dqoCF0,2021-10-01,2025-09-07,tutorial,UE5,video,"tutorial,animation,character",generic,blueprint,,,
 293,Long-Form Narrative Workflow,Unreal Engine,https://youtu.be/UVRlNFFBa1o,2025-03-21,2025-09-07,analysis,UE5,video,tutorial,stylized,msc,Steamroller Animation 2D cartoon,,
 294,Easy Stylized Grass,Aziel Arts,https://youtu.be/pPNsGrfuaCc,2024-05-20,2025-09-07,,UE5,video,tutorial,stylized,asset,,,
-295,Witcher 4 Baked Water Simulation,Aziel Arts,https://youtu.be/akHCbIECFX8,2025-07-17,2025-09-07,tutorial,UE5.6,video,"tutorial,animation",generic,physics,easy realistic looking river,,
+295,Witcher 4 Baked Water Simulation,Aziel Arts,https://youtu.be/akHCbIECFX8,2025-07-17,2025-09-07,tutorial,UE5.6,video,"tutorial,animation",water,physics,easy realistic looking river,,
 296,Grid Terrain Generator,MadeFun3D,https://www.fab.com/listings/224f16d2-74a6-4f43-a926-c1b3e9db83e3,2025-06-21,2025-09-07,,UE5,store,commercial,generic,blueprint,,,
 297,stylized GHIBLI inspired TREE,GraphicLine Games,https://youtu.be/yXz7JXfe4sM,2025-05-05,2025-09-07,,UE5,video,"tutorial,Blender",Ghibli,asset,,,
 298,Advanced Cel Shader,Pitchfork Academy,https://youtu.be/HDyswSWIdY0,2025-01-07,2025-09-07,tutorial,UE5,video,tutorial,cartoon,material,,,
 299,Hologram And Glitch Effects,Pitchfork Academy,https://youtu.be/LOKYUgfZI6Y,2025-01-12,2025-09-07,,UE5,video,tutorial,scifi,material,"see-through, scan lines, glitch",,
 300,I Nailed the Anime Look,SILKROAD Project,https://youtu.be/nyRcPMOpxcI,2025-07-07,2025-09-07,tutorial,UE5,video,"optimize,Houdini ,character",anime,asset,"outline & shadows part of UV, not filter",,
 301,Lighting Stylized Assets,Stylized Schools,https://youtu.be/4x8F6wxtquM,2025-06-24,2025-09-07,,UE5,video,asset,stylized,msc,,,
-302,Animated Procedural Water Drops,Stylized Schools,https://youtu.be/6hqiBHAHryg,2025-08-05,2025-09-07,,UE5,video,tutorial,generic,shader,water on surface,,
+302,Animated Procedural Water Drops,Stylized Schools,https://youtu.be/6hqiBHAHryg,2025-08-05,2025-09-07,,UE5,video,tutorial,water,shader,water on surface,,
 303,MeshBlend,Tore Lervik,https://www.fab.com/listings/1f4abe73-4cda-42db-995a-c9f8ca4790e5,2025-09-04,2025-09-07,,UE5,store,,stylized,msc,controllable blending of meshes,,
 304,Blending Objects into Landscapes,Mohammad Solei,https://youtu.be/GSJFuoerkaw,2024-02-22,2025-09-07,,UE5,video,tutorial,generic,environment,Runtime Virtual Texture,,
 305,many techniques available for Stylized Grass,Ghislain Girardot,https://youtu.be/pVKDfZMffpc,2023-04-03,2025-09-07,course,UE5,video,"tutorial,Blender,asset",stylized,environment,,,
@@ -88,4 +88,29 @@
 309,stylized pink clouds,Shadows Uncovered,https://youtu.be/adpcECwt3ac,2022-09-29,2025-09-07,,UE4,video,tutorial,stylized,asset,,,
 310,BEST 3D TREE in anime STYLE,GraphicLine Games,https://youtu.be/kI8pSj-9Xxw,2025-01-13,2025-09-07,tutorial,UE5,video,tutorial,Ghibli,asset,,,
 311,watercolor SHADER in BLENDER,GraphicLine Games,https://youtu.be/gaO_27QRpUY,2025-06-30,2025-09-07,,Blender,video,"tutorial,Blender",stylized,shader,,,
-312,Reroute node,pixelfondue,https://www.youtube.com/shorts/dhgI91-Ic90?feature=share,2023-09-05,2025-09-07,tutorial,UE5,video,tutorial,stylized,blueprint,reduce blueprint spaghetti,other shortcuts,https://youtu.be/ke6kcoRqEHw
+312,Reroute node,pixelfondue,https://www.youtube.com/shorts/dhgI91-Ic90?feature=share,2023-09-05,2025-09-07,,UE5,video,tutorial,stylized,blueprint,reduce blueprint spaghetti,other shortcuts,https://youtu.be/ke6kcoRqEHw
+315,,Unreal University,https://youtu.be/ZDqX6T1-tA0,2025-08-03,2025-09-07,,"UE4,UE5",video,article,none,msc,"diversion VCS, migrate assets from packs, early playtesting, consistent styles",,
+316,2 hour Beginner Masterclass,Unreal University,https://youtu.be/TfdyJzkYOD4,2025-09-03,2025-09-08,,UE5.6,video,tutorial,none,msc,basic controls,,
+317,10 Awesome Free Plugins,Unreal University,https://youtu.be/dmTF57Zwlbc,2026-05-01,2025-09-07,,UE5,video,demo,generic,msc,,,
+318,world generator tool is too powerful,"Connor ""Bluedrake42"" Hill",https://youtu.be/Em5Wnch-STk,2025-04-09,2025-09-07,,UE5,video,"demo,commercial",generic,AI,Polygon World Dash,,
+319,adding destruction,EODdev,https://www.youtube.com/shorts/XIliGusbLFs?feature=share,2025-09-01,2025-09-07,article,UE5,video,"tutorial,asset",generic,asset,,,
+320,"Character Customization!, All 4 Methods",Unreal University,https://youtu.be/englZ3fwyUM,2025-04-04,2025-09-07,,UE5,video,"tutorial,asset",generic,msc,"Changing Materials, Change/Add Meshes, Mutable Plugin ",,
+321,Parkour System,ThunderWolf,https://www.patreon.com/posts/parkour-system-0-124568065,2025-05-01,2025-09-08,,UE5,store,demo,none,blueprint,"jump, climb, hang, etc",v2.2 demo,https://youtu.be/XceElLFdKiw
+322,Gazing and Focus Effect,Coreb Games,https://www.fab.com/listings/e105169d-7b60-49de-b66d-d2651ee2a809,2024-08-09,2025-09-08,,UE5,store,commercial,none,msc,,,
+323,How to Use C++,Gorka Games,https://youtu.be/HNfpKFER2hI,2022-12-26,2025-09-08,,UE5,video,tutorial,none,c++,17 minutes,,
+324,UE5 C++ Tutorial,Lötwig Fusel,https://youtu.be/nvruYLgjKkk?list=PL-m4pn2uJvXHL5rxdudkhqrSRM5gN43YN&t=157,2021-12-29,2025-09-08,,UE5,video,tutorial,none,c++,"long, 15 parts, older",,
+325,From Blueprints to C++,Ali Elzoheiry,https://youtu.be/4AdGIPV1Yw4,2025-05-23,2025-09-08,,UE5,video,tutorial,none,c++,1 hour,,
+326,Software Design Patterns series,Ali Elzoheiry,https://youtu.be/YFtLd-bKl-U?list=PLNwKK6OwH7eVw8SIE9ziJOJMog2eXK-6r,2024-08-14,2025-09-08,course,UE5,video,"tutorial,optimize",none,analysis,"C++/Blueprints, quality",blog refrence,https://refactoring.guru/design-patterns/observer
+327,Interaction System series,Ali Elzoheiry,https://youtu.be/RiGTU96KiIk?list=PLNwKK6OwH7eVj0NU_ImdvPXEmVFyWfd8E,2025-02-27,2025-09-08,course,UE5,video,"tutorial,character",none,c++,"interfaces, event dispatchers, actor components, enums, structs, NPC AI, etc",files on Patreon,https://www.patreon.com/cw/Alizoh
+328,Essential C++ Programming Basics,Pobato Tutorials,https://youtu.be/VdGpv2IzUAw?list=PLUafV3PKFG2loWC7UjIfTibPqfHaTIIz-,2024-09-04,2025-09-08,tutorial,UE5,video,tutorial,none,c++,"23 short vids, focused topics, no fluff",,
+329,Beginner Mistakes,Pobato Tutorials,https://youtu.be/zqK-RVlWyL4,2025-06-18,2025-09-08,,UE5,video,tutorial,none,msc,"coding, pipeline, & building tips",,
+330,change how you DEBUG,Pobato Tutorials,https://youtu.be/pFyMPOnFYwU,2025-07-18,2025-09-08,,UE5,video,article,none,c++,Visual Logger,,
+331,C++ Beginners Tutorial series,Tony Munoz,https://youtu.be/qsB7fxOJzvI?list=PLjlIN9XAUewh2IL3icBOzqLsqYWQH4dfi,2025-09-06,2025-09-08,,UE5,video,tutorial,none,c++,"8 parts, medium length",,
+332,local LLM code assistance,Chris Ashworth,https://youtu.be/VJ-3Edxp4-c,2025-02-21,2025-09-08,tool,UE5,video,tutorial,none,AI,"Ollama, Continue.dev and Rider",,
+333,use an LLM to write code,"Connor ""Bluedrake42"" Hill",https://youtu.be/qCeW0YNg5iw,2025-03-13,2025-09-08,,UE5,video,tutorial,none,AI,Claude Sonnet 3.5 and Cursor,,
+334,Revolt Local AI,"Connor ""Bluedrake42"" Hill",https://revolt.projectascension.ai/,2025-08-12,2025-09-08,,UE5,store,tutorial,none,AI,"$20 GUI, needs high-end system",video intro,https://youtu.be/c9rLu8crN4I
+335,Vibe code with this MCP,AI Oriented Dev,https://youtu.be/ei2gulox9Yo,2025-04-04,2025-09-08,,UE5,video,tutorial,none,AI,"Blueprints+Scripting | Cursor, Windsurf, Claude",Github,https://github.com/chongdashu/unreal-mcp
+336,Learn UE5: Create an Adventure Game,Gorka Games,https://youtu.be/4r9TYrQu8QY,2025-09-06,2025-09-07,,UE5,video,tutorial,generic,beginner,"2 hours, beginner",,
+337,free FAB newsletter,Zero2GameDev,https://www.youtube.com/@Zero2GameDev0,2025-09-06,2025-09-08,tool,UE5,video,tool,none,msc,links to free FAB packs every month,,
+338,Animation Blueprints for Multiple Characters,Zero2GameDev,https://youtu.be/9o3QCmZDL98,2025-08-18,2025-09-08,,UE5,video,tutorial,generic,blueprint,,,
+339,Bow & Arrow Masterclass,Ali Elzoheiry,https://youtu.be/se8gkySUfi4?list=PLNwKK6OwH7eWELWykJv1-P9gVLKAHkWqz,2024-04-08,2025-09-08,,UE5,video,"tutorial,character,animation",generic,msc,"5 parts, long-ish",files,https://www.patreon.com/posts/101931804?collection=1452149
