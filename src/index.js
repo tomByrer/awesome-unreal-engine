@@ -31,12 +31,12 @@ function getIconFormat(format){
 //     return ``
 //   }
 // }
-function getHeader(header){
+function getHeader(header, indent=1){
   header = (header === null) ? 'styleless' : header
   const headerCapCase = header.charAt(0).toUpperCase() + header.slice(1)
   return{
-    tocHeader: `\n - [${headerCapCase}](#${header})`,
-    mdHeader: `\n\n\n## ${headerCapCase}`,
+    tocHeader: `\n${' '.repeat(indent*2 -1)}- [${headerCapCase}](#${header})`,
+    mdHeader: `\n\n\n#${'#'.repeat(indent)} ${headerCapCase}`,
   }
 }
 function getBookmark(bm){
@@ -77,48 +77,116 @@ const STYLE = [
   'generic',
   'none', //fall back; if not specific style
 ]
+const S2 = {
+  'Stylized Art': {
+    about: '"Stylized" in games is a off-realistic, more minimal interpretation, though sometimes (eg with characters) may be exaggerated.',
+    list: [
+      'Ghibli',
+      'anime',
+      'comic',
+      'cartoon',
+      'pixelized',
+      'Zelda',
+      'Fortnite',
+      'stylized'
+    ]
+  },
+  'Other Styles': {
+    about: 'More interesting Unreal Engine links.',
+    list: [
+      'scifi',
+      'water',
+      'effect',
+      'generic'
+    ]
+  },
+  'Programming': {
+    about: "Miscellaneous programming topics that don't directly apply to any art style.",
+    list: [
+      //TODO: sub-topic language
+      'none'
+    ],
+    'lang': {
+      about: "Focus",
+      list: [  // general to specific
+        "beginner",
+        "analysis",
+        "Ai",
+        "environment",
+        "asset",
+        "physics",
+        "shader",
+        "gradient",
+        "material",
+        "niagara",
+        "blueprint",
+        "c++",
+        "msc" // fall back
+      ]
+    }
+  } //Programming
+}
+
 function createMarkdwon(aweArr, isAwesome=false) {
   let md = ""
   let toc = `\n## Contents\n`
-  let headerNow = ""
-  let currentRow = {}
-  let count = 0
-  const uniqueURLs = new Set()
-  let uURLsSize = 0
-
-  for (let h=0; h < STYLE.length; h++) {
-    headerNow = STYLE[h]
-    const { tocHeader, mdHeader } = getHeader(headerNow)
+  let headerNow = {}
+  let tempList = [] // inner loop
+  let bmRow = {} // BookMark item
+  let listNow = '' // smallest topic
+  let itemNow = '' // bookmark item topic
+  const S2keys = Object.keys(S2)
+  const S2len = S2keys.length
+  // duplicate checker removed for now
+  // let count = 0
+  // const uniqueURLs = new Set()
+  // let uURLsSize = 0
+  for (let h=0; h < S2len; h++) {
+    headerNow = S2[ S2keys[h] ]
+    const { tocHeader, mdHeader } = getHeader(S2keys[h])
     toc += tocHeader
     md += mdHeader
 
-    for (let i=0; i < aweArr.length; i++) {
-      currentRow = aweArr[i]
-      if (!isAwesome || (isAwesome && currentRow.header)){
-        if (headerNow === currentRow.style) {
-          uniqueURLs.add(currentRow.url)
-          console.log(uniqueURLs.size)
-          if ( uniqueURLs.size === (uURLsSize + 1) ){
-            uURLsSize++
-            md += getBookmark(currentRow)
-            count++
-          }
-          else {
-            console.error('duplicate:', currentRow.url)
+    tempList = (headerNow.lang) ? headerNow.lang.list : headerNow.list
+  // console.log(tempList)
+    const listlen = tempList.length
+    for (let l=0; l < listlen; l++) {
+      listNow = tempList[l]
+      // console.log(l, listNow)
+      const { tocHeader, mdHeader } = getHeader(listNow, 2)
+      toc += tocHeader
+      md += mdHeader
+
+      // bookmark Items
+      for (let i=0; i < aweArr.length; i++) {
+        bmRow = aweArr[i]
+        if (!isAwesome || (isAwesome && bmRow.header)){
+          itemNow = (headerNow.lang) ? bmRow.lang : bmRow.style
+          if (listNow === itemNow ) {
+            // uniqueURLs.add(bmRow.url)
+            // // console.log(uniqueURLs.size)
+            // if ( uniqueURLs.size === (uURLsSize + 1) ){
+            //   uURLsSize++
+              md += getBookmark(bmRow)
+            //   count++
+            // }
+            // else {
+            //   console.error('duplicate:', bmRow.url)
+            // }
           }
         }
-      }
+      }//Items
     }
   }
+// console.log(toc, md)
   console.log(
     'all length:', aweArr.length-1, //- header
-    'count', count,
-    'uniqueURLs', uniqueURLs.size
+    // 'count', count,
+    // 'uniqueURLs', uniqueURLs.size
   )
 
-  return toc + md + getFooter(count)
+  return toc + md// + getFooter(count)
 }
-
 
 // main
 let csvRows = []

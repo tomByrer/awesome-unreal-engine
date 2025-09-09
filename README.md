@@ -14,22 +14,40 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
 
 ## Contents
 
- - [Ghibli](#Ghibli)
- - [Anime](#anime)
- - [Comic](#comic)
- - [Cartoon](#cartoon)
- - [Pixelized](#pixelized)
- - [Zelda](#Zelda)
- - [Fortnite](#Fortnite)
- - [Scifi](#scifi)
- - [Water](#water)
- - [Effect](#effect)
- - [Stylized](#stylized)
- - [Generic](#generic)
- - [None](#none)
+ - [Stylized Art](#Stylized Art)
+   - [Ghibli](#Ghibli)
+   - [Anime](#anime)
+   - [Comic](#comic)
+   - [Cartoon](#cartoon)
+   - [Pixelized](#pixelized)
+   - [Zelda](#Zelda)
+   - [Fortnite](#Fortnite)
+   - [Stylized](#stylized)
+ - [Other Styles](#Other Styles)
+   - [Scifi](#scifi)
+   - [Water](#water)
+   - [Effect](#effect)
+   - [Generic](#generic)
+ - [Programming](#Programming)
+   - [Beginner](#beginner)
+   - [Analysis](#analysis)
+   - [Ai](#Ai)
+   - [Environment](#environment)
+   - [Asset](#asset)
+   - [Physics](#physics)
+   - [Shader](#shader)
+   - [Gradient](#gradient)
+   - [Material](#material)
+   - [Niagara](#niagara)
+   - [Blueprint](#blueprint)
+   - [C++](#c++)
+   - [Msc](#msc)
 
 
-## Ghibli
+## Stylized Art
+
+
+### Ghibli
 
  [⏯️🏪 Ghibli-Inspired Stylized meadow ~ GraphicLine Games](https://youtu.be/2VRZrm3eCEs)[asset,blueprint] ([course files; can donate $0](https://graphicline.gumroad.com/l/opjhs)) - FULL COURSE 2.20 hours.
 
@@ -38,12 +56,12 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
  [⏯️ BEST 3D TREE in anime STYLE ~ GraphicLine Games](https://youtu.be/kI8pSj-9Xxw)[tutorial,asset].
 
 
-## Anime
+### Anime
 
  [⏯️ I Nailed the Anime Look ~ SILKROAD Project](https://youtu.be/nyRcPMOpxcI)[optimize,Houdini ,character,asset] - outline & shadows part of UV, not filter.
 
 
-## Comic
+### Comic
 
  [⏯️ Physically Based Cel Shading ~ Visual Tech Art](https://youtu.be/eBS3BOI5KnM)[tutorial,pre-process,blueprint] - Physically Based pipeline.
 
@@ -52,42 +70,27 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
  [⏯️ Moebius-style 3D Rendering ~ Useless Game Dev](https://youtu.be/jlKNOirh66E)[tutorial,pre-process,post-process,shader] - Sorbel filter on depth map, crosshatch, fader, etc.
 
 
-## Cartoon
+### Cartoon
 
  [⏯️ Advanced Cel Shader ~ Pitchfork Academy](https://youtu.be/HDyswSWIdY0)[tutorial,material].
 
  [⏯️ Real-time animation on ‘War Is Over!’ ~ Unreal Engine](https://youtu.be/0x2yPI5Alms)[article,analysis] - the creative process behind the making animation.
 
 
-## Pixelized
+### Pixelized
 
 
-## Zelda
+### Zelda
 
  [⏯️ Large Scale PCG Tutorial with Gaea Maps ~ Aziel Arts](https://youtu.be/ElpH2AA4Nzc)[tutorial,environment] - Zelda-inspired landscape using Procedural Content Generation.
 
 
-## Fortnite
+### Fortnite
 
  [⏯️ UNDERSTAND and RECREATE a Fortnite-like Landscape Material ~ Imphenzia](https://youtu.be/W6VZcyKU_Nk)[tutorial,asset,Blender,environment].
 
 
-## Scifi
-
-
-## Water
-
- [⏯️ Witcher 4 Baked Water Simulation ~ Aziel Arts](https://youtu.be/akHCbIECFX8)[tutorial,animation,physics] - easy realistic looking river.
-
-
-## Effect
-
- [⏯️ Kawaii Physics-Hidden Physics Engine ~ Cobra Code](https://youtu.be/9ThmoMHnHhw)[tutorial,physics] ([KawaiiPhysics  repo](https://github.com/pafuhana1213/KawaiiPhysics)) - stylized hair & clothes physics.
-
- [⏯️ 10 EFFECTS in 10 MINUTES ~ Gabriel Aguiar Prod](https://www.youtube.com/shorts/jagvNDg7Iaw?feature=share)[tutorial,niagara] - Lightning, Rain, Heal, Loot Drop, Portal, Meteor Rain, Flamethrower, Muzzle Flash, Explosion & Projectile.
-
-
-## Stylized
+### Stylized
 
  [🏪 Asset Manager Studio Launcher ~ master-technology](https://assetmanager.studio/)[tool,msc] ([video walkthrough](https://youtu.be/PJzLVx0iVGU)).
 
@@ -108,7 +111,25 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
  [⏯️ Environment Art Breakdown ~ Stylized Station](https://youtu.be/SonheTAwcUI)[tutorial,Blender,environment] - by Melissa Perl.
 
 
-## Generic
+## Other Styles
+
+
+### Scifi
+
+
+### Water
+
+ [⏯️ Witcher 4 Baked Water Simulation ~ Aziel Arts](https://youtu.be/akHCbIECFX8)[tutorial,animation,physics] - easy realistic looking river.
+
+
+### Effect
+
+ [⏯️ Kawaii Physics-Hidden Physics Engine ~ Cobra Code](https://youtu.be/9ThmoMHnHhw)[tutorial,physics] ([KawaiiPhysics  repo](https://github.com/pafuhana1213/KawaiiPhysics)) - stylized hair & clothes physics.
+
+ [⏯️ 10 EFFECTS in 10 MINUTES ~ Gabriel Aguiar Prod](https://www.youtube.com/shorts/jagvNDg7Iaw?feature=share)[tutorial,niagara] - Lightning, Rain, Heal, Loot Drop, Portal, Meteor Rain, Flamethrower, Muzzle Flash, Explosion & Projectile.
+
+
+### Generic
 
  [⏯️ adding destruction ~ EODdev](https://www.youtube.com/shorts/XIliGusbLFs?feature=share)[tutorial,asset,asset].
 
@@ -131,23 +152,120 @@ Please use the [Link Suggestion Form]() to add an URL to this list.  To fix some
  [🏪 Interactive Foliage Physics ~ Etherion Designs](https://www.fab.com/listings/fcdb655a-8f79-4a97-994d-3c2140067604)[animation,optimize,c++] ([Pro $$$ version](https://www.fab.com/listings/a3f7729e-c68e-4533-9b51-2106357b2316)) - plants react naturally to footsteps and wind.  very cheap, .
 
 
-## None
+## Programming
 
- [⏯️ free FAB newsletter ~ Zero2GameDev](https://www.youtube.com/@Zero2GameDev0)[tool,msc] - links to free FAB packs every month.
 
- [⏯️ Interaction System series ~ Ali Elzoheiry](https://youtu.be/RiGTU96KiIk?list=PLNwKK6OwH7eVj0NU_ImdvPXEmVFyWfd8E)[tutorial,character,c++] ([files on Patreon](https://www.patreon.com/cw/Alizoh)) - interfaces, event dispatchers, actor components, enums, structs, NPC AI, etc.
+### Beginner
 
- [⏯️ local LLM code assistance ~ Chris Ashworth](https://youtu.be/VJ-3Edxp4-c)[tutorial,AI] - Ollama, Continue.dev and Rider.
+ [⏯️ UE5 Starter Course ~ Unreal Sensei](https://youtu.be/k-zMkzmduqI)[tutorial,beginner] ([assets](https://www.unrealsensei.com/asset/ue5beginner)) -  tutorial for everything in '22, including nanite & lumen.
 
- [⏯️ Essential C++ Programming Basics ~ Pobato Tutorials](https://youtu.be/VdGpv2IzUAw?list=PLUafV3PKFG2loWC7UjIfTibPqfHaTIIz-)[tutorial,c++] - 23 short vids, focused topics, no fluff.
+
+### Analysis
+
+ [⏯️ Real-time animation on ‘War Is Over!’ ~ Unreal Engine](https://youtu.be/0x2yPI5Alms)[article,analysis] - the creative process behind the making animation.
 
  [⏯️ Software Design Patterns series ~ Ali Elzoheiry](https://youtu.be/YFtLd-bKl-U?list=PLNwKK6OwH7eVw8SIE9ziJOJMog2eXK-6r)[tutorial,optimize,analysis] ([blog refrence](https://refactoring.guru/design-patterns/observer)) - C++/Blueprints, quality.
 
----
----
+ [⏯️ Materials for Linear Content ~ Unreal Engine](https://youtu.be/C-27tmCzXsE)[livestream,analysis] - various material creation techniques.
 
-*updated: 2025-09-08T04:59:37.556Z, bookmarks listed: 38*
+ [⏯️ how grass works in Ghost of Tsushima ~ Stylized Station](https://youtu.be/G8HH_pMKOhk)[article,analysis] ([source of talk: Eric Wohllaib](https://youtu.be/Ibe1JBF5i5Y)).
 
+
+### Ai
+
+
+### Environment
+
+ [⏯️ Achieve True Color in Unreal Engine: Disabling Tonemapper ~ Kibibyte](https://youtu.be/mNr5K2tIAg8)[tutorial,post-process,pre-process,environment] - custom look, LUTs, etc.
+
+ [⏯️ Low Poly open world w/free assets ~  Dutchmangames](https://youtu.be/cjQKbGsWT-M)[demo,tutorial,environment] ([part 2](https://youtu.be/I-xgz0GNanw)) - place prefabs for beginners.
+
+ [⏯️ Game Environment ~ Stylized Station](https://youtu.be/1C81K60KTtc)[tutorial,environment] - sculpt, texture, lighting.
+
+ [⏯️ Large Scale PCG Tutorial with Gaea Maps ~ Aziel Arts](https://youtu.be/ElpH2AA4Nzc)[tutorial,environment] - Zelda-inspired landscape using Procedural Content Generation.
+
+ [⏯️ UNDERSTAND and RECREATE a Fortnite-like Landscape Material ~ Imphenzia](https://youtu.be/W6VZcyKU_Nk)[tutorial,asset,Blender,environment].
+
+ [⏯️ many techniques available for Stylized Grass ~ Ghislain Girardot](https://youtu.be/pVKDfZMffpc)[tutorial,Blender,asset,environment].
+
+ [⏯️ Environment Art Breakdown ~ Stylized Station](https://youtu.be/SonheTAwcUI)[tutorial,Blender,environment] - by Melissa Perl.
+
+
+### Asset
+
+ [⏯️ adding destruction ~ EODdev](https://www.youtube.com/shorts/XIliGusbLFs?feature=share)[tutorial,asset,asset].
+
+ [⏯️ I Nailed the Anime Look ~ SILKROAD Project](https://youtu.be/nyRcPMOpxcI)[optimize,Houdini ,character,asset] - outline & shadows part of UV, not filter.
+
+ [⏯️🏪 AAA Ghibli Forest in Blender & Unreal ~ ShinGidora](https://youtu.be/2Lu2VBG1JE0)[tutorial,demo,Blender,asset] - good tips, though is promotion for his TREEBOX commercial script.
+
+ [⏯️ Trees – Blender to UE5 Workflow ~ selsner](https://www.youtube.com/shorts/yWyc14-6sog?feature=share)[tutorial,asset] - blob-less, recomputed, short.
+
+ [⏯️ BEST 3D TREE in anime STYLE ~ GraphicLine Games](https://youtu.be/kI8pSj-9Xxw)[tutorial,asset].
+
+
+### Physics
+
+ [⏯️ Witcher 4 Baked Water Simulation ~ Aziel Arts](https://youtu.be/akHCbIECFX8)[tutorial,animation,physics] - easy realistic looking river.
+
+ [⏯️ Kawaii Physics-Hidden Physics Engine ~ Cobra Code](https://youtu.be/9ThmoMHnHhw)[tutorial,physics] ([KawaiiPhysics  repo](https://github.com/pafuhana1213/KawaiiPhysics)) - stylized hair & clothes physics.
+
+
+### Shader
+
+ [⏯️ Character and Object Foliage Interaction ~ Arghanion's Puzzlebox](https://youtu.be/za6ffTin5GQ)[tutorial,optimize,shader] ([free foliage tools](https://www.patreon.com/posts/118145659?pr=true)) - cheap; no bones.
+
+ [⏯️ Moebius-style 3D Rendering ~ Useless Game Dev](https://youtu.be/jlKNOirh66E)[tutorial,pre-process,post-process,shader] - Sorbel filter on depth map, crosshatch, fader, etc.
+
+
+### Gradient
+
+
+### Material
+
+ [⏯️ Advanced Cel Shader ~ Pitchfork Academy](https://youtu.be/HDyswSWIdY0)[tutorial,material].
+
+ [⏯️ Materials in 6 Levels of Complexity ~ pwnisher](https://youtu.be/iZgbzwBQTPY)[tutorial,tool,material] ([Master Material FAB](https://www.fab.com/listings/95f437fe-024e-455e-ad8e-a14bb1128131)) - fast.
+
+
+### Niagara
+
+ [⏯️ Intro to Custom Niagara Modules ~ PrismaticaDev](https://youtu.be/QCWrRjTdAmI)[tutorial,niagara].
+
+ [⏯️ 10 EFFECTS in 10 MINUTES ~ Gabriel Aguiar Prod](https://www.youtube.com/shorts/jagvNDg7Iaw?feature=share)[tutorial,niagara] - Lightning, Rain, Heal, Loot Drop, Portal, Meteor Rain, Flamethrower, Muzzle Flash, Explosion & Projectile.
+
+
+### Blueprint
+
+ [⏯️🏪 Ghibli-Inspired Stylized meadow ~ GraphicLine Games](https://youtu.be/2VRZrm3eCEs)[asset,blueprint] ([course files; can donate $0](https://graphicline.gumroad.com/l/opjhs)) - FULL COURSE 2.20 hours.
+
+ [⏯️ Optimizing Foliage with WPO Disable Distance ~ PrismaticaDev](https://youtu.be/4UJp4iB53qs)[tutorial,optimize,blueprint] - reduce CPU/GPU for distant vegetation .
+
+ [⏯️ Physically Based Cel Shading ~ Visual Tech Art](https://youtu.be/eBS3BOI5KnM)[tutorial,pre-process,blueprint] - Physically Based pipeline.
+
+ [⏯️ stylized comic book shader ~ Chris Folea Makes Things](https://youtu.be/Ctx1TP0XDUM)[pre-process,blueprint] - WITHOUT post processing.
+
+ [⏯️ Simple Stylization Techniques | GDC 2024 ~  Chris Murphy](https://youtu.be/exMzwH7EJUY)[tutorial,blueprint] ([article](https://dev.epicgames.com/community/learning/talks-and-demos/XayP/fortnite-simple-stylization-techniques-in-unreal-engine-5)) - colorized 'fog of war'.
+
+ [⏯️ Individual Foliage Logic [Harvesting, Damage, Particles] ~ PrismaticaDev](https://youtu.be/6sjc4dqoCF0)[tutorial,animation,character,blueprint].
+
+
+### C++
+
+ [⏯️ Interaction System series ~ Ali Elzoheiry](https://youtu.be/RiGTU96KiIk?list=PLNwKK6OwH7eVj0NU_ImdvPXEmVFyWfd8E)[tutorial,character,c++] ([files on Patreon](https://www.patreon.com/cw/Alizoh)) - interfaces, event dispatchers, actor components, enums, structs, NPC AI, etc.
+
+ [⏯️ Essential C++ Programming Basics ~ Pobato Tutorials](https://youtu.be/VdGpv2IzUAw?list=PLUafV3PKFG2loWC7UjIfTibPqfHaTIIz-)[tutorial,c++] - 23 short vids, focused topics, no fluff.
+
+ [🏪 Interactive Foliage Physics ~ Etherion Designs](https://www.fab.com/listings/fcdb655a-8f79-4a97-994d-3c2140067604)[animation,optimize,c++] ([Pro $$$ version](https://www.fab.com/listings/a3f7729e-c68e-4533-9b51-2106357b2316)) - plants react naturally to footsteps and wind.  very cheap, .
+
+
+### Msc
+
+ [⏯️ free FAB newsletter ~ Zero2GameDev](https://www.youtube.com/@Zero2GameDev0)[tool,msc] - links to free FAB packs every month.
+
+ [🏪 Asset Manager Studio Launcher ~ master-technology](https://assetmanager.studio/)[tool,msc] ([video walkthrough](https://youtu.be/PJzLVx0iVGU)).
+
+ [⏯️ Long-Form Narrative Workflow ~ Unreal Engine](https://youtu.be/UVRlNFFBa1o)[tutorial,msc] - Steamroller Animation 2D cartoon.
 
 
 ## Also by Author
