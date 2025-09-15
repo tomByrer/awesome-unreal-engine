@@ -78,7 +78,7 @@ const STYLE = [
   'none', //fall back; if not specific style
 ]
 const S2 = {
-  'Stylized Art': {
+  'Stylized-Art': {
     about: '"Stylized" in games is a off-realistic, more minimal interpretation, though sometimes (eg with characters) may be exaggerated.',
     list: [
       'Ghibli',
@@ -91,7 +91,7 @@ const S2 = {
       'stylized'
     ]
   },
-  'Other Styles': {
+  'Other-Styles': {
     about: 'More interesting Unreal Engine links.',
     list: [
       'scifi',
