@@ -41,12 +41,12 @@ function getHeader(header, indent=1){
 }
 function getBookmark(bm, isLangSorted){
   let md = '\n\n [' + getIconFormat(bm.format)
-  let tags = '['
+  let tags = ' ['
   md += `${bm.title} ~ ${bm.author}](${bm.url})`
   // md += listTags(bm, bm.topics, bm.lang)
   tags += bm.topics
   tags += (isLangSorted) ? '' : ','+ bm.lang
-  md += (tags === '[') ? '' : tags +']'
+  md += (tags === ' [') ? '' : tags.replace('[,', '[') +']'
   if (bm.urlOther) {
     md += ` ([${bm.urlOtherTitle}](${bm.urlOther}))`
   }
