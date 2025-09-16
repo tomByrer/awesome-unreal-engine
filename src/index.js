@@ -39,11 +39,14 @@ function getHeader(header, indent=1){
     mdHeader: `\n\n\n#${'#'.repeat(indent)} ${headerCapCase}`,
   }
 }
-function getBookmark(bm){
+function getBookmark(bm, isLangSorted){
   let md = '\n\n [' + getIconFormat(bm.format)
+  let tags = '['
   md += `${bm.title} ~ ${bm.author}](${bm.url})`
   // md += listTags(bm, bm.topics, bm.lang)
-  md += '['+ bm.topics +','+ bm.lang + ']'
+  tags += bm.topics
+  tags += (isLangSorted) ? '' : ','+ bm.lang
+  md += (tags === '[') ? '' : tags +']'
   if (bm.urlOther) {
     md += ` ([${bm.urlOtherTitle}](${bm.urlOther}))`
   }
@@ -62,21 +65,6 @@ function getFooter(count){
 `
 }
 
-const STYLE = [
-  'Ghibli',
-  'anime',
-  'comic',
-  'cartoon',
-  'pixelized',
-  'Zelda',
-  'Fortnite',
-  'scifi',
-  'water',
-  'effect',
-  'stylized',
-  'generic',
-  'none', //fall back; if not specific style
-]
 const S2 = {
   'Stylized-Art': {
     about: '"Stylized" in games is a off-realistic, more minimal interpretation, though sometimes (eg with characters) may be exaggerated.',
@@ -127,7 +115,7 @@ const S2 = {
   } //Programming
 }
 
-function createMarkdwon(aweArr, isAwesome=false) {
+function createMarkdown(aweArr, isAwesome=false) {
   let md = ""
   let toc = `\n## Contents\n`
   let headerNow = {}
@@ -158,16 +146,18 @@ function createMarkdwon(aweArr, isAwesome=false) {
       md += mdHeader
 
       // bookmark Items
+      let isLangSorted = false;
       for (let i=0; i < aweArr.length; i++) {
         bmRow = aweArr[i]
         if (!isAwesome || (isAwesome && bmRow.header)){
-          itemNow = (headerNow.lang) ? bmRow.lang : bmRow.style
+          isLangSorted = !!headerNow.lang
+          itemNow = (isLangSorted) ? bmRow.lang : bmRow.style
           if (listNow === itemNow ) {
             // uniqueURLs.add(bmRow.url)
             // // console.log(uniqueURLs.size)
             // if ( uniqueURLs.size === (uURLsSize + 1) ){
             //   uURLsSize++
-              md += getBookmark(bmRow)
+              md += getBookmark(bmRow, isLangSorted)
             //   count++
             // }
             // else {
@@ -209,7 +199,7 @@ fs.readFile("./src/uebm.csv", 'utf8', (err, data) => {
 
   // all = entire csv
   let contentAll = allPreamble
-  contentAll += createMarkdwon(csvRows)
+  contentAll += createMarkdown(csvRows)
   contentAll += append
   fs.writeFile("./all.md", contentAll, (err) => {
     if (err) throw err;
@@ -218,7 +208,7 @@ fs.readFile("./src/uebm.csv", 'utf8', (err, data) => {
 
   // Awesome, AKA README 'best of best'
   let contentAwesome = awesomePreamble
-  contentAwesome += createMarkdwon(csvRows, true)
+  contentAwesome += createMarkdown(csvRows, true)
   contentAwesome += append
   fs.writeFile("./README.md", contentAwesome, (err) => {
     if (err) throw err;
