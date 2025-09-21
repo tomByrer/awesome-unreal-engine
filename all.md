@@ -36,6 +36,7 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
    - [Gradient](#gradient)
    - [Material](#material)
    - [Niagara](#niagara)
+   - [Camera](#camera)
    - [Blueprint](#blueprint)
    - [C++](#c++)
    - [Msc](#msc)
@@ -226,6 +227,8 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
  [⏯️ GASP Motion Matching - Improved Hit Effects ~ MakeCodeSimple_Unreal](https://youtu.be/qNWl3NmHCe4) [livestream,blueprint] - improving the custom replicated Hit Effects for Blood or Dust.
 
+ [⏯️ Intro to Hand-drawing Animation Effects ~ Pixel Prof](https://youtu.be/DMoxrO7I6Qk) [animation,msc] - Odyssey plugin.
+
  [⏯️ Intro to Niagara’s Dynamic Mesh Interface ~ Ghislain Girardot](https://youtu.be/mbH3HLcRt3I) [article,niagara].
 
  [⏯️ Animation Blueprints for Multiple Characters ~ Zero2GameDev](https://youtu.be/9o3QCmZDL98) [blueprint].
@@ -233,6 +236,8 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
  [⏯️ GPU Swarm VFX in Unreal Engine with Niagara ~ Ghislain Girardot](https://youtu.be/PFkiUYAhTyQ) [article,niagara] ([earlier part: using shaders & State Machines](https://youtu.be/IYI7agYFOZY)) - uses State Machine.
 
  [🏪 Grid Terrain Generator ~ MadeFun3D](https://www.fab.com/listings/224f16d2-74a6-4f43-a926-c1b3e9db83e3) [commercial,blueprint].
+
+ [🏪 Odysey - 2D animations ~ PraxinosCoop](https://www.fab.com/listings/c2a71aa9-998c-4286-9d5b-df91d9cc4034) [animation,msc] ([home](https://praxinos.coop/odyssey.php)).
 
  [⏯️ Intro to Custom Niagara Modules ~ PrismaticaDev](https://youtu.be/QCWrRjTdAmI) [niagara].
 
@@ -276,7 +281,7 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
  [⏯️ BOOST Foliage Performance ~ Joshua M Kerr](https://youtu.be/fjuLE3Artic) [optimize,material] - world offset in material.
 
- [⏯️ Tactical Combat on square/hex/triangle grids ~ Alex Quevillon](https://youtu.be/D7W6qeS_zlY?list=PLBLmKCAjA25CKFIvmaA8y3tsX_URgkX4O) [game,c++] ([FAB](https://www.fab.com/listings/bd11e459-47bd-45b4-a7ce-af1a227bc5ac)) - 65 vids.
+ [⏯️🏪 Tactical Combat on square/hex/triangle grids ~ Alex Quevillon](https://youtu.be/D7W6qeS_zlY?list=PLBLmKCAjA25CKFIvmaA8y3tsX_URgkX4O) [game,c++] ([FAB](https://www.fab.com/listings/bd11e459-47bd-45b4-a7ce-af1a227bc5ac)) - 65 vids.
 
  [⏯️ how grass works in Ghost of Tsushima ~ Stylized Station](https://youtu.be/G8HH_pMKOhk) [article,analysis] ([source of talk: Eric Wohllaib](https://youtu.be/Ibe1JBF5i5Y)).
 
@@ -476,7 +481,14 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
  [⏯️ Smoke VFX - Niagara ~ Gabriel Aguiar Prod](https://youtu.be/HRagD5L-WF8) - Smoke effect done with Niagara particle system.
 
 
+### Camera
+
+ [⏯️ True First person Camera in GASP ~ Zero2GameDev](https://youtu.be/LadZZDJzBWI).
+
+
 ### Blueprint
+
+ [🏪 Timer Extension ~ Tang Heng](https://www.fab.com/listings/6bfef44b-8837-4f28-b109-37cc724d628b) [commercial] - time dilation and pausing the game.
 
  [⏯️ Gaussian Splatting - Full Pipeline & Tips ~ Trînc Gabriel](https://youtu.be/VdSE-698mjM) [livestream] - practical workflow.
 
@@ -499,6 +511,8 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
  [⏯️ Making stylized animations….in #Blueprints ~ rowdydev](https://www.youtube.com/shorts/SYI54wk5K0U?feature=share) [animation] - timeline node for easy animations.
 
  [⏯️ MUST use BLUEPRINT NODES ~ Unreal in 5 Minutes!](https://youtu.be/p4CGl5558Xo) [article] - tips/tricks.
+
+ [🏪 Music Sequencer ~ gogodyne](https://www.fab.com/listings/8442c959-9a18-4079-b87c-2626efb7725f) - loop stems.
 
  [⏯️ square & hex Grids series ~ AziApps](https://youtu.be/5a5q2X8dAu4?list=PLkppAlnCMgMmSNkD-Rak_S9owziM9-zXX) - 9 vids.
 
@@ -543,7 +557,7 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
  [⏯️ Gameplay Ability System in 20 minutes ~ Danny Goodayle](https://youtu.be/s3-kOmP5bVw) [animation].
 
- [⏯️ Tactical Combat on square/hex/triangle grids ~ Alex Quevillon](https://youtu.be/D7W6qeS_zlY?list=PLBLmKCAjA25CKFIvmaA8y3tsX_URgkX4O) [game] ([FAB](https://www.fab.com/listings/bd11e459-47bd-45b4-a7ce-af1a227bc5ac)) - 65 vids.
+ [⏯️🏪 Tactical Combat on square/hex/triangle grids ~ Alex Quevillon](https://youtu.be/D7W6qeS_zlY?list=PLBLmKCAjA25CKFIvmaA8y3tsX_URgkX4O) [game] ([FAB](https://www.fab.com/listings/bd11e459-47bd-45b4-a7ce-af1a227bc5ac)) - 65 vids.
 
  [⏯️ How to Use C++ ~ Gorka Games](https://youtu.be/HNfpKFER2hI) - 17 minutes.
 
@@ -556,6 +570,8 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
 ### Msc
 
+ [🏪 Endless Runner Game Kit ~ Bree](https://www.fab.com/listings/55f8ca1e-bde7-4b39-80aa-79362f68fabe) [animation,commercial,game].
+
  [⏯️ 10 Awesome Free Plugins ~ Unreal University](https://youtu.be/dmTF57Zwlbc) [demo].
 
  [⏯️ free FAB newsletter ~ Zero2GameDev](https://www.youtube.com/@Zero2GameDev0) [tool] - links to free FAB packs every month.
@@ -566,6 +582,10 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
  [⏯️ 2 hour Beginner Masterclass ~ Unreal University](https://youtu.be/TfdyJzkYOD4) - basic controls.
 
+ [⏯️ Intro to Hand-drawing Animation Effects ~ Pixel Prof](https://youtu.be/DMoxrO7I6Qk) [animation] - Odyssey plugin.
+
+ [📄 build dynamic matchmaking with PubNub ~ epicgames](https://onlineservices.epicgames.com/en-US/news/creating-dynamic-matchmaking-systems-with-pubnub-and-epic-online-services) [multiplayer].
+
  [⏯️  ~ Unreal University](https://youtu.be/ZDqX6T1-tA0) [article] - diversion VCS, migrate assets from packs, early playtesting, consistent styles.
 
  [⏯️ Lighting Stylized Assets ~ Stylized Schools](https://youtu.be/4x8F6wxtquM) [asset].
@@ -573,6 +593,8 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
  [⏯️ Beginner Mistakes ~ Pobato Tutorials](https://youtu.be/zqK-RVlWyL4) - coding, pipeline, & building tips.
 
  [⏯️ Disable Lumen & Nanite template ~ Kamil Hepner](https://youtu.be/O5rC5TWMc64) [optimize] - lightweight.
+
+ [🏪 Odysey - 2D animations ~ PraxinosCoop](https://www.fab.com/listings/c2a71aa9-998c-4286-9d5b-df91d9cc4034) [animation] ([home](https://praxinos.coop/odyssey.php)).
 
  [⏯️ Character Customization!, All 4 Methods ~ Unreal University](https://youtu.be/englZ3fwyUM) [asset] - Changing Materials, Change/Add Meshes, Mutable Plugin .
 

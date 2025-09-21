@@ -72,7 +72,7 @@
 292,"Individual Foliage Logic [Harvesting, Damage, Particles]",PrismaticaDev,https://youtu.be/6sjc4dqoCF0,2021-10-01,2025-09-15,tutorial,UE5,video,"animation,character",generic,blueprint,,,
 293,Long-Form Narrative Workflow,Unreal Engine,https://youtu.be/UVRlNFFBa1o,2025-03-21,2025-09-15,analysis,UE5,video,,stylized,msc,Steamroller Animation 2D cartoon,,
 294,Easy Stylized Grass,Aziel Arts,https://youtu.be/pPNsGrfuaCc,2024-05-20,2025-09-15,,UE5,video,,stylized,asset,,,
-295,Witcher 4 Baked Water Simulation,Aziel Arts,https://youtu.be/akHCbIECFX8,2025-07-17,2025-09-15,tutorial,UE5.6,video,animation,water,physics,easy realistic looking river,,
+295,Witcher 4 Baked Water Simulation,Aziel Arts,https://youtu.be/akHCbIECFX8,2025-07-17,2025-09-15,tutorial,UE5.6+,video,animation,water,physics,easy realistic looking river,,
 296,Grid Terrain Generator,MadeFun3D,https://www.fab.com/listings/224f16d2-74a6-4f43-a926-c1b3e9db83e3,2025-06-21,2025-09-07,,UE5,store,commercial,generic,blueprint,,,
 297,stylized GHIBLI inspired TREE,GraphicLine Games,https://youtu.be/yXz7JXfe4sM,2025-05-05,2025-09-15,,UE5,video,Blender,Ghibli,asset,,,
 298,Advanced Cel Shader,Pitchfork Academy,https://youtu.be/HDyswSWIdY0,2025-01-07,2025-09-15,tutorial,UE5,video,,cartoon,material,,,
@@ -90,7 +90,7 @@
 311,watercolor SHADER in BLENDER,GraphicLine Games,https://youtu.be/gaO_27QRpUY,2025-06-30,2025-09-15,,Blender,video,Blender,stylized,shader,,,
 312,Reroute node,pixelfondue,https://www.youtube.com/shorts/dhgI91-Ic90?feature=share,2023-09-05,2025-09-15,,UE5,video,,stylized,blueprint,reduce blueprint spaghetti,other shortcuts,https://youtu.be/ke6kcoRqEHw
 315,,Unreal University,https://youtu.be/ZDqX6T1-tA0,2025-08-03,2025-09-07,,"UE4,UE5",video,article,none,msc,"diversion VCS, migrate assets from packs, early playtesting, consistent styles",,
-316,2 hour Beginner Masterclass,Unreal University,https://youtu.be/TfdyJzkYOD4,2025-09-03,2025-09-15,,UE5.6,video,,none,msc,basic controls,,
+316,2 hour Beginner Masterclass,Unreal University,https://youtu.be/TfdyJzkYOD4,2025-09-03,2025-09-15,,UE5.6+,video,,none,msc,basic controls,,
 317,10 Awesome Free Plugins,Unreal University,https://youtu.be/dmTF57Zwlbc,2026-05-01,2025-09-07,,UE5,video,demo,generic,msc,,,
 318,world generator tool is too powerful,"Connor ""Bluedrake42"" Hill",https://youtu.be/Em5Wnch-STk,2025-04-09,2025-09-07,,UE5,video,"demo,commercial",generic,AI,Polygon World Dash,,
 319,adding destruction,EODdev,https://www.youtube.com/shorts/XIliGusbLFs?feature=share,2025-09-01,2025-09-15,article,UE5,video,asset,generic,asset,,,
@@ -133,7 +133,14 @@
 357,25 Tips and Tricks ,Unreal University,https://youtu.be/ocKFXjut6ls,2024-02-04,2025-09-15,article,UE5,video,optimize,none,beginner,mostly shortcuts,,
 358,square & hex Grids series,AziApps,https://youtu.be/5a5q2X8dAu4?list=PLkppAlnCMgMmSNkD-Rak_S9owziM9-zXX,2024-09-07,2025-09-15,course,UE5,video,,generic,blueprint,9 vids,,
 359,MUST use BLUEPRINT NODES,Unreal in 5 Minutes!,https://youtu.be/p4CGl5558Xo,2025-01-05,2025-09-14,,UE5,video,article,none,blueprint,tips/tricks,,
-360,Tactical Combat on square/hex/triangle grids,Alex Quevillon,https://youtu.be/D7W6qeS_zlY?list=PLBLmKCAjA25CKFIvmaA8y3tsX_URgkX4O,2023-03-31,2025-09-15,course,UE5,video,game,generic,c++,65 vids,FAB,https://www.fab.com/listings/bd11e459-47bd-45b4-a7ce-af1a227bc5ac
+360,Tactical Combat on square/hex/triangle grids,Alex Quevillon,https://youtu.be/D7W6qeS_zlY?list=PLBLmKCAjA25CKFIvmaA8y3tsX_URgkX4O,2023-03-31,2025-09-17,course,UE5,"store,video",game,generic,c++,65 vids,FAB,https://www.fab.com/listings/bd11e459-47bd-45b4-a7ce-af1a227bc5ac
 361,Optimization Made Easy: Fundamentals,Dallas Drapeau,https://youtu.be/zVNViTNHHdA?t=87,2025-02-02,2025-09-15,,UE5,video,optimize,none,beginner,various view modes,,
 362, Things You Should Disable for Better Performance,TUF,https://youtu.be/cF50MNi9FU4?t=14,2025-05-11,2025-09-15,,UE5,video,optimize,none,beginner,,,
 363,Triple FPS: 5 Lighting Optimization Tips,MelvinTang Games,https://youtu.be/MLS96wgSMk4,2024-11-23,2025-09-15,,UE5,video,optimize,none,beginner,"MegaLights, culling distance, mobility types",,
+364,Intro to Hand-drawing Animation Effects,Pixel Prof,https://youtu.be/DMoxrO7I6Qk,2025-08-26,2025-09-17,,UE5,video,animation,generic,msc,Odyssey plugin,,
+365,build dynamic matchmaking with PubNub,epicgames,https://onlineservices.epicgames.com/en-US/news/creating-dynamic-matchmaking-systems-with-pubnub-and-epic-online-services,2025-08-05,2025-09-21,article,UE5,blog,multiplayer,none,msc,,,
+366,Timer Extension,Tang Heng,https://www.fab.com/listings/6bfef44b-8837-4f28-b109-37cc724d628b,2025-09-13,2025-09-21,,UE5.2+,store,commercial,none,blueprint,time dilation and pausing the game,,
+367,Music Sequencer,gogodyne,https://www.fab.com/listings/8442c959-9a18-4079-b87c-2626efb7725f,2024-09-17,2025-09-21,,UE5,store,,audio,blueprint,loop stems,,
+368,True First person Camera in GASP,Zero2GameDev,https://youtu.be/LadZZDJzBWI,2025-07-18,2025-09-21,,UE5.6+,video,,none,camera,,,
+369,Odysey - 2D animations,PraxinosCoop,https://www.fab.com/listings/c2a71aa9-998c-4286-9d5b-df91d9cc4034,2025-06-11,2025-09-21,tool,UE5.6+,store,animation,generic,msc,,home,https://praxinos.coop/odyssey.php
+370,Endless Runner Game Kit,Bree,https://www.fab.com/listings/55f8ca1e-bde7-4b39-80aa-79362f68fabe,2026-09-16,2025-09-21,,UE5.6+,store,"animation,commercial,game",none,msc,,,

@@ -39,6 +39,7 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
    - [Gradient](#gradient)
    - [Material](#material)
    - [Niagara](#niagara)
+   - [Camera](#camera)
    - [Blueprint](#blueprint)
    - [C++](#c++)
    - [Msc](#msc)
@@ -137,6 +138,8 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
  [⏯️ adding destruction ~ EODdev](https://www.youtube.com/shorts/XIliGusbLFs?feature=share) [asset,asset].
 
+ [🏪 Odysey - 2D animations ~ PraxinosCoop](https://www.fab.com/listings/c2a71aa9-998c-4286-9d5b-df91d9cc4034) [animation,msc] ([home](https://praxinos.coop/odyssey.php)).
+
  [⏯️ Intro to Custom Niagara Modules ~ PrismaticaDev](https://youtu.be/QCWrRjTdAmI) [niagara].
 
  [⏯️ Optimizing Foliage with WPO Disable Distance ~ PrismaticaDev](https://youtu.be/4UJp4iB53qs) [optimize,blueprint] - reduce CPU/GPU for distant vegetation .
@@ -153,7 +156,7 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
  [⏯️ BOOST Foliage Performance ~ Joshua M Kerr](https://youtu.be/fjuLE3Artic) [optimize,material] - world offset in material.
 
- [⏯️ Tactical Combat on square/hex/triangle grids ~ Alex Quevillon](https://youtu.be/D7W6qeS_zlY?list=PLBLmKCAjA25CKFIvmaA8y3tsX_URgkX4O) [game,c++] ([FAB](https://www.fab.com/listings/bd11e459-47bd-45b4-a7ce-af1a227bc5ac)) - 65 vids.
+ [⏯️🏪 Tactical Combat on square/hex/triangle grids ~ Alex Quevillon](https://youtu.be/D7W6qeS_zlY?list=PLBLmKCAjA25CKFIvmaA8y3tsX_URgkX4O) [game,c++] ([FAB](https://www.fab.com/listings/bd11e459-47bd-45b4-a7ce-af1a227bc5ac)) - 65 vids.
 
  [⏯️ how grass works in Ghost of Tsushima ~ Stylized Station](https://youtu.be/G8HH_pMKOhk) [article,analysis] ([source of talk: Eric Wohllaib](https://youtu.be/Ibe1JBF5i5Y)).
 
@@ -253,6 +256,9 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
  [⏯️ 10 EFFECTS in 10 MINUTES ~ Gabriel Aguiar Prod](https://www.youtube.com/shorts/jagvNDg7Iaw?feature=share) - Lightning, Rain, Heal, Loot Drop, Portal, Meteor Rain, Flamethrower, Muzzle Flash, Explosion & Projectile.
 
 
+### Camera
+
+
 ### Blueprint
 
  [⏯️🏪 Ghibli-Inspired Stylized meadow ~ GraphicLine Games](https://youtu.be/2VRZrm3eCEs) [asset] ([course files; can donate $0](https://graphicline.gumroad.com/l/opjhs)) - FULL COURSE 2.20 hours.
@@ -278,7 +284,7 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
  [⏯️ Essential C++ Programming Basics ~ Pobato Tutorials](https://youtu.be/VdGpv2IzUAw?list=PLUafV3PKFG2loWC7UjIfTibPqfHaTIIz-) - 23 short vids, focused topics, no fluff.
 
- [⏯️ Tactical Combat on square/hex/triangle grids ~ Alex Quevillon](https://youtu.be/D7W6qeS_zlY?list=PLBLmKCAjA25CKFIvmaA8y3tsX_URgkX4O) [game] ([FAB](https://www.fab.com/listings/bd11e459-47bd-45b4-a7ce-af1a227bc5ac)) - 65 vids.
+ [⏯️🏪 Tactical Combat on square/hex/triangle grids ~ Alex Quevillon](https://youtu.be/D7W6qeS_zlY?list=PLBLmKCAjA25CKFIvmaA8y3tsX_URgkX4O) [game] ([FAB](https://www.fab.com/listings/bd11e459-47bd-45b4-a7ce-af1a227bc5ac)) - 65 vids.
 
  [🏪 Interactive Foliage Physics ~ Etherion Designs](https://www.fab.com/listings/fcdb655a-8f79-4a97-994d-3c2140067604) [animation,optimize] ([Pro $$$ version](https://www.fab.com/listings/a3f7729e-c68e-4533-9b51-2106357b2316)) - plants react naturally to footsteps and wind.  very cheap, .
 
@@ -288,6 +294,10 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
  [⏯️ free FAB newsletter ~ Zero2GameDev](https://www.youtube.com/@Zero2GameDev0) [tool] - links to free FAB packs every month.
 
  [🏪 Asset Manager Studio Launcher ~ master-technology](https://assetmanager.studio/) [tool] ([video](https://youtu.be/PJzLVx0iVGU)).
+
+ [📄 build dynamic matchmaking with PubNub ~ epicgames](https://onlineservices.epicgames.com/en-US/news/creating-dynamic-matchmaking-systems-with-pubnub-and-epic-online-services) [multiplayer].
+
+ [🏪 Odysey - 2D animations ~ PraxinosCoop](https://www.fab.com/listings/c2a71aa9-998c-4286-9d5b-df91d9cc4034) [animation] ([home](https://praxinos.coop/odyssey.php)).
 
  [⏯️ Long-Form Narrative Workflow ~ Unreal Engine](https://youtu.be/UVRlNFFBa1o) - Steamroller Animation 2D cartoon.
 

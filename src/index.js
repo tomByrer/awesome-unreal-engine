@@ -1,4 +1,4 @@
-/* v1.1.0 csv-to-awesome
+/* v1.3.0 csv-to-awesome-unreal
  @2019-2026 Tom Byrer, License MIT
  used to build: https://github.com/tomByrer/awesome-cloudflare-workers
 */
@@ -15,6 +15,9 @@ function getIconFormat(format){
   }
   if ( (/store/).test(format) ){
     ret += '🏪'
+  }
+  if ( (/blog/).test(format) ){
+    ret += '📄'
   }
   return ret + ' '
 }
@@ -107,6 +110,7 @@ const S2 = {
         "gradient",
         "material",
         "niagara",
+        'camera',
         "blueprint",
         "c++",
         "msc" // fall back
