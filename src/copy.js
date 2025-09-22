@@ -2,11 +2,11 @@
 
 export let awesomePreamble = `# Awesome Unreal Engine
 
-## (UE5 tutorials & assets focus on a Stylized art direction & optimization programming)
+## (UE5 tutorials & assets, focused on a Stylized art direction & optimization programming)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome articles & resources for **[Unreal game engine](https://www.unrealengine.com/)**, though most techniques will work with many art directions given enough tweaks.
+A curated list of awesome articles & resources for **[Unreal game engine](https://www.unrealengine.com/)**.
 There are a select few non-specific Unreal Engine/Stylized resources.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.  (A bit different, since the CSV bookmark dump & [all page]() contains *many* other links that didn't make the 'awesome' list.)

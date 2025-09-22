@@ -88,6 +88,8 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
 ### Cartoon
 
+ [📄 Anime/Toon/Cel Shading Model ~ Envieous](https://forums.unrealengine.com/t/ue5-anime-toon-cel-shading-model-works-with-launcher-engine-versions/544226) [asset,game,shader] - custom shader, works with launcher.
+
  [⏯️ Manga/outline Shader playlist ~ many](https://youtu.be/pJ42ylVyDpc?list=PLiq69WxS7HrMdVKU6wbEOt27tAw66ki8w) [post-process,shader] - 18 videos, outlines, toon shaders.
 
  [⏯️ Advanced Cel Shader ~ Pitchfork Academy](https://youtu.be/HDyswSWIdY0) [material].
@@ -417,6 +419,8 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
 ### Shader
 
+ [📄 Anime/Toon/Cel Shading Model ~ Envieous](https://forums.unrealengine.com/t/ue5-anime-toon-cel-shading-model-works-with-launcher-engine-versions/544226) [asset,game] - custom shader, works with launcher.
+
  [⏯️ Animated Procedural Water Drops ~ Stylized Schools](https://youtu.be/6hqiBHAHryg) - water on surface.
 
  [⏯️ watercolor SHADER in BLENDER ~ GraphicLine Games](https://youtu.be/gaO_27QRpUY) [Blender].
@@ -511,6 +515,8 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
  [⏯️ Making stylized animations….in #Blueprints ~ rowdydev](https://www.youtube.com/shorts/SYI54wk5K0U?feature=share) [animation] - timeline node for easy animations.
 
  [⏯️ MUST use BLUEPRINT NODES ~ Unreal in 5 Minutes!](https://youtu.be/p4CGl5558Xo) [article] - tips/tricks.
+
+ [⏯️ Be a better game dev series ~ LeafBranchGames](https://www.youtube.com/playlist?list=PLNBX4kIrA68nX9tTCMbuBM8up9JVq29fv) [optimize].
 
  [🏪 Music Sequencer ~ gogodyne](https://www.fab.com/listings/8442c959-9a18-4079-b87c-2626efb7725f) - loop stems.
 

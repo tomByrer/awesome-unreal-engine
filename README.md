@@ -1,10 +1,10 @@
 # Awesome Unreal Engine
 
-## (UE5 tutorials & assets focus on a Stylized art direction & optimization programming)
+## (UE5 tutorials & assets, focused on a Stylized art direction & optimization programming)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome articles & resources for **[Unreal game engine](https://www.unrealengine.com/)**, though most techniques will work with many art directions given enough tweaks.
+A curated list of awesome articles & resources for **[Unreal game engine](https://www.unrealengine.com/)**.
 There are a select few non-specific Unreal Engine/Stylized resources.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.  (A bit different, since the CSV bookmark dump & [all page]() contains *many* other links that didn't make the 'awesome' list.)
@@ -74,6 +74,8 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
 
 ### Cartoon
+
+ [📄 Anime/Toon/Cel Shading Model ~ Envieous](https://forums.unrealengine.com/t/ue5-anime-toon-cel-shading-model-works-with-launcher-engine-versions/544226) [asset,game,shader] - custom shader, works with launcher.
 
  [⏯️ Manga/outline Shader playlist ~ many](https://youtu.be/pJ42ylVyDpc?list=PLiq69WxS7HrMdVKU6wbEOt27tAw66ki8w) [post-process,shader] - 18 videos, outlines, toon shaders.
 
@@ -229,6 +231,8 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
 
 ### Shader
+
+ [📄 Anime/Toon/Cel Shading Model ~ Envieous](https://forums.unrealengine.com/t/ue5-anime-toon-cel-shading-model-works-with-launcher-engine-versions/544226) [asset,game] - custom shader, works with launcher.
 
  [⏯️ Manga/outline Shader playlist ~ many](https://youtu.be/pJ42ylVyDpc?list=PLiq69WxS7HrMdVKU6wbEOt27tAw66ki8w) [post-process] - 18 videos, outlines, toon shaders.
 
