@@ -20,8 +20,8 @@
 229,Trees – Blender to UE5 Workflow,selsner,https://www.youtube.com/shorts/yWyc14-6sog?feature=share,2025-05-17,2025-09-15,tutorial,UE5,video,,stylized,asset,"blob-less, recomputed, short",,
 231,Kawaii Physics-Hidden Physics Engine,Cobra Code,https://youtu.be/9ThmoMHnHhw,2025-05-21,2025-09-15,tool,"UE4,UE5",video,,effect,physics,stylized hair & clothes physics,KawaiiPhysics  repo,https://github.com/pafuhana1213/KawaiiPhysics
 232,UE5 Starter Course,Unreal Sensei,https://youtu.be/k-zMkzmduqI,2022-06-30,2025-09-15,tutorial,UE5,video,,generic,beginner," tutorial for everything in '22, including nanite & lumen",assets,https://www.unrealsensei.com/asset/ue5beginner
-233,RPG Tutorial Series,Gorka Games,https://youtu.be/WcDj4uZygyE?list=PLiSlOaRBfgkcPAhYpGps16PT_9f28amXi,2023-02-21,2025-09-15,,UE5,video,,stylized,beginner,83 part tutorial,,
-234,GASP Motion Matching - Improved Hit Effects,MakeCodeSimple_Unreal,https://youtu.be/qNWl3NmHCe4,2025-08-28,2025-09-07,,UE5,video,livestream,generic,blueprint,improving the custom replicated Hit Effects for Blood or Dust,,
+233,RPG Tutorial Series,Gorka Games,https://youtu.be/WcDj4uZygyE?list=PLiSlOaRBfgkcPAhYpGps16PT_9f28amXi,2023-02-21,2025-09-30,,UE5,playlist,,stylized,beginner,83 part tutorial,,
+234,GASP Motion Matching - Improved Hit Effects,MakeCodeSimple_Unreal,https://youtu.be/qNWl3NmHCe4,2025-08-28,2025-09-23,,UE5,video,"livestream,GASP",none,blueprint,improving the custom replicated Hit Effects for Blood or Dust,,
 235,Physically Based Cel Shading,Visual Tech Art,https://youtu.be/eBS3BOI5KnM,2024-07-16,2025-09-15,tutorial,UE5,video,pre-process,comic,blueprint,Physically Based pipeline,,
 236,Stylized Rendering in a Physically Based Context - Lighting for Videogames,Visual Tech Art,https://youtu.be/1Q9UqIPCh1A,2024-12-16,2025-09-07,,UE5,video,"livestream,pre-process",stylized,analysis,,,
 237,overhauled our toon shader and added enemies and ladders,Lost Umbrella Games,https://youtu.be/AVbzkvnTIlI,2023-08-05,2025-09-15,,UE5,video,,stylized,shader,"occlusion shader, ladder, C++ & blueprints",,
@@ -66,7 +66,7 @@
 286,3d controlled AI video generation,Utopai Studios,https://youtu.be/301tJ7HCApk,2025-03-28,2025-09-07,,UE5,video,"commercial,demo",generic,AI,real-time control over scene composition,,
 287,Calysto World 2/Massive World PCG Map Toolkit,Michael Simard,https://youtu.be/hHu3mEdT1c8,2025-09-04,2025-09-15,,UE5,"video,store","demo,commercial",generic,environment,procedural world generation,FAB,https://www.fab.com/listings/8631308a-67a3-4e20-b3e4-74be19813f77
 288,Complete AI Toolkit,Ludus AI,https://ludusengine.com/,2025-09-04,2025-09-07,,UE5,store,"commercial,asset",none,c++,"generate C++ code, 3D models, and functional Blueprints",YouTube,https://www.youtube.com/@LudusAI
-289,Destroy Actor Node Doesn't Do What you Think,Taken Grace,https://youtu.be/aeCNMYpoBQk,2025-08-30,2025-09-15,,UE5,video,,none,c++,fix memory leak in C++ & Blueprints,,
+289,Boost your Optimization,Taken Grace,https://youtu.be/aeCNMYpoBQk?list=PLV-MOgRkz798siDrye0LnPhrj9Q5HjjuM,2025-08-30,2025-09-30,,UE5,playlist,,none,c++,13+vids,,
 290,Asset Manager Studio Launcher,master-technology,https://assetmanager.studio/,2025-09-04,2025-09-14,tool,UE5,store,tool,stylized,msc,,video,https://youtu.be/PJzLVx0iVGU
 291,Achieve True Color in Unreal Engine: Disabling Tonemapper,Kibibyte,https://youtu.be/mNr5K2tIAg8,2024-11-07,2025-09-15,tutorial,UE5,video,"post-process,pre-process",generic,environment,"custom look, LUTs, etc",,
 292,"Individual Foliage Logic [Harvesting, Damage, Particles]",PrismaticaDev,https://youtu.be/6sjc4dqoCF0,2021-10-01,2025-09-15,tutorial,UE5,video,"animation,character",generic,blueprint,,,
@@ -100,12 +100,12 @@
 323,How to Use C++,Gorka Games,https://youtu.be/HNfpKFER2hI,2022-12-26,2025-09-15,,UE5,video,,none,c++,17 minutes,,
 324,UE5 C++ Tutorial,Lötwig Fusel,https://youtu.be/nvruYLgjKkk?list=PL-m4pn2uJvXHL5rxdudkhqrSRM5gN43YN&t=157,2021-12-29,2025-09-15,,UE5,video,,none,c++,"long, 15 parts, older",,
 325,From Blueprints to C++,Ali Elzoheiry,https://youtu.be/4AdGIPV1Yw4,2025-05-23,2025-09-15,,UE5,video,,none,c++,1 hour,,
-326,Software Design Patterns series,Ali Elzoheiry,https://youtu.be/YFtLd-bKl-U?list=PLNwKK6OwH7eVw8SIE9ziJOJMog2eXK-6r,2024-08-14,2025-09-15,course,UE5,video,optimize,none,analysis,"C++/Blueprints, quality",blog refrence,https://refactoring.guru/design-patterns/observer
-327,Interaction System series,Ali Elzoheiry,https://youtu.be/RiGTU96KiIk?list=PLNwKK6OwH7eVj0NU_ImdvPXEmVFyWfd8E,2025-02-27,2025-09-15,course,UE5,video,character,none,c++,"interfaces, event dispatchers, actor components, enums, structs, NPC AI, etc",files on Patreon,https://www.patreon.com/cw/Alizoh
-328,Essential C++ Programming Basics,Pobato Tutorials,https://youtu.be/VdGpv2IzUAw?list=PLUafV3PKFG2loWC7UjIfTibPqfHaTIIz-,2024-09-04,2025-09-15,tutorial,UE5,video,,none,c++,"23 short vids, focused topics, no fluff",,
+326,Software Design Patterns series,Ali Elzoheiry,https://youtu.be/YFtLd-bKl-U?list=PLNwKK6OwH7eVw8SIE9ziJOJMog2eXK-6r,2024-08-14,2025-09-30,course,UE5,playlist,optimize,none,analysis,"C++/Blueprints, quality",blog refrence,https://refactoring.guru/design-patterns/observer
+327,Interaction System series,Ali Elzoheiry,https://youtu.be/RiGTU96KiIk?list=PLNwKK6OwH7eVj0NU_ImdvPXEmVFyWfd8E,2025-02-27,2025-09-30,course,UE5,playlist,character,none,c++,"interfaces, event dispatchers, actor components, enums, structs, NPC AI, etc",files on Patreon,https://www.patreon.com/cw/Alizoh
+328,Essential C++ Programming Basics,Pobato Tutorials,https://youtu.be/VdGpv2IzUAw?list=PLUafV3PKFG2loWC7UjIfTibPqfHaTIIz-,2024-09-04,2025-09-30,tutorial,UE5,playlist,,none,c++,"23 short vids, focused topics, no fluff",,
 329,Beginner Mistakes,Pobato Tutorials,https://youtu.be/zqK-RVlWyL4,2025-06-18,2025-09-15,,UE5,video,,none,msc,"coding, pipeline, & building tips",,
 330,change how you DEBUG,Pobato Tutorials,https://youtu.be/pFyMPOnFYwU,2025-07-18,2025-09-08,,UE5,video,article,none,c++,Visual Logger,,
-331,C++ Beginners Tutorial series,Tony Munoz,https://youtu.be/qsB7fxOJzvI?list=PLjlIN9XAUewh2IL3icBOzqLsqYWQH4dfi,2025-09-06,2025-09-15,,UE5,video,,none,c++,"8 parts, medium length",,
+331,C++ Beginners Tutorial series,Tony Munoz,https://youtu.be/qsB7fxOJzvI?list=PLjlIN9XAUewh2IL3icBOzqLsqYWQH4dfi,2025-09-06,2025-09-30,,UE5,playlist,,none,c++,"8 parts, medium length",,
 332,local LLM code assistance,Chris Ashworth,https://youtu.be/VJ-3Edxp4-c,2025-02-21,2025-09-15,tool,UE5,video,,none,AI,"Ollama, Continue.dev and Rider",,
 333,use an LLM to write code,"Connor ""Bluedrake42"" Hill",https://youtu.be/qCeW0YNg5iw,2025-03-13,2025-09-15,,UE5,video,,none,AI,Claude Sonnet 3.5 and Cursor,,
 334,Revolt Local AI,"Connor ""Bluedrake42"" Hill",https://revolt.projectascension.ai/,2025-08-12,2025-09-15,,UE5,store,,none,AI,"$20 GUI, needs high-end system",video intro,https://youtu.be/c9rLu8crN4I
@@ -131,9 +131,9 @@
 355,AI Makes a Game,Reids Channel,https://youtu.be/NPzzqIHAaSY,2025-03-09,2025-09-09,,UE5,video,livestream,none,AI,Cursor AI with UE,,
 356,"Why Use ""Interfaces"" & ""Event Dispatchers""",Ali Elzoheiry,https://youtu.be/EQfml2D9hwE,2024-09-06,2025-09-15,article,UE5,video,optimize,none,blueprint,decoupled code communication,,
 357,25 Tips and Tricks ,Unreal University,https://youtu.be/ocKFXjut6ls,2024-02-04,2025-09-15,article,UE5,video,optimize,none,beginner,mostly shortcuts,,
-358,square & hex Grids series,AziApps,https://youtu.be/5a5q2X8dAu4?list=PLkppAlnCMgMmSNkD-Rak_S9owziM9-zXX,2024-09-07,2025-09-15,course,UE5,video,,generic,blueprint,9 vids,,
+358,square & hex Grids series,AziApps,https://youtu.be/5a5q2X8dAu4?list=PLkppAlnCMgMmSNkD-Rak_S9owziM9-zXX,2024-09-07,2025-09-30,course,UE5,playlist,,generic,blueprint,9 vids,,
 359,MUST use BLUEPRINT NODES,Unreal in 5 Minutes!,https://youtu.be/p4CGl5558Xo,2025-01-05,2025-09-14,,UE5,video,article,none,blueprint,tips/tricks,,
-360,Tactical Combat on square/hex/triangle grids,Alex Quevillon,https://youtu.be/D7W6qeS_zlY?list=PLBLmKCAjA25CKFIvmaA8y3tsX_URgkX4O,2023-03-31,2025-09-17,course,UE5,"store,video",game,generic,c++,65 vids,FAB,https://www.fab.com/listings/bd11e459-47bd-45b4-a7ce-af1a227bc5ac
+360,Tactical Combat on square/hex/triangle grids,Alex Quevillon,https://youtu.be/D7W6qeS_zlY?list=PLBLmKCAjA25CKFIvmaA8y3tsX_URgkX4O,2023-03-31,2025-09-30,course,UE5,"store,playlist",game,generic,c++,65 vids,FAB,https://www.fab.com/listings/bd11e459-47bd-45b4-a7ce-af1a227bc5ac
 361,Optimization Made Easy: Fundamentals,Dallas Drapeau,https://youtu.be/zVNViTNHHdA?t=87,2025-02-02,2025-09-15,,UE5,video,optimize,none,beginner,various view modes,,
 362, Things You Should Disable for Better Performance,TUF,https://youtu.be/cF50MNi9FU4?t=14,2025-05-11,2025-09-15,,UE5,video,optimize,none,beginner,,,
 363,Triple FPS: 5 Lighting Optimization Tips,MelvinTang Games,https://youtu.be/MLS96wgSMk4,2024-11-23,2025-09-15,,UE5,video,optimize,none,beginner,"MegaLights, culling distance, mobility types",,
@@ -141,8 +141,20 @@
 365,build dynamic matchmaking with PubNub,epicgames,https://onlineservices.epicgames.com/en-US/news/creating-dynamic-matchmaking-systems-with-pubnub-and-epic-online-services,2025-08-05,2025-09-21,article,UE5,blog,multiplayer,none,msc,,,
 366,Timer Extension,Tang Heng,https://www.fab.com/listings/6bfef44b-8837-4f28-b109-37cc724d628b,2025-09-13,2025-09-21,,UE5.2+,store,commercial,none,blueprint,time dilation and pausing the game,,
 367,Music Sequencer,gogodyne,https://www.fab.com/listings/8442c959-9a18-4079-b87c-2626efb7725f,2024-09-17,2025-09-21,,UE5,store,,audio,blueprint,loop stems,,
-368,True First person Camera in GASP,Zero2GameDev,https://youtu.be/LadZZDJzBWI,2025-07-18,2025-09-21,,UE5.6+,video,,none,camera,,,
+368,True First person Camera in GASP,Zero2GameDev,https://youtu.be/LadZZDJzBWI,2025-07-18,2025-09-23,,UE5.6+,video,GASP,none,camera,,,
 369,Odysey - 2D animations,PraxinosCoop,https://www.fab.com/listings/c2a71aa9-998c-4286-9d5b-df91d9cc4034,2025-06-11,2025-09-21,tool,UE5.6+,store,animation,generic,msc,,home,https://praxinos.coop/odyssey.php
 370,Endless Runner Game Kit,Bree,https://www.fab.com/listings/55f8ca1e-bde7-4b39-80aa-79362f68fabe,2026-09-16,2025-09-21,,UE5.6+,store,"animation,commercial,game",none,msc,,,
-371,Be a better game dev series,LeafBranchGames,https://www.youtube.com/playlist?list=PLNBX4kIrA68nX9tTCMbuBM8up9JVq29fv,2024-11-26,2025-09-22,,UE5,video,optimize,none,blueprint,,,
+371,Be a better game dev series,LeafBranchGames,https://www.youtube.com/playlist?list=PLNBX4kIrA68nX9tTCMbuBM8up9JVq29fv,2024-11-26,2025-09-30,,UE5,playlist,optimize,none,blueprint,,,
 372,Anime/Toon/Cel Shading Model,Envieous,https://forums.unrealengine.com/t/ue5-anime-toon-cel-shading-model-works-with-launcher-engine-versions/544226,2025-09-16,2025-09-22,tool,UE5,blog,"asset,game",cartoon,shader,"custom shader, works with launcher",,
+373,GameplayAbilitySystem notes,tranek,https://github.com/tranek/GASDocumentation,2024-04-06,2025-09-23,article,UE5,blog,GAS,none,msc,,,
+374,Gameplay Ability System,Zhi Kang Shao,https://dev.epicgames.com/community/learning/tutorials/8Xn9/unreal-engine-epic-for-indies-your-first-60-minutes-with-gameplay-ability-system,2025-09-09,2025-09-23,article,UE5,blog,GAS,none,c++,for beginners.  Epic staff writer,,
+375,AI and Games channel,AIandGames,https://www.youtube.com/@AIandGames/videos,2025-09-01,2025-09-25,analysis,UE5,video,tool,none,AI,mostly breakdowns on games,,
+376,"Game Loops Are Out, Chains Are In",Indie Game Clinic,https://youtu.be/6SYX17NzNqE,2025-09-29,2025-09-30,,UE5,video,game,none,analysis,,,
+377,BRSFs in UE vs other engines,Threat Interactive,https://youtu.be/qZtNU-4yqtI,2025-09-29,2025-09-30,,UE5,video,"character,realism ",none,msc,warning: hot take,controversy,https://www.reddit.com/r/UnrealEngine5/comments/1ntpwm8/comment/ngxbmeg/
+378,AI of F.E.A.R. with GOAP,AI and Games,https://youtu.be/PaOLBOuyswI,2020-05-06,2025-09-30,,UE5,video,article,none,AI,Goal Oriented Action Planning,,
+379,UE5.7 AI Assistant,Tony Munoz,https://youtu.be/FH1IjxOFQnQ,2025-09-30,2025-09-30,article,UE5,video,tool,none,AI,Unreal Engine 5.7 Preview,,
+381,NTRCT | Characters for Dummies,Yu Fujishiro,https://www.youtube.com/playlist?list=PLvSZaVrgRBTp4mo_XUiE66Tqk7qsokoXm,2025-09-04,2025-09-30,course,UE5,video,animation,none,beginner,'interactive art',,
+382,NPCs react with AI,ConvAI,https://youtu.be/phAkEFa6Thc,2024-01-08,2025-09-30,,UE5,"store,video",NPC,none,AI,conversational,,
+383,AI Random Roam,Matt Aspland,https://youtu.be/Mi7r0LqUmOE,2022-06-25,2025-09-30,,UE5,video,NPC,none,msc,,,
+384,Biginner Tutorials,Taken Grace,https://youtu.be/g9pYbIA3q6Y?list=PLV-MOgRkz798o2fWeTCWvsjt306zTanGi,2025-09-13,2025-09-30,,UE5,playlist,,none,beginner,"10vids, random sorting",,
+385,Wered UE5 Style Guide,Arkadiusz Kołodziejczyk,https://github.com/Wered6/UE5-StyleGuide,2025-09-01,2025-10-01,article,UE5,repo,"optimize,article",none,analysis,coding conventions,,

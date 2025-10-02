@@ -13,11 +13,17 @@ function getIconFormat(format){
   if ( (/video/).test(format) ){
     ret += '⏯️'
   }
+  if ( (/playlist/).test(format) ){
+    ret += '⏯️📜'
+  }
   if ( (/store/).test(format) ){
     ret += '🏪'
   }
   if ( (/blog/).test(format) ){
     ret += '📄'
+  }
+  if ( (/repo/).test(format) ){
+    ret += '💽'
   }
   return ret + ' '
 }

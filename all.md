@@ -164,7 +164,7 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
  [⏯️ many techniques available for Stylized Grass ~ Ghislain Girardot](https://youtu.be/pVKDfZMffpc) [Blender,asset,environment].
 
- [⏯️ RPG Tutorial Series ~ Gorka Games](https://youtu.be/WcDj4uZygyE?list=PLiSlOaRBfgkcPAhYpGps16PT_9f28amXi) [beginner] - 83 part tutorial.
+ [⏯️📜 RPG Tutorial Series ~ Gorka Games](https://youtu.be/WcDj4uZygyE?list=PLiSlOaRBfgkcPAhYpGps16PT_9f28amXi) [beginner] - 83 part tutorial.
 
  [⏯️ shader that saved a million ships at sea ~ Stylized Station](https://youtu.be/gruiNVU7x7Q) [article,shader] - fresnel: steep angle = weak reflection, shallow angle = strong reflection.
 
@@ -227,8 +227,6 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
  [⏯️ adding destruction ~ EODdev](https://www.youtube.com/shorts/XIliGusbLFs?feature=share) [asset,asset].
 
- [⏯️ GASP Motion Matching - Improved Hit Effects ~ MakeCodeSimple_Unreal](https://youtu.be/qNWl3NmHCe4) [livestream,blueprint] - improving the custom replicated Hit Effects for Blood or Dust.
-
  [⏯️ Intro to Hand-drawing Animation Effects ~ Pixel Prof](https://youtu.be/DMoxrO7I6Qk) [animation,msc] - Odyssey plugin.
 
  [⏯️ Intro to Niagara’s Dynamic Mesh Interface ~ Ghislain Girardot](https://youtu.be/mbH3HLcRt3I) [article,niagara].
@@ -261,7 +259,7 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
  [⏯️ Complex Scenes Made Simple! |Environment Art Tips ~ VertexLock](https://youtu.be/U7ZX-DXCleU) [article,environment] - preplan, smaller kit that gets reused.
 
- [⏯️ square & hex Grids series ~ AziApps](https://youtu.be/5a5q2X8dAu4?list=PLkppAlnCMgMmSNkD-Rak_S9owziM9-zXX) [blueprint] - 9 vids.
+ [⏯️📜 square & hex Grids series ~ AziApps](https://youtu.be/5a5q2X8dAu4?list=PLkppAlnCMgMmSNkD-Rak_S9owziM9-zXX) [blueprint] - 9 vids.
 
  [⏯️ Intro to Flow Maps ~ PrismaticaDev](https://youtu.be/FvbPnndigL4) [physics] - alternative to Panners and  effects like oceans, rivers and lakes.
 
@@ -283,7 +281,7 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
  [⏯️ BOOST Foliage Performance ~ Joshua M Kerr](https://youtu.be/fjuLE3Artic) [optimize,material] - world offset in material.
 
- [⏯️🏪 Tactical Combat on square/hex/triangle grids ~ Alex Quevillon](https://youtu.be/D7W6qeS_zlY?list=PLBLmKCAjA25CKFIvmaA8y3tsX_URgkX4O) [game,c++] ([FAB](https://www.fab.com/listings/bd11e459-47bd-45b4-a7ce-af1a227bc5ac)) - 65 vids.
+ [⏯️📜🏪 Tactical Combat on square/hex/triangle grids ~ Alex Quevillon](https://youtu.be/D7W6qeS_zlY?list=PLBLmKCAjA25CKFIvmaA8y3tsX_URgkX4O) [game,c++] ([FAB](https://www.fab.com/listings/bd11e459-47bd-45b4-a7ce-af1a227bc5ac)) - 65 vids.
 
  [⏯️ how grass works in Ghost of Tsushima ~ Stylized Station](https://youtu.be/G8HH_pMKOhk) [article,analysis] ([source of talk: Eric Wohllaib](https://youtu.be/Ibe1JBF5i5Y)).
 
@@ -301,7 +299,11 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
 ### Beginner
 
+ [⏯️📜 Biginner Tutorials ~ Taken Grace](https://youtu.be/g9pYbIA3q6Y?list=PLV-MOgRkz798o2fWeTCWvsjt306zTanGi) - 10vids, random sorting.
+
  [⏯️ Learn UE5: Create an Adventure Game ~ Gorka Games](https://youtu.be/4r9TYrQu8QY) - 2 hours, beginner.
+
+ [⏯️ NTRCT | Characters for Dummies ~ Yu Fujishiro](https://www.youtube.com/playlist?list=PLvSZaVrgRBTp4mo_XUiE66Tqk7qsokoXm) [animation] - 'interactive art'.
 
  [⏯️  Things You Should Disable for Better Performance ~ TUF](https://youtu.be/cF50MNi9FU4?t=14) [optimize].
 
@@ -311,12 +313,16 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
  [⏯️ 25 Tips and Tricks  ~ Unreal University](https://youtu.be/ocKFXjut6ls) [optimize] - mostly shortcuts.
 
- [⏯️ RPG Tutorial Series ~ Gorka Games](https://youtu.be/WcDj4uZygyE?list=PLiSlOaRBfgkcPAhYpGps16PT_9f28amXi) - 83 part tutorial.
+ [⏯️📜 RPG Tutorial Series ~ Gorka Games](https://youtu.be/WcDj4uZygyE?list=PLiSlOaRBfgkcPAhYpGps16PT_9f28amXi) - 83 part tutorial.
 
  [⏯️ UE5 Starter Course ~ Unreal Sensei](https://youtu.be/k-zMkzmduqI) ([assets](https://www.unrealsensei.com/asset/ue5beginner)) -  tutorial for everything in '22, including nanite & lumen.
 
 
 ### Analysis
+
+ [⏯️ Game Loops Are Out, Chains Are In ~ Indie Game Clinic](https://youtu.be/6SYX17NzNqE) [game].
+
+ [💽 Wered UE5 Style Guide ~ Arkadiusz Kołodziejczyk](https://github.com/Wered6/UE5-StyleGuide) [optimize,article] - coding conventions.
 
  [⏯️ Stylized Rendering in a Physically Based Context - Lighting for Videogames ~ Visual Tech Art](https://youtu.be/1Q9UqIPCh1A) [livestream,pre-process].
 
@@ -324,7 +330,7 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
  [⏯️ Real-time animation on ‘War Is Over!’ ~ Unreal Engine](https://youtu.be/0x2yPI5Alms) [article] - the creative process behind the making animation.
 
- [⏯️ Software Design Patterns series ~ Ali Elzoheiry](https://youtu.be/YFtLd-bKl-U?list=PLNwKK6OwH7eVw8SIE9ziJOJMog2eXK-6r) [optimize] ([blog refrence](https://refactoring.guru/design-patterns/observer)) - C++/Blueprints, quality.
+ [⏯️📜 Software Design Patterns series ~ Ali Elzoheiry](https://youtu.be/YFtLd-bKl-U?list=PLNwKK6OwH7eVw8SIE9ziJOJMog2eXK-6r) [optimize] ([blog refrence](https://refactoring.guru/design-patterns/observer)) - C++/Blueprints, quality.
 
  [⏯️ Materials for Linear Content ~ Unreal Engine](https://youtu.be/C-27tmCzXsE) [livestream] - various material creation techniques.
 
@@ -487,7 +493,7 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
 ### Camera
 
- [⏯️ True First person Camera in GASP ~ Zero2GameDev](https://youtu.be/LadZZDJzBWI).
+ [⏯️ True First person Camera in GASP ~ Zero2GameDev](https://youtu.be/LadZZDJzBWI) [GASP].
 
 
 ### Blueprint
@@ -496,7 +502,7 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
  [⏯️ Gaussian Splatting - Full Pipeline & Tips ~ Trînc Gabriel](https://youtu.be/VdSE-698mjM) [livestream] - practical workflow.
 
- [⏯️ GASP Motion Matching - Improved Hit Effects ~ MakeCodeSimple_Unreal](https://youtu.be/qNWl3NmHCe4) [livestream] - improving the custom replicated Hit Effects for Blood or Dust.
+ [⏯️ GASP Motion Matching - Improved Hit Effects ~ MakeCodeSimple_Unreal](https://youtu.be/qNWl3NmHCe4) [livestream,GASP] - improving the custom replicated Hit Effects for Blood or Dust.
 
  [⏯️ Animation Blueprints for Multiple Characters ~ Zero2GameDev](https://youtu.be/9o3QCmZDL98).
 
@@ -516,11 +522,11 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
  [⏯️ MUST use BLUEPRINT NODES ~ Unreal in 5 Minutes!](https://youtu.be/p4CGl5558Xo) [article] - tips/tricks.
 
- [⏯️ Be a better game dev series ~ LeafBranchGames](https://www.youtube.com/playlist?list=PLNBX4kIrA68nX9tTCMbuBM8up9JVq29fv) [optimize].
+ [⏯️📜 Be a better game dev series ~ LeafBranchGames](https://www.youtube.com/playlist?list=PLNBX4kIrA68nX9tTCMbuBM8up9JVq29fv) [optimize].
 
  [🏪 Music Sequencer ~ gogodyne](https://www.fab.com/listings/8442c959-9a18-4079-b87c-2626efb7725f) - loop stems.
 
- [⏯️ square & hex Grids series ~ AziApps](https://youtu.be/5a5q2X8dAu4?list=PLkppAlnCMgMmSNkD-Rak_S9owziM9-zXX) - 9 vids.
+ [⏯️📜 square & hex Grids series ~ AziApps](https://youtu.be/5a5q2X8dAu4?list=PLkppAlnCMgMmSNkD-Rak_S9owziM9-zXX) - 9 vids.
 
  [⏯️ Why Use "Interfaces" & "Event Dispatchers" ~ Ali Elzoheiry](https://youtu.be/EQfml2D9hwE) [optimize] - decoupled code communication.
 
@@ -547,23 +553,25 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
 ### C++
 
- [⏯️ C++ Beginners Tutorial series ~ Tony Munoz](https://youtu.be/qsB7fxOJzvI?list=PLjlIN9XAUewh2IL3icBOzqLsqYWQH4dfi) - 8 parts, medium length.
+ [📄 Gameplay Ability System ~ Zhi Kang Shao](https://dev.epicgames.com/community/learning/tutorials/8Xn9/unreal-engine-epic-for-indies-your-first-60-minutes-with-gameplay-ability-system) [GAS] - for beginners.  Epic staff writer.
+
+ [⏯️📜 C++ Beginners Tutorial series ~ Tony Munoz](https://youtu.be/qsB7fxOJzvI?list=PLjlIN9XAUewh2IL3icBOzqLsqYWQH4dfi) - 8 parts, medium length.
 
  [🏪 Complete AI Toolkit ~ Ludus AI](https://ludusengine.com/) [commercial,asset] ([YouTube](https://www.youtube.com/@LudusAI)) - generate C++ code, 3D models, and functional Blueprints.
 
- [⏯️ Destroy Actor Node Doesn't Do What you Think ~ Taken Grace](https://youtu.be/aeCNMYpoBQk) - fix memory leak in C++ & Blueprints.
+ [⏯️📜 Boost your Optimization ~ Taken Grace](https://youtu.be/aeCNMYpoBQk?list=PLV-MOgRkz798siDrye0LnPhrj9Q5HjjuM) - 13+vids.
 
  [⏯️ change how you DEBUG ~ Pobato Tutorials](https://youtu.be/pFyMPOnFYwU) [article] - Visual Logger.
 
  [⏯️ From Blueprints to C++ ~ Ali Elzoheiry](https://youtu.be/4AdGIPV1Yw4) - 1 hour.
 
- [⏯️ Interaction System series ~ Ali Elzoheiry](https://youtu.be/RiGTU96KiIk?list=PLNwKK6OwH7eVj0NU_ImdvPXEmVFyWfd8E) [character] ([files on Patreon](https://www.patreon.com/cw/Alizoh)) - interfaces, event dispatchers, actor components, enums, structs, NPC AI, etc.
+ [⏯️📜 Interaction System series ~ Ali Elzoheiry](https://youtu.be/RiGTU96KiIk?list=PLNwKK6OwH7eVj0NU_ImdvPXEmVFyWfd8E) [character] ([files on Patreon](https://www.patreon.com/cw/Alizoh)) - interfaces, event dispatchers, actor components, enums, structs, NPC AI, etc.
 
- [⏯️ Essential C++ Programming Basics ~ Pobato Tutorials](https://youtu.be/VdGpv2IzUAw?list=PLUafV3PKFG2loWC7UjIfTibPqfHaTIIz-) - 23 short vids, focused topics, no fluff.
+ [⏯️📜 Essential C++ Programming Basics ~ Pobato Tutorials](https://youtu.be/VdGpv2IzUAw?list=PLUafV3PKFG2loWC7UjIfTibPqfHaTIIz-) - 23 short vids, focused topics, no fluff.
 
  [⏯️ Gameplay Ability System in 20 minutes ~ Danny Goodayle](https://youtu.be/s3-kOmP5bVw) [animation].
 
- [⏯️🏪 Tactical Combat on square/hex/triangle grids ~ Alex Quevillon](https://youtu.be/D7W6qeS_zlY?list=PLBLmKCAjA25CKFIvmaA8y3tsX_URgkX4O) [game] ([FAB](https://www.fab.com/listings/bd11e459-47bd-45b4-a7ce-af1a227bc5ac)) - 65 vids.
+ [⏯️📜🏪 Tactical Combat on square/hex/triangle grids ~ Alex Quevillon](https://youtu.be/D7W6qeS_zlY?list=PLBLmKCAjA25CKFIvmaA8y3tsX_URgkX4O) [game] ([FAB](https://www.fab.com/listings/bd11e459-47bd-45b4-a7ce-af1a227bc5ac)) - 65 vids.
 
  [⏯️ How to Use C++ ~ Gorka Games](https://youtu.be/HNfpKFER2hI) - 17 minutes.
 
@@ -579,6 +587,8 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
  [🏪 Endless Runner Game Kit ~ Bree](https://www.fab.com/listings/55f8ca1e-bde7-4b39-80aa-79362f68fabe) [animation,commercial,game].
 
  [⏯️ 10 Awesome Free Plugins ~ Unreal University](https://youtu.be/dmTF57Zwlbc) [demo].
+
+ [⏯️ BRSFs in UE vs other engines ~ Threat Interactive](https://youtu.be/qZtNU-4yqtI) [character,realism ] ([controversy](https://www.reddit.com/r/UnrealEngine5/comments/1ntpwm8/comment/ngxbmeg/)) - warning: hot take.
 
  [⏯️ free FAB newsletter ~ Zero2GameDev](https://www.youtube.com/@Zero2GameDev0) [tool] - links to free FAB packs every month.
 
@@ -610,6 +620,8 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
 
  [⏯️ Bow & Arrow Masterclass ~ Ali Elzoheiry](https://youtu.be/se8gkySUfi4?list=PLNwKK6OwH7eWELWykJv1-P9gVLKAHkWqz) [character,animation] ([files](https://www.patreon.com/posts/101931804?collection=1452149)) - 5 parts, long-ish.
 
+ [📄 GameplayAbilitySystem notes ~ tranek](https://github.com/tranek/GASDocumentation) [GAS].
+
  [⏯️ Material Ambient Occlusion ~ William Faucher](https://youtu.be/65cgc3jbNlg) - bake Ambient Occlusion maps onto models.
 
  [⏯️ Cel-Shader playlist ~ many](https://youtu.be/GQhdbH8O7Oc?list=PLbNPlYeHWqEYxJfm99-2w_45yHa32J17f) [post-process,Lumin] - 17 videos.
@@ -619,6 +631,8 @@ Please use the [Link Suggestion Form](https://airtable.com/appJEzwV9IsOcvKhg/shr
  [⏯️ ALL Unreal Engine Plugins ~ Kibibyte](https://youtu.be/zCkRsYEGD5s) [demo,tool] - review/showcase.
 
  [⏯️ This is the Kuwahara Filter ~ Acerola](https://youtu.be/LDhN-JK3U9g) [demo] - not Unreal specific, mor about maths.
+
+ [⏯️ AI Random Roam ~ Matt Aspland](https://youtu.be/Mi7r0LqUmOE) [NPC].
 
 
 ## Also by Author
