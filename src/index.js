@@ -11,10 +11,10 @@ function getIconFormat(format){
   let ret = ''
   // order is consecutive
   if ( (/video/).test(format) ){
-    ret += '⏯️'
+    ret += '📺'
   }
   if ( (/playlist/).test(format) ){
-    ret += '⏯️📜'
+    ret += '📺📜'
   }
   if ( (/store/).test(format) ){
     ret += '🏪'
@@ -24,6 +24,9 @@ function getIconFormat(format){
   }
   if ( (/repo/).test(format) ){
     ret += '💽'
+  }
+  if ( (/forum/).test(format) ){
+    ret += '🌐'
   }
   return ret + ' '
 }
