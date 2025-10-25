@@ -78,6 +78,33 @@ function getFooter(count){
 }
 
 const S2 = {
+  'Programming': {
+    about: "Miscellaneous programming topics that don't directly apply to any art style.",
+    list: [
+      //TODO: sub-topic language
+      'none'
+    ],
+    'lang': {
+      about: "Focus",
+      list: [  // general to specific
+        "beginner",
+        "GenAI",
+        "analysis",
+        "AI-char",
+        "environment",
+        "asset",
+        "physics",
+        "shader",
+        "gradient",
+        "material",
+        "niagara",
+        'camera',
+        "blueprint",
+        "c++",
+        "msc" // fall back
+      ]
+    }
+  }, //Programming
   'Stylized-Art': {
     about: '"Stylized" in games is a off-realistic, more minimal interpretation, though sometimes (eg with characters) may be exaggerated.',
     list: [
@@ -100,32 +127,6 @@ const S2 = {
       'generic'
     ]
   },
-  'Programming': {
-    about: "Miscellaneous programming topics that don't directly apply to any art style.",
-    list: [
-      //TODO: sub-topic language
-      'none'
-    ],
-    'lang': {
-      about: "Focus",
-      list: [  // general to specific
-        "beginner",
-        "analysis",
-        "Ai",
-        "environment",
-        "asset",
-        "physics",
-        "shader",
-        "gradient",
-        "material",
-        "niagara",
-        'camera',
-        "blueprint",
-        "c++",
-        "msc" // fall back
-      ]
-    }
-  } //Programming
 }
 
 function createMarkdown(aweArr, isAwesome=false) {
