@@ -225,4 +225,12 @@
 454,mobile forward rendering quality toggle,Vaei,https://github.com/Vaei/ForwardRender,2025-10-18,2025-10-23,tool,UE5,repo,optimize,none,c++,,reddit post,https://www.reddit.com/r/unrealengine/comments/1od0raf/is_there_a_way_to_use_unreal_engine_5_without/
 455,Slider X widget,Risecode,https://www.fab.com/listings/a40d0798-4c63-4d5f-8804-75093bc40eda,2025-01-21,2025-10-25,,UE5,store,,none,asset,UI for selecting,,
 456,Flexible Calendar System,GameDev Brownbus,https://www.youtube.com/watch?v=4kot6ooTq1Q,2024-06-14,2025-10-25,tutorial,UE5,video,,none,blueprint,"in game time, date, day of week",part 2,https://www.youtube.com/watch?v=X84YKD8YO_8
-457,Foliage That Interacts/Reacts,GameDev Brownbus,https://youtu.be/0oUaupbiwpE,2024-05-26,2025-10-25,,UE5,video,,none,blueprint,mushrooms hide when approached,,
+457,Foliage That Interacts/Reacts,GameDev Brownbus,https://youtu.be/0oUaupbiwpE,2024-05-26,2025-10-27,,UE5,video,asset,none,blueprint,mushrooms hide when approached,,
+459,unrealengine,reddit,https://www.reddit.com/r/unrealengine,2025-10-27,2025-10-27,community,"UE4,UE5",forum,,none,community,UE4+ technical questions / posts here.,,
+460,UnrealEngine5,reddit,https://www.reddit.com/r/UnrealEngine5/,2025-10-27,2025-10-27,community,UE5,forum,,none,community,"UE5 technical posts, rarely showcase",,
+461,aigamedev,reddit,https://www.reddit.com/r/aigamedev/,2025-10-27,2025-10-27,,msc,forum,,none,community,generative AI,,
+462,IndieDev,reddit,https://www.reddit.com/r/IndieDev/,2025-10-27,2025-10-27,community,,forum,,none,community,casual: better place to showcase,,
+463,Visual Production,reddit,https://www.reddit.com/r/virtualproduction/,2025-10-27,2025-10-27,community,UE5,forum,,none,community,production for movies & live events,,
+464,Game Development,reddit,https://www.reddit.com/r/gamedev/,2025-10-27,2025-10-27,community,,forum,,none,community,general advise & promotions for games,,
+465,game industry job board,reddit,https://www.reddit.com/r/gameDevClassifieds/,2025-10-27,2025-10-27,,,forum,,none,community,,,
+466,Official Forum,Epic,https://forums.unrealengine.com/categories?tag=unreal-engine,2025-10-27,2025-10-27,community,UE5,forum,,none,community,,,

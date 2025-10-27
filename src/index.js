@@ -78,6 +78,13 @@ function getFooter(count){
 }
 
 const S2 = {
+  'Community': {
+    about: 'Forums and other hangouts to find new news and help.',
+    list: [
+      //TODO: sort by author
+      'community',
+    ]
+  },
   'Programming': {
     about: "Miscellaneous programming topics that don't directly apply to any art style.",
     list: [
@@ -87,6 +94,7 @@ const S2 = {
     'lang': {
       about: "Focus",
       list: [  // general to specific
+        "community",
         "beginner",
         "GenAI",
         "analysis",

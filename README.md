@@ -5,7 +5,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome articles & resources for **[Unreal game engine](https://www.unrealengine.com/)**.
-Those focused on a particular art direction are separated out.  You may find a few links not specific to UE, but are about 3d assets, game or movie production, etc.
+Resources focused on a particular art direction are separated out.  You may find a few links not specific to UE, but are about 3d assets, game or movie production, etc.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-file#gaming) list.
 (A bit different, since the CSV bookmark dump &
@@ -13,7 +13,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 ## Contents
 
+ - [Community](#Community)
+   - [Community](#community)
  - [Programming](#Programming)
+   - [Community](#community)
    - [Beginner](#beginner)
    - [GenAI](#GenAI)
    - [Analysis](#analysis)
@@ -45,7 +48,28 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
    - [Generic](#generic)
 
 
+## Community
+
+
+### Community
+
+
 ## Programming
+
+
+### Community
+
+ [🌐 Official Forum ~ Epic](https://forums.unrealengine.com/categories?tag=unreal-engine).
+
+ [🌐 Game Development ~ reddit](https://www.reddit.com/r/gamedev/) - general advise & promotions for games.
+
+ [🌐 Visual Production ~ reddit](https://www.reddit.com/r/virtualproduction/) - production for movies & live events.
+
+ [🌐 IndieDev ~ reddit](https://www.reddit.com/r/IndieDev/) - casual: better place to showcase.
+
+ [🌐 UnrealEngine5 ~ reddit](https://www.reddit.com/r/UnrealEngine5/) - UE5 technical posts, rarely showcase.
+
+ [🌐 unrealengine ~ reddit](https://www.reddit.com/r/unrealengine) - UE4+ technical questions / posts here..
 
 
 ### Beginner

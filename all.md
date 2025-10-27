@@ -5,7 +5,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome articles & resources for **[Unreal game engine](https://www.unrealengine.com/)**.
-Those focused on a particular art direction are separated out.  You may find a few links not specific to UE, but are about 3d assets, game or movie production, etc.
+Resources focused on a particular art direction are separated out.  You may find a few links not specific to UE, but are about 3d assets, game or movie production, etc.
 
 Not all resources are [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-file#gaming).
 But hopefully all of these will find their audience.
@@ -13,7 +13,10 @@ But hopefully all of these will find their audience.
 
 ## Contents
 
+ - [Community](#Community)
+   - [Community](#community)
  - [Programming](#Programming)
+   - [Community](#community)
    - [Beginner](#beginner)
    - [GenAI](#GenAI)
    - [Analysis](#analysis)
@@ -45,7 +48,32 @@ But hopefully all of these will find their audience.
    - [Generic](#generic)
 
 
+## Community
+
+
+### Community
+
+
 ## Programming
+
+
+### Community
+
+ [🌐 Official Forum ~ Epic](https://forums.unrealengine.com/categories?tag=unreal-engine).
+
+ [🌐 game industry job board ~ reddit](https://www.reddit.com/r/gameDevClassifieds/).
+
+ [🌐 Game Development ~ reddit](https://www.reddit.com/r/gamedev/) - general advise & promotions for games.
+
+ [🌐 Visual Production ~ reddit](https://www.reddit.com/r/virtualproduction/) - production for movies & live events.
+
+ [🌐 IndieDev ~ reddit](https://www.reddit.com/r/IndieDev/) - casual: better place to showcase.
+
+ [🌐 aigamedev ~ reddit](https://www.reddit.com/r/aigamedev/) - generative AI.
+
+ [🌐 UnrealEngine5 ~ reddit](https://www.reddit.com/r/UnrealEngine5/) - UE5 technical posts, rarely showcase.
+
+ [🌐 unrealengine ~ reddit](https://www.reddit.com/r/unrealengine) - UE4+ technical questions / posts here..
 
 
 ### Beginner
@@ -424,7 +452,7 @@ But hopefully all of these will find their audience.
 
  [📺 Flexible Calendar System ~ GameDev Brownbus](https://www.youtube.com/watch?v=4kot6ooTq1Q) ([part 2](https://www.youtube.com/watch?v=X84YKD8YO_8)) - in game time, date, day of week.
 
- [📺 Foliage That Interacts/Reacts ~ GameDev Brownbus](https://youtu.be/0oUaupbiwpE) - mushrooms hide when approached.
+ [📺 Foliage That Interacts/Reacts ~ GameDev Brownbus](https://youtu.be/0oUaupbiwpE) [asset] - mushrooms hide when approached.
 
  [📺 Simple Stylization Techniques | GDC 2024 ~  Chris Murphy](https://youtu.be/exMzwH7EJUY) ([article](https://dev.epicgames.com/community/learning/talks-and-demos/XayP/fortnite-simple-stylization-techniques-in-unreal-engine-5)) - colorized 'fog of war'.
 
