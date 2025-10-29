@@ -13,11 +13,9 @@ But hopefully all of these will find their audience.
 
 ## Contents
 
- - [Community](#Community)
-   - [Community](#community)
+- [Community](#community)
+- [Beginner](#beginner)
  - [Programming](#Programming)
-   - [Community](#community)
-   - [Beginner](#beginner)
    - [GenAI](#GenAI)
    - [Analysis](#analysis)
    - [AI-char](#AI-char)
@@ -26,6 +24,7 @@ But hopefully all of these will find their audience.
    - [Physics](#physics)
    - [Shader](#shader)
    - [Gradient](#gradient)
+   - [Texture](#texture)
    - [Material](#material)
    - [Niagara](#niagara)
    - [Camera](#camera)
@@ -46,18 +45,10 @@ But hopefully all of these will find their audience.
    - [Water](#water)
    - [Effect](#effect)
    - [Generic](#generic)
+   - [Movie](#movie)
 
 
 ## Community
-
-
-### Community
-
-
-## Programming
-
-
-### Community
 
  [🌐 Official Forum ~ Epic](https://forums.unrealengine.com/categories?tag=unreal-engine).
 
@@ -75,8 +66,10 @@ But hopefully all of these will find their audience.
 
  [🌐 unrealengine ~ reddit](https://www.reddit.com/r/unrealengine) - UE4+ technical questions / posts here..
 
+ [🌐 IndieDev link farm ~ reddit](https://www.reddit.com/r/IndieDev/wiki/list/).
 
-### Beginner
+
+## Beginner
 
  [📄 Packaging Docs ~ u/delgoodie](https://docs.google.com/document/d/1DDvfJvkYeSobOpexQrFuEYAm7BbXnGuO26GWc1QPEg8/edit?tab=t.0) [release] - long, lots of images.
 
@@ -106,7 +99,7 @@ But hopefully all of these will find their audience.
 
  [📺 Triple FPS: 5 Lighting Optimization Tips ~ MelvinTang Games](https://youtu.be/MLS96wgSMk4) [optimize] - MegaLights, culling distance, mobility types.
 
- [📄 Recommended Asset Naming Conventions ~ Unreal](https://dev.epicgames.com/documentation/en-us/unreal-engine/recommended-asset-naming-conventions-in-unreal-engine-projects) - naming folders & files.
+ [📄 Recommended Asset Naming Conventions ~ epicgames](https://dev.epicgames.com/documentation/en-us/unreal-engine/recommended-asset-naming-conventions-in-unreal-engine-projects) - naming folders & files.
 
  [📺📜 Blueprint Fundamentals ~ Ask A Dev](https://www.youtube.com/playlist?list=PL2A3wMhmbeAq3WOT7kQ0EGby1YMb0zj5_) - 20 vids. experienced dev.
 
@@ -118,6 +111,9 @@ But hopefully all of these will find their audience.
 
  [📺 MEGA TUTORIAL ~ Unreal Sensei](https://youtu.be/k-zMkzmduqI?list=PLKPWwh_viQMGQkQfKKD5lF96efA3_RWt-) [animation] ([5.6 update](https://youtu.be/GWremmdhmdg)) - 10 vids, ~30 hours, v5.5 nanite & lumen.
 
+
+
+## Programming
 
 ### GenAI
 
@@ -187,6 +183,8 @@ But hopefully all of these will find their audience.
  [🏪 Spline Architect ~ FaxLab3D](https://www.fab.com/listings/356b1d13-5080-4418-893d-5a39546bc276) - streamlines level design.
 
  [📺 improve your stylized scene in UE5.7 ~ GraphicLine Games](https://youtu.be/KWRARul6BZg) [asset,texture] - touchups.
+
+ [📺 Scaling Lighting for Quality & Performance ~ Alexis Argyriou](https://youtu.be/Q1whHlGJB_o) [optimize,Lumin].
 
  [🌐 Making Lumen As Performant As Possible ~ reddit](https://www.reddit.com/r/unrealengine/comments/1o2j1ql/making_lumen_as_performant_as_possible/) [optimize,Lumin].
 
@@ -343,6 +341,9 @@ But hopefully all of these will find their audience.
  [📺 stylized 3d explosions ~ CFMakesThings](https://www.youtube.com/shorts/xdxz9Rn6384?feature=share).
 
 
+### Texture
+
+
 ### Material
 
  [🏪 Blendsync  ~ Mangoframes](https://superhivemarket.com/products/blendsync---export-to-unreal--substance-painter-and-back) [commercial,mesh] - Export / Import Tool between Blender, UE5 & Substance Painter.
@@ -382,6 +383,8 @@ But hopefully all of these will find their audience.
 
 
 ### Camera
+
+ [📺 Green Screen VFX ~ Dean Yurke](https://youtu.be/rzMRSDxg33Q) [video] - Pro movie VFX artist explains his process.
 
  [📺 True First person Camera in GASP ~ Zero2GameDev](https://youtu.be/LadZZDJzBWI) [GASP].
 
@@ -477,6 +480,8 @@ But hopefully all of these will find their audience.
 
  [🏪 Complete AI Toolkit ~ Ludus AI](https://ludusengine.com/) [commercial,asset] ([YouTube](https://www.youtube.com/@LudusAI)) - generate C++ code, 3D models, and functional Blueprints.
 
+ [📺 How to use strings in Unreal C++ ~ enigma tutorials](https://youtu.be/I-f0SWPsJ6E) [optimize] - TCHAR, FString, FName, and FText.
+
  [📺📜 Boost your Optimization ~ Taken Grace](https://youtu.be/aeCNMYpoBQk?list=PLV-MOgRkz798siDrye0LnPhrj9Q5HjjuM) - 13+vids.
 
  [📺 change how you DEBUG ~ Pobato Tutorials](https://youtu.be/pFyMPOnFYwU) [article] - Visual Logger.
@@ -497,6 +502,8 @@ But hopefully all of these will find their audience.
 
  [📺 Painterly Post Processing - Kuwahara Filter ~ Matthijs Verkuijlen](https://youtu.be/Pe3Yt3DUp04) [post-process] ([directional](https://youtu.be/JJZBd7Zu0Ug)).
 
+ [💽 UE4 C++ cheat sheets ~ Jan Böhmer](https://github.com/jbtronics/UE4-CheatSheet) [OSS] - pdf & tex.
+
  [🏪 Interactive Foliage Physics ~ Etherion Designs](https://www.fab.com/listings/fcdb655a-8f79-4a97-994d-3c2140067604) [animation,optimize] ([Pro $$$ version](https://www.fab.com/listings/a3f7729e-c68e-4533-9b51-2106357b2316)) - plants react naturally to footsteps and wind.  very cheap, .
 
 
@@ -505,6 +512,8 @@ But hopefully all of these will find their audience.
  [🏪 Endless Runner Game Kit ~ Bree](https://www.fab.com/listings/55f8ca1e-bde7-4b39-80aa-79362f68fabe) [animation,commercial,game].
 
  [📺 10 Awesome Free Plugins ~ Unreal University](https://youtu.be/dmTF57Zwlbc) [demo].
+
+ [📺💽 texture 3D objects with oil paint ~ BOBERT_art](https://youtu.be/fdI1ZJtAJmI) [texture,OSS] - real-time texturing via video cam.
 
  [🏪 1:1 by hour mentoring ~ various](https://www.gamedevmentors.com/).
 
@@ -540,6 +549,8 @@ But hopefully all of these will find their audience.
 
  [📺 Lighting Stylized Assets ~ Stylized Schools](https://youtu.be/4x8F6wxtquM) [asset].
 
+ [🏪 Threepeat Anim Tools ~ Threepeat Games](https://www.fab.com/listings/a5d3b60d-b886-4564-bf6d-15d46a8d27fe) [animation,character,rig] ([video](https://youtu.be/xQKvecYSuEE)) - rig picker and curve editor.
+
  [📺 Beginner Mistakes ~ Pobato Tutorials](https://youtu.be/zqK-RVlWyL4) - coding, pipeline, & building tips.
 
  [📺 Disable Lumen & Nanite template ~ Kamil Hepner](https://youtu.be/O5rC5TWMc64) [optimize] - lightweight.
@@ -573,6 +584,8 @@ But hopefully all of these will find their audience.
  [📺 This is the Kuwahara Filter ~ Acerola](https://youtu.be/LDhN-JK3U9g) [demo] - not Unreal specific, mor about maths.
 
  [📺 AI Random Roam ~ Matt Aspland](https://youtu.be/Mi7r0LqUmOE) [NPC].
+
+ [📺 unmet expectations = bad reviews ~ Thomas Brush](https://youtu.be/ZjtUE-wUvVg) [game,marketing].
 
 
 ## Stylized-Art
@@ -833,6 +846,11 @@ But hopefully all of these will find their audience.
  [📺 Pixel Normal WorldSpace Node ~ PrismaticaDev](https://youtu.be/jOGfr6JXWcI) [shader] - good for putting snow/sand on top of objects.
 
  [🏪 Interactive Foliage Physics ~ Etherion Designs](https://www.fab.com/listings/fcdb655a-8f79-4a97-994d-3c2140067604) [animation,optimize,c++] ([Pro $$$ version](https://www.fab.com/listings/a3f7729e-c68e-4533-9b51-2106357b2316)) - plants react naturally to footsteps and wind.  very cheap, .
+
+
+### Movie
+
+ [📺 Green Screen VFX ~ Dean Yurke](https://youtu.be/rzMRSDxg33Q) [video,camera] - Pro movie VFX artist explains his process.
 
 
 ## Also by Author

@@ -13,11 +13,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 ## Contents
 
- - [Community](#Community)
-   - [Community](#community)
+- [Community](#community)
+- [Beginner](#beginner)
  - [Programming](#Programming)
-   - [Community](#community)
-   - [Beginner](#beginner)
    - [GenAI](#GenAI)
    - [Analysis](#analysis)
    - [AI-char](#AI-char)
@@ -26,6 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
    - [Physics](#physics)
    - [Shader](#shader)
    - [Gradient](#gradient)
+   - [Texture](#texture)
    - [Material](#material)
    - [Niagara](#niagara)
    - [Camera](#camera)
@@ -46,18 +45,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
    - [Water](#water)
    - [Effect](#effect)
    - [Generic](#generic)
+   - [Movie](#movie)
 
 
 ## Community
-
-
-### Community
-
-
-## Programming
-
-
-### Community
 
  [🌐 Official Forum ~ Epic](https://forums.unrealengine.com/categories?tag=unreal-engine).
 
@@ -71,8 +62,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
  [🌐 unrealengine ~ reddit](https://www.reddit.com/r/unrealengine) - UE4+ technical questions / posts here..
 
+ [🌐 IndieDev link farm ~ reddit](https://www.reddit.com/r/IndieDev/wiki/list/).
 
-### Beginner
+
+## Beginner
 
  [📄 Packaging Docs ~ u/delgoodie](https://docs.google.com/document/d/1DDvfJvkYeSobOpexQrFuEYAm7BbXnGuO26GWc1QPEg8/edit?tab=t.0) [release] - long, lots of images.
 
@@ -88,7 +81,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
  [📺 Learning All IN ORDER ~ Game Dev Cave](https://youtu.be/jp_6azlr9Hg?list=PLoReGgpfex3zW6C35lY3Tkcv0ks_i0_wB) [animation,character,GAS] - 160 vids: newbie, blueprints, quests, C++.
 
- [📄 Recommended Asset Naming Conventions ~ Unreal](https://dev.epicgames.com/documentation/en-us/unreal-engine/recommended-asset-naming-conventions-in-unreal-engine-projects) - naming folders & files.
+ [📄 Recommended Asset Naming Conventions ~ epicgames](https://dev.epicgames.com/documentation/en-us/unreal-engine/recommended-asset-naming-conventions-in-unreal-engine-projects) - naming folders & files.
 
  [📺📜 Blueprint Fundamentals ~ Ask A Dev](https://www.youtube.com/playlist?list=PL2A3wMhmbeAq3WOT7kQ0EGby1YMb0zj5_) - 20 vids. experienced dev.
 
@@ -96,6 +89,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
  [📺 MEGA TUTORIAL ~ Unreal Sensei](https://youtu.be/k-zMkzmduqI?list=PLKPWwh_viQMGQkQfKKD5lF96efA3_RWt-) [animation] ([5.6 update](https://youtu.be/GWremmdhmdg)) - 10 vids, ~30 hours, v5.5 nanite & lumen.
 
+
+## Programming
 
 ### GenAI
 
@@ -125,6 +120,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 
 ### Environment
+
+ [📺 Scaling Lighting for Quality & Performance ~ Alexis Argyriou](https://youtu.be/Q1whHlGJB_o) [optimize,Lumin].
 
  [🌐 Making Lumen As Performant As Possible ~ reddit](https://www.reddit.com/r/unrealengine/comments/1o2j1ql/making_lumen_as_performant_as_possible/) [optimize,Lumin].
 
@@ -179,6 +176,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 ### Gradient
 
 
+### Texture
+
+
 ### Material
 
  [📺 Advanced Cel Shader ~ Pitchfork Academy](https://youtu.be/HDyswSWIdY0).
@@ -196,6 +196,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 
 ### Camera
+
+ [📺 Green Screen VFX ~ Dean Yurke](https://youtu.be/rzMRSDxg33Q) [video] - Pro movie VFX artist explains his process.
 
 
 ### Blueprint
@@ -381,6 +383,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
  [📺 Individual Foliage Logic [Harvesting, Damage, Particles] ~ PrismaticaDev](https://youtu.be/6sjc4dqoCF0) [animation,character,blueprint].
 
  [🏪 Interactive Foliage Physics ~ Etherion Designs](https://www.fab.com/listings/fcdb655a-8f79-4a97-994d-3c2140067604) [animation,optimize,c++] ([Pro $$$ version](https://www.fab.com/listings/a3f7729e-c68e-4533-9b51-2106357b2316)) - plants react naturally to footsteps and wind.  very cheap, .
+
+
+### Movie
+
+ [📺 Green Screen VFX ~ Dean Yurke](https://youtu.be/rzMRSDxg33Q) [video,camera] - Pro movie VFX artist explains his process.
 
 
 ## Also by Author

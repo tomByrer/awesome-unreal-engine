@@ -78,13 +78,13 @@ function getFooter(count){
 }
 
 const S2 = {
-  'Community': {
-    about: 'Forums and other hangouts to find new news and help.',
-    list: [
-      //TODO: sort by author
-      'community',
-    ]
-  },
+  // 'Community': {
+  //   about: 'Forums and other hangouts to find new news and help.',
+  //   list: [
+  //     //TODO: sort by author
+  //     'community',
+  //   ]
+  // },
   'Programming': {
     about: "Miscellaneous programming topics that don't directly apply to any art style.",
     list: [
@@ -104,6 +104,7 @@ const S2 = {
         "physics",
         "shader",
         "gradient",
+        "texture",
         "material",
         "niagara",
         'camera',
@@ -132,7 +133,8 @@ const S2 = {
       'scifi',
       'water',
       'effect',
-      'generic'
+      'generic',
+      'movie', //TODO seperate 
     ]
   },
 }
