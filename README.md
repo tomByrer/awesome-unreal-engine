@@ -13,9 +13,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 ## Contents
 
-- [Community](#community)
-- [Beginner](#beginner)
  - [Programming](#Programming)
+   - [Community](#community)
+   - [Beginner](#beginner)
    - [GenAI](#GenAI)
    - [Analysis](#analysis)
    - [AI-char](#AI-char)
@@ -48,7 +48,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
    - [Movie](#movie)
 
 
-## Community
+## Programming
+
+
+### Community
 
  [🌐 Official Forum ~ Epic](https://forums.unrealengine.com/categories?tag=unreal-engine).
 
@@ -65,7 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
  [🌐 IndieDev link farm ~ reddit](https://www.reddit.com/r/IndieDev/wiki/list/).
 
 
-## Beginner
+### Beginner
 
  [📄 Packaging Docs ~ u/delgoodie](https://docs.google.com/document/d/1DDvfJvkYeSobOpexQrFuEYAm7BbXnGuO26GWc1QPEg8/edit?tab=t.0) [release] - long, lots of images.
 
@@ -89,8 +92,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
  [📺 MEGA TUTORIAL ~ Unreal Sensei](https://youtu.be/k-zMkzmduqI?list=PLKPWwh_viQMGQkQfKKD5lF96efA3_RWt-) [animation] ([5.6 update](https://youtu.be/GWremmdhmdg)) - 10 vids, ~30 hours, v5.5 nanite & lumen.
 
-
-## Programming
 
 ### GenAI
 
@@ -125,6 +126,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
  [🌐 Making Lumen As Performant As Possible ~ reddit](https://www.reddit.com/r/unrealengine/comments/1o2j1ql/making_lumen_as_performant_as_possible/) [optimize,Lumin].
 
+ [📺 10 Lighting Tips for Beginners ~ Matt Aspland](https://youtu.be/-EADwK57u9E).
+
  [📺 Achieve True Color in Unreal Engine: Disabling Tonemapper ~ Kibibyte](https://youtu.be/mNr5K2tIAg8) [post-process,pre-process] - custom look, LUTs, etc.
 
  [📺 Low Poly open world w/free assets ~  Dutchmangames](https://youtu.be/cjQKbGsWT-M) [demo] ([part 2](https://youtu.be/I-xgz0GNanw)) - place prefabs for beginners.
@@ -132,6 +135,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
  [📺 Game Environment ~ Stylized Station](https://youtu.be/1C81K60KTtc) - sculpt, texture, lighting.
 
  [📺 Large Scale PCG Tutorial with Gaea Maps ~ Aziel Arts](https://youtu.be/ElpH2AA4Nzc) - Zelda-inspired landscape using Procedural Content Generation.
+
+ [📺 Water: biggest lie in video games ~ AIA](https://youtu.be/Qk_O-q_9YIQ) [emulation] - multiple tech for water & swimming illusions.
 
  [📺 UNDERSTAND and RECREATE a Fortnite-like Landscape Material ~ Imphenzia](https://youtu.be/W6VZcyKU_Nk) [asset,Blender,optimize].
 
@@ -164,6 +169,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 ### Shader
 
+ [📺 Turn ANY rock into STYLIZED ~ GraphicLine Games](https://youtu.be/VlQ4Tq_fouQ) [asset,Lumin] ([Ghibli Shader Texture Generator](https://graphicline.gumroad.com/l/dcqlie)).
+
  [📄 Anime/Toon/Cel Shading Model ~ Envieous](https://forums.unrealengine.com/t/ue5-anime-toon-cel-shading-model-works-with-launcher-engine-versions/544226) [asset,game] - custom shader, works with launcher.
 
  [📺 Manga/outline Shader playlist ~ many](https://youtu.be/pJ42ylVyDpc?list=PLiq69WxS7HrMdVKU6wbEOt27tAw66ki8w) [post-process] - 18 videos, outlines, toon shaders.
@@ -185,6 +192,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
  [📺 Materials in 6 Levels of Complexity ~ pwnisher](https://youtu.be/iZgbzwBQTPY) [tool] ([Master Material FAB](https://www.fab.com/listings/95f437fe-024e-455e-ad8e-a14bb1128131)) - fast.
 
+ [📺 Cartoon Cel Shader 2.0 ~ Sandvector Studios](https://youtu.be/kKhTLnQW-p0) ([Face Shadow Texture Generator file](https://www.artstation.com/marketplace/p/Vmvmm/face-shadow-texture-generator)).
+
  [📺 BOOST Foliage Performance ~ Joshua M Kerr](https://youtu.be/fjuLE3Artic) [optimize] - world offset in material.
 
 
@@ -203,6 +212,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 ### Blueprint
 
  [📺 Make Films 10x Faster in UE ~ Josh Toonen](https://youtu.be/RBtlrRP2fvs) [video,animation,post-process] - cinematic environments, animated decals.
+
+ [📺 Not the usual Fire Torch - w/ Tristan ~ Visual Tech Art](https://youtu.be/wEwq2UNkdDI) [texture].
 
  [📺🏪 Ghibli-Inspired Stylized meadow ~ GraphicLine Games](https://youtu.be/2VRZrm3eCEs) [asset] ([course files; can donate $0](https://graphicline.gumroad.com/l/opjhs)) - FULL COURSE 2.20 hours.
 
@@ -233,6 +244,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
  [📺📜 Essential C++ Programming Basics ~ Pobato Tutorials](https://youtu.be/VdGpv2IzUAw?list=PLUafV3PKFG2loWC7UjIfTibPqfHaTIIz-) - 23 short vids, focused topics, no fluff.
 
+ [📺 Software-Occlusion-Culling ~ ArmainAP](https://github.com/ArmainAP/Unreal-Engine-Software-Occlusion-Culling) [optimize] - reintroducing the functionality of CPU-based occlusion culling.
+
  [📺📜🏪 Tactical Combat on square/hex/triangle grids ~ Alex Quevillon](https://youtu.be/D7W6qeS_zlY?list=PLBLmKCAjA25CKFIvmaA8y3tsX_URgkX4O) [game] ([FAB](https://www.fab.com/listings/bd11e459-47bd-45b4-a7ce-af1a227bc5ac)) - 65 vids.
 
  [🏪 Interactive Foliage Physics ~ Etherion Designs](https://www.fab.com/listings/fcdb655a-8f79-4a97-994d-3c2140067604) [animation,optimize] ([Pro $$$ version](https://www.fab.com/listings/a3f7729e-c68e-4533-9b51-2106357b2316)) - plants react naturally to footsteps and wind.  very cheap, .
@@ -240,9 +253,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 ### Msc
 
+ [📺 Textures for VFX Database ~ simonschreibt](https://simonschreibt.notion.site/Textures-for-VFX-Database-2c72eccccfa84a0eae927d778ad746cc) - well tagged.
+
+ [💽🌐 UE4.27 vs 5.6 performance ~ reddit](https://www.reddit.com/r/unrealengine/comments/1oeq1ve/comment/nl4qnh7/) [project,optimize].
+
  [🏪 CG Marketplace ~ Flipped Normals](https://flippednormals.com/) [asset,commercial] - tutorials & assets.
 
  [📺 Custom Character Skeletons and Animations ~ Upside Tutorials](https://youtu.be/BLVWvxFi9vg) [animation,character].
+
+ [📺 What Sells on Steam: You Don't Need a Hook ~ Jonas Tyroller](https://youtu.be/uiBDyZ-Pf2M) [marketing] - make cool experiences, hooks less important.. Four Pillars: fun, appeal, scope, monetization.
 
  [📺 free FAB newsletter ~ Zero2GameDev](https://www.youtube.com/@Zero2GameDev0) [tool] - links to free FAB packs every month.
 
@@ -254,6 +273,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
  [📺 Long-Form Narrative Workflow ~ Unreal Engine](https://youtu.be/UVRlNFFBa1o) - Steamroller Animation 2D cartoon.
 
+ [📺 Crosshairs Are Surprisingly Difficult ~ JayTheDevGuy](https://youtu.be/aLgOsEQgtmM) [UI/UX].
+
  [📄 GameplayAbilitySystem notes ~ tranek](https://github.com/tranek/GASDocumentation) [GAS].
 
  [📺 Material Ambient Occlusion ~ William Faucher](https://youtu.be/65cgc3jbNlg) - bake Ambient Occlusion maps onto models.
@@ -262,11 +283,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
  [📺 This is the Kuwahara Filter ~ Acerola](https://youtu.be/LDhN-JK3U9g) [demo] - not Unreal specific, mor about maths.
 
+ [📺 Fake Melee Attacks to Make Combat Feel Great ~ GDQuest](https://youtu.be/nLxmDdNiGaU) [character,combat] - hurt boxes.
+
 
 ## Stylized-Art
 
 
 ### Ghibli
+
+ [📺 Turn ANY rock into STYLIZED ~ GraphicLine Games](https://youtu.be/VlQ4Tq_fouQ) [asset,Lumin,shader] ([Ghibli Shader Texture Generator](https://graphicline.gumroad.com/l/dcqlie)).
 
  [📺🏪 Ghibli-Inspired Stylized meadow ~ GraphicLine Games](https://youtu.be/2VRZrm3eCEs) [asset,blueprint] ([course files; can donate $0](https://graphicline.gumroad.com/l/opjhs)) - FULL COURSE 2.20 hours.
 
@@ -298,6 +323,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
  [📺 Manga/outline Shader playlist ~ many](https://youtu.be/pJ42ylVyDpc?list=PLiq69WxS7HrMdVKU6wbEOt27tAw66ki8w) [post-process,shader] - 18 videos, outlines, toon shaders.
 
  [📺 Advanced Cel Shader ~ Pitchfork Academy](https://youtu.be/HDyswSWIdY0) [material].
+
+ [📺 Cartoon Cel Shader 2.0 ~ Sandvector Studios](https://youtu.be/kKhTLnQW-p0) [material] ([Face Shadow Texture Generator file](https://www.artstation.com/marketplace/p/Vmvmm/face-shadow-texture-generator)).
 
 
 ### Pixelized
