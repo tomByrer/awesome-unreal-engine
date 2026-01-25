@@ -283,3 +283,23 @@
 789,Get Rid of LightMapUVs,Visual Tech Art,https://youtu.be/MfNUuOxZn2Q,2025-04-28,2025-11-24,,UE5,video,blueprint,,none,,,
 790,Procedural Animations,Unreal University ,https://youtu.be/VaYEd-fKvMI,2025-11-03,2025-11-24,,UE5,video,msc,,none,,,
 791,10 Lighting Tips for Beginners,Matt Aspland,https://youtu.be/-EADwK57u9E,2025-03-11,2025-11-24,tutorial,UE5,video,environment,,none,,,
+792,Baking out vertex animation in editor with AnimToTexture,epicgames,https://dev.epicgames.com/community/learning/tutorials/daE9/unreal-engine-baking-out-vertex-animation-in-editor-with-animtotexture,2023-02-25,2025-11-27,,UE5,blog,niagara,crowd,none,simulating large crowds,,
+793,ActorIO,HorizonGamesRoland,https://github.com/HorizonGamesRoland/ActorIO,2025-12-18,2026-01-01,repo,UE5,repo,msc,"NPC,combat",none,Source Engine inspired level scripting tool,demo,https://github.com/HorizonGamesRoland/ActorIOSample
+794,marketing indie Doc,Richard Zemore,https://docs.google.com/document/d/1JR8fsg6Tt_cvGHtcqb0rtdU84bbzNq7vYL_knvGCFJg/edit?tab=t.1wcppz75ozbm#heading=h.h19k42qddmeq,2025-12-17,2026-01-03,repo,UE5,repo,none,marketing,none,1-2 man team consultant,reddit,https://www.reddit.com/r/SoloDevelopment/comments/1pq9rnw/comment/nusriyw/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+795,How game design handles newbies,DerangedDoomer,https://youtu.be/jVX4C1-PPtc,2025-12-28,2026-01-02,,UE5,video,msc,"character,marketing",none,,,
+796,ANIME STYLE SHADOWS,CuriousVertex,https://youtu.be/qSpe2T4hprM,2025-12-06,2026-01-02,tutorial,UE5,video,c++,"emulation,mesh",painted,uses C++ & blueprints to make sketchy effect,files,https://www.patreon.com/posts/anime-style-145204165?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
+797,How I Make 225K/Year,Brandon Lerry,https://youtu.be/fL0eqWbPIcs,2025-12-19,2026-01-03,,msc,video,none,,none,,,
+798,Insanely Original Games That Play Like Nothing ELSE,gameranx,https://youtu.be/EpJpE7YEeI4,2025-08-13,2026-01-03,,none,video,none,,none,,,
+799,What It REALLY Takes to Make an Animated Feature Film ALONE,The VFX Process,https://youtu.be/0dDR0N_pHmQ,2025-12-12,2026-01-03,,none,video,none,,none,,,
+800,Stylized 3D Environments Made EASY,GraphicLine Games,https://youtu.be/zzBx94M3ErE,2026-01-02,2026-01-03,,UE5,video,environment,,stylized,,,
+801,Vue 3D & Plant Factory Are Going Opensource,askNK,https://youtu.be/mgq4APBRlw8,2025-12-31,2026-01-03,,UE5,video,msc,,none,,,
+802,How this UE5 film won an Oscar,Josh Toonen,https://youtu.be/eOQM1Tbyw0Y,2025-12-19,2026-01-03,analysis,UE5,video,msc,"animation,character",cartoon,,,
+803,Friction: open-source alternative to After Effects?,Momo PTFL,https://youtu.be/HPIt6ICjzGM,2025-07-06,2026-01-12,,msc,video,msc,animation,none,2d animation,,
+804,unreal-engine-mcp,flopperam,https://github.com/flopperam/unreal-engine-mcp,2025-12-29,2026-01-13,repo,UE5,repo,GenAI,,none,"use Claude, Cursor, and Windsurf for world building",,
+805,UE AI agent,flopperam,https://www.flopperam.com/,2026-01-01,2026-01-13,,msc,store,GenAI,,none,"tuned, can read blueprints, assets, C++",,
+806,Bullet Tracer Ribbon Trail,Tony Munoz,https://www.youtube.com/watch?v=6O57N7_ao0w,2026-01-08,2026-01-13,,UE5.7,video,niagara,animation,none,,,
+807,UnrealGenAISupport,prajwalshettydev,https://github.com/prajwalshettydev/UnrealGenAISupport,2026-01-05,2026-01-13,,UE5,repo,GenAI,,none,"MCP OpenAI's GPT 5.1, Deepseek V3.1, Claude Sonnet 4.5 APIs, Gemini 3, Alibaba Qwen, Kimi and Grok 4.1",,
+808,Tost Engine TRELLIS 2 AI,camenduru,https://github.com/camenduru/TostEngine-trellis2-unrealengine-plugin,2026-01-10,2026-01-13,,UE5,repo,GenAI,asset,none,generating high-quality 3D models from 2D images,,
+809,ARIS: Echoes: demo game,oscaem,https://github.com/oscaem/ARIS-Unreal-GPT,2023-07-03,2026-01-13,,UE5,repo,AI-char,,none,"GPT-4, Azure TTS",,
+810,How One Guy FIXED Procedural Generation,Game Dev Buddies,https://youtu.be/Y19Mw5YsgjI,2026-01-08,2026-01-15,analysis,none,video,environment,asset,none,player made landscapes semi-randomish,,
+811,"""Step by step"" Procedural Animation",Lincoln Margison ,https://youtu.be/E23zeX0Mttc,2026-01-16,2026-01-19,course,UE5.7,video,asset,"animation,character",none,spider,reddit,https://www.reddit.com/r/UnrealEngine5/comments/1qggyzu/a_few_days_ago_i_posted_a_clip_of_this_procedural/

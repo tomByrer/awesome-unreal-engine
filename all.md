@@ -1,5 +1,5 @@
 # Unreal Engine Bookmarks
-![Unreal Engine Logo](https://private-user-images.githubusercontent.com/1308419/505749918-3a449023-7463-4302-a14e-536fb937181f.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE0OTk0MDgsIm5iZiI6MTc2MTQ5OTEwOCwicGF0aCI6Ii8xMzA4NDE5LzUwNTc0OTkxOC0zYTQ0OTAyMy03NDYzLTQzMDItYTE0ZS01MzZmYjkzNzE4MWYuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MTAyNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTEwMjZUMTcxODI4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NjlmZWE1YWNmYzNkMGQxODYwMDk2ZmNiYWYxOGU2NjRlYzhkYmVkZmNmZGI1MjI4YzIxNTFhMTAwNzk0ZTI5MCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.L_2wSJqxK1W8ot9pHqiUhqO-IQ6mDTugMpoPLHrjbEo)
+![Unreal Engine Logo](https://private-user-images.githubusercontent.com/1308419/505749918-3a449023-7463-4302-a14e-536fb937181f.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjkzMjMzNDUsIm5iZiI6MTc2OTMyMzA0NSwicGF0aCI6Ii8xMzA4NDE5LzUwNTc0OTkxOC0zYTQ0OTAyMy03NDYzLTQzMDItYTE0ZS01MzZmYjkzNzE4MWYuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDEyNSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjAxMjVUMDYzNzI1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZTQ4ZDczNmQ1YWFkOWJlZjJjZTI5MDVjNzhmZmEyMzMzNzI0YWI1NmUxZGQ3MzFhYWZjZTliMDZhODllMjU5ZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.O8xnvCI_EEyYhRfIlvrTvGN1C-cwWPqpYh2Dwxt9ckg)
 ## UE5 tutorials, assets, and articles
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -9,7 +9,7 @@ Resources focused on a particular art direction are separated out.  You may find
 
 Not all resources are [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-file#gaming).
 But hopefully all of these will find their audience.
-(This is the CSV bookmark dump formatted in Markdown.)
+(This is the CSV 300+ bookmarks dump formatted in Markdown.)
 
 ## Contents
 
@@ -117,6 +117,14 @@ But hopefully all of these will find their audience.
 
 ### GenAI
 
+ [💽 Tost Engine TRELLIS 2 AI ~ camenduru](https://github.com/camenduru/TostEngine-trellis2-unrealengine-plugin) [asset] - generating high-quality 3D models from 2D images.
+
+ [💽 UnrealGenAISupport ~ prajwalshettydev](https://github.com/prajwalshettydev/UnrealGenAISupport) - MCP OpenAI's GPT 5.1, Deepseek V3.1, Claude Sonnet 4.5 APIs, Gemini 3, Alibaba Qwen, Kimi and Grok 4.1.
+
+ [🏪 UE AI agent ~ flopperam](https://www.flopperam.com/) - tuned, can read blueprints, assets, C++.
+
+ [💽 unreal-engine-mcp ~ flopperam](https://github.com/flopperam/unreal-engine-mcp) - use Claude, Cursor, and Windsurf for world building.
+
  [📺 Speed Up Your Game Dev Workflow with These 10 Tools ~ DebugDevin](https://youtu.be/iWmwnBJxdGY) [tool,asset].
 
  [📺 Character Creator GoZ ZBrush to UE ~ Reallusion](https://youtu.be/ZWjei-2n_Nw) [character].
@@ -173,12 +181,18 @@ But hopefully all of these will find their audience.
 
  [📺🏪 NPCs react with AI ~ ConvAI](https://youtu.be/phAkEFa6Thc) [NPC] - conversational.
 
+ [💽 ARIS: Echoes: demo game ~ oscaem](https://github.com/oscaem/ARIS-Unreal-GPT) - GPT-4, Azure TTS.
+
  [📺 AI of F.E.A.R. with GOAP ~ AI and Games](https://youtu.be/PaOLBOuyswI) [article] - Goal Oriented Action Planning.
 
  [📺 3 AI Use Cases ~ Ali Elzoheiry](https://youtu.be/BpJYei2PboA) [tool].
 
 
 ### Environment
+
+ [📺 How One Guy FIXED Procedural Generation ~ Game Dev Buddies](https://youtu.be/Y19Mw5YsgjI) [asset] - player made landscapes semi-randomish.
+
+ [📺 Stylized 3D Environments Made EASY ~ GraphicLine Games](https://youtu.be/zzBx94M3ErE).
 
  [📺 Custom Nanite Vegetation ~ HullaBulla](https://youtu.be/b_jhGZ2jto8) [Nanite].
 
@@ -240,6 +254,8 @@ But hopefully all of these will find their audience.
 
 
 ### Asset
+
+ [📺 "Step by step" Procedural Animation ~ Lincoln Margison ](https://youtu.be/E23zeX0Mttc) [animation,character] ([reddit](https://www.reddit.com/r/UnrealEngine5/comments/1qggyzu/a_few_days_ago_i_posted_a_clip_of_this_procedural/)) - spider.
 
  [🏪 Vertex Animation Manager ~ Thomas Schneider](https://www.fab.com/listings/2dfabdbb-0363-4c31-befc-f86c044b0e6c) [animation].
 
@@ -389,6 +405,8 @@ But hopefully all of these will find their audience.
 
 ### Niagara
 
+ [📺 Bullet Tracer Ribbon Trail ~ Tony Munoz](https://www.youtube.com/watch?v=6O57N7_ao0w) [animation].
+
  [📺 Create And Spawn Niagara Effects On Skeletal Meshes ~ Pitchfork Academy](https://youtu.be/QeaD0idz-eM) [animation].
 
  [🏪 Jumping Fish & Splash Effect ~ Kovilgaming](https://www.fab.com/listings/10b9c695-50f0-4bd8-8402-d44ce8966118) [animation,asset] - fish jumping out & in water.
@@ -412,6 +430,8 @@ But hopefully all of these will find their audience.
  [📺 Niagara Particles:Beginner Tutorial for Motion Designers ~ Jon Jags Nee](https://youtu.be/pzIORuULNfo) [animation] - circling cloud.
 
  [📺 Easy Glowing Particles ~ Aziel Arts](https://youtu.be/xJK-QO9YH68) [animation,post-process].
+
+ [📄 Baking out vertex animation in editor with AnimToTexture ~ epicgames](https://dev.epicgames.com/community/learning/tutorials/daE9/unreal-engine-baking-out-vertex-animation-in-editor-with-animtotexture) [crowd] - simulating large crowds.
 
  [📺 Mist Particle System ~ CodeLikeMe](https://youtu.be/C_soSQb11fc) - fog.
 
@@ -514,6 +534,8 @@ But hopefully all of these will find their audience.
 
 ### C++
 
+ [📺 ANIME STYLE SHADOWS ~ CuriousVertex](https://youtu.be/qSpe2T4hprM) [emulation,mesh] ([files](https://www.patreon.com/posts/anime-style-145204165?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)) - uses C++ & blueprints to make sketchy effect.
+
  [💽 mobile forward rendering quality toggle ~ Vaei](https://github.com/Vaei/ForwardRender) [optimize] ([reddit post](https://www.reddit.com/r/unrealengine/comments/1od0raf/is_there_a_way_to_use_unreal_engine_5_without/)).
 
  [💽 Dialogue Plugin System ~ NotYetGames](https://github.com/NotYetGames/DlgSystem) ([tutorial](https://www.youtube.com/playlist?list=PLXwmPAN4LZ4aqXZSVepF27qyAzoGqZpfB)).
@@ -562,6 +584,14 @@ But hopefully all of these will find their audience.
  [🏪 Endless Runner Game Kit ~ Bree](https://www.fab.com/listings/55f8ca1e-bde7-4b39-80aa-79362f68fabe) [animation,commercial,game].
 
  [📺 10 Awesome Free Plugins ~ Unreal University](https://youtu.be/dmTF57Zwlbc) [demo].
+
+ [📺 Vue 3D & Plant Factory Are Going Opensource ~ askNK](https://youtu.be/mgq4APBRlw8).
+
+ [📺 How game design handles newbies ~ DerangedDoomer](https://youtu.be/jVX4C1-PPtc) [character,marketing].
+
+ [📺 How this UE5 film won an Oscar ~ Josh Toonen](https://youtu.be/eOQM1Tbyw0Y) [animation,character].
+
+ [💽 ActorIO ~ HorizonGamesRoland](https://github.com/HorizonGamesRoland/ActorIO) [NPC,combat] ([demo](https://github.com/HorizonGamesRoland/ActorIOSample)) - Source Engine inspired level scripting tool.
 
  [📺 Motion Designer Reacts to Fantastic4 Title Sequences ~ The Video Shop](https://youtu.be/pfapONWRaHc) [animation,marketing].
 
@@ -614,6 +644,8 @@ But hopefully all of these will find their audience.
  [📄 build dynamic matchmaking with PubNub ~ epicgames](https://onlineservices.epicgames.com/en-US/news/creating-dynamic-matchmaking-systems-with-pubnub-and-epic-online-services) [multiplayer].
 
  [📺 beginner tips ~ Unreal University](https://youtu.be/ZDqX6T1-tA0) [article] - diversion VCS, migrate assets from packs, early playtesting, consistent styles.
+
+ [📺 Friction: open-source alternative to After Effects? ~ Momo PTFL](https://youtu.be/HPIt6ICjzGM) [animation] - 2d animation.
 
  [🏪 OSS Omega Game Framework ~ StudioSyndiCatCaius](https://github.com/StudioSyndiCatCaius/OmegaGameFramework) [data,OSS] - free Alpha game system.
 
@@ -714,6 +746,8 @@ But hopefully all of these will find their audience.
 
 ### Cartoon
 
+ [📺 How this UE5 film won an Oscar ~ Josh Toonen](https://youtu.be/eOQM1Tbyw0Y) [animation,character,msc].
+
  [📄 Anime/Toon/Cel Shading Model ~ Envieous](https://forums.unrealengine.com/t/ue5-anime-toon-cel-shading-model-works-with-launcher-engine-versions/544226) [asset,game,shader] - custom shader, works with launcher.
 
  [📺 Manga/outline Shader playlist ~ many](https://youtu.be/pJ42ylVyDpc?list=PLiq69WxS7HrMdVKU6wbEOt27tAw66ki8w) [post-process,shader] - 18 videos, outlines, toon shaders.
@@ -741,6 +775,8 @@ But hopefully all of these will find their audience.
 
 
 ### Stylized
+
+ [📺 Stylized 3D Environments Made EASY ~ GraphicLine Games](https://youtu.be/zzBx94M3ErE) [environment].
 
  [📺 improve your stylized scene in UE5.7 ~ GraphicLine Games](https://youtu.be/KWRARul6BZg) [asset,texture,environment] - touchups.
 
@@ -941,7 +977,7 @@ But hopefully all of these will find their audience.
 
 ## License
 
-Copyright (c)2025, JS code Copyright (c)2019-2025
+Copyright (c)2025-2026, JS code Copyright (c)2019-2025
 You may fork &/or copy to your own harddrive if you intend to make improvements and send them back to this repo.
 You may NOT republish/repurpose the entire list (in readme.md, all.md, &/or the CSV file) to any other platform.
 

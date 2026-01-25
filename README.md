@@ -1,5 +1,5 @@
 # Awesome Unreal Engine
-![Unreal Engine Logo](https://private-user-images.githubusercontent.com/1308419/505749918-3a449023-7463-4302-a14e-536fb937181f.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE0OTk0MDgsIm5iZiI6MTc2MTQ5OTEwOCwicGF0aCI6Ii8xMzA4NDE5LzUwNTc0OTkxOC0zYTQ0OTAyMy03NDYzLTQzMDItYTE0ZS01MzZmYjkzNzE4MWYuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MTAyNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTEwMjZUMTcxODI4WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NjlmZWE1YWNmYzNkMGQxODYwMDk2ZmNiYWYxOGU2NjRlYzhkYmVkZmNmZGI1MjI4YzIxNTFhMTAwNzk0ZTI5MCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.L_2wSJqxK1W8ot9pHqiUhqO-IQ6mDTugMpoPLHrjbEo)
+![Unreal Engine Logo](https://private-user-images.githubusercontent.com/1308419/505749918-3a449023-7463-4302-a14e-536fb937181f.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjkzMjMzNDUsIm5iZiI6MTc2OTMyMzA0NSwicGF0aCI6Ii8xMzA4NDE5LzUwNTc0OTkxOC0zYTQ0OTAyMy03NDYzLTQzMDItYTE0ZS01MzZmYjkzNzE4MWYuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDEyNSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjAxMjVUMDYzNzI1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZTQ4ZDczNmQ1YWFkOWJlZjJjZTI5MDVjNzhmZmEyMzMzNzI0YWI1NmUxZGQ3MzFhYWZjZTliMDZhODllMjU5ZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.O8xnvCI_EEyYhRfIlvrTvGN1C-cwWPqpYh2Dwxt9ckg)
 ## UE5 tutorials, assets, and articles
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -9,7 +9,7 @@ Resources focused on a particular art direction are separated out.  You may find
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-file#gaming) list.
 (A bit different, since the CSV bookmark dump &
-[all page](https://github.com/tomByrer/awesome-unreal-engine/blob/main/all.md#unreal-engine--bookmarks) contains *many* other links that didn't make the 'awesome' list.)
+[all page](https://github.com/tomByrer/awesome-unreal-engine/blob/main/all.md#unreal-engine--bookmarks) contains *many* more links that didn't make the 'awesome' list.)
 
 ## Contents
 
@@ -95,6 +95,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 ### GenAI
 
+ [💽 unreal-engine-mcp ~ flopperam](https://github.com/flopperam/unreal-engine-mcp) - use Claude, Cursor, and Windsurf for world building.
+
 
 ### Analysis
 
@@ -122,6 +124,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 ### Environment
 
+ [📺 How One Guy FIXED Procedural Generation ~ Game Dev Buddies](https://youtu.be/Y19Mw5YsgjI) [asset] - player made landscapes semi-randomish.
+
  [📺 Scaling Lighting for Quality & Performance ~ Alexis Argyriou](https://youtu.be/Q1whHlGJB_o) [optimize,Lumin].
 
  [🌐 Making Lumen As Performant As Possible ~ reddit](https://www.reddit.com/r/unrealengine/comments/1o2j1ql/making_lumen_as_performant_as_possible/) [optimize,Lumin].
@@ -146,6 +150,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 
 ### Asset
+
+ [📺 "Step by step" Procedural Animation ~ Lincoln Margison ](https://youtu.be/E23zeX0Mttc) [animation,character] ([reddit](https://www.reddit.com/r/UnrealEngine5/comments/1qggyzu/a_few_days_ago_i_posted_a_clip_of_this_procedural/)) - spider.
 
  [📺 adding destruction ~ EODdev](https://www.youtube.com/shorts/XIliGusbLFs?feature=share) [asset].
 
@@ -236,6 +242,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 ### C++
 
+ [📺 ANIME STYLE SHADOWS ~ CuriousVertex](https://youtu.be/qSpe2T4hprM) [emulation,mesh] ([files](https://www.patreon.com/posts/anime-style-145204165?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)) - uses C++ & blueprints to make sketchy effect.
+
  [💽 mobile forward rendering quality toggle ~ Vaei](https://github.com/Vaei/ForwardRender) [optimize] ([reddit post](https://www.reddit.com/r/unrealengine/comments/1od0raf/is_there_a_way_to_use_unreal_engine_5_without/)).
 
  [📄 Gameplay Ability System ~ Zhi Kang Shao](https://dev.epicgames.com/community/learning/tutorials/8Xn9/unreal-engine-epic-for-indies-your-first-60-minutes-with-gameplay-ability-system) [GAS] - for beginners.  Epic staff writer.
@@ -252,6 +260,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 
 ### Msc
+
+ [📺 How this UE5 film won an Oscar ~ Josh Toonen](https://youtu.be/eOQM1Tbyw0Y) [animation,character].
+
+ [💽 ActorIO ~ HorizonGamesRoland](https://github.com/HorizonGamesRoland/ActorIO) [NPC,combat] ([demo](https://github.com/HorizonGamesRoland/ActorIOSample)) - Source Engine inspired level scripting tool.
 
  [📺 Textures for VFX Database ~ simonschreibt](https://simonschreibt.notion.site/Textures-for-VFX-Database-2c72eccccfa84a0eae927d778ad746cc) - well tagged.
 
@@ -317,6 +329,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 
 ### Cartoon
+
+ [📺 How this UE5 film won an Oscar ~ Josh Toonen](https://youtu.be/eOQM1Tbyw0Y) [animation,character,msc].
 
  [📄 Anime/Toon/Cel Shading Model ~ Envieous](https://forums.unrealengine.com/t/ue5-anime-toon-cel-shading-model-works-with-launcher-engine-versions/544226) [asset,game,shader] - custom shader, works with launcher.
 
@@ -423,7 +437,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 ## License
 
-Copyright (c)2025, JS code Copyright (c)2019-2025
+Copyright (c)2025-2026, JS code Copyright (c)2019-2025
 You may fork &/or copy to your own harddrive if you intend to make improvements and send them back to this repo.
 You may NOT republish/repurpose the entire list (in readme.md, all.md, &/or the CSV file) to any other platform.
 
