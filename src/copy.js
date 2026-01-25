@@ -9,11 +9,9 @@ export let awesomePreamble = `# Awesome Unreal Engine
 A curated list of awesome articles & resources for **[Unreal game engine](https://www.unrealengine.com/)**.
 Resources focused on a particular art direction are separated out.  You may find a few links [not specific to UE](#other), but are about 3d assets, game or [movie](#movie) production, etc.
 
-Beginners should start with [Community](#community) & [beginner](#beginner).
+Beginners should start with [Community](#community) & [beginner](#beginner).  Experts can find many more links in the [all page](https://github.com/tomByrer/awesome-unreal-engine/blob/main/all.md#unreal-engine--bookmarks).
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-file#gaming) list.
-(A bit different, since the CSV bookmark dump &
-[all page](https://github.com/tomByrer/awesome-unreal-engine/blob/main/all.md#unreal-engine--bookmarks) contains *many* more links that didn't make the 'awesome' list.)
 `
 
 export let allPreamble = `# Unreal Engine Bookmarks
@@ -46,7 +44,7 @@ You may NOT republish/repurpose the entire list (in readme.md, all.md, &/or the 
 You are free link to this repo, so please share a link in your blog, YouTube channel, Reddit, etc.
 `
 
-// S2 = selected topics
+// S2 = selected topics in sorted order
 export let S2 = {
   'Stylized-Art': {
     about: '"Stylized" in games is a off-realistic, more minimal interpretation, though sometimes (eg with characters) may be exaggerated.',
@@ -96,7 +94,6 @@ export let S2 = {
         "physics",
         "motion",
         "shader",
-        "gradient",
         "material",
         "niagara",
         'camera',

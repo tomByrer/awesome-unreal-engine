@@ -88,10 +88,12 @@ function createMarkdown(aweArr, isAwesome=false) {
   let itemNow = '' // bookmark item topic
   const S2keys = Object.keys(S2)
   const S2len = S2keys.length
-  // duplicate checker removed for now
-  // let count = 0
-  // const uniqueURLs = new Set()
-  // let uURLsSize = 0
+
+  // duplicate checker
+  let count = 0
+  const uniqueURLs = new Set()
+  let uURLsSize = 0
+
   for (let h=0; h < S2len; h++) {
     headerNow = S2[ S2keys[h] ]
     const { tocHeader, mdHeader } = getHeader(S2keys[h])
@@ -116,16 +118,16 @@ function createMarkdown(aweArr, isAwesome=false) {
           isLangSorted = !!headerNow.lang
           itemNow = (isLangSorted) ? bmRow.lang : bmRow.style
           if (listNow === itemNow ) {
-            // uniqueURLs.add(bmRow.url)
-            // // console.log(uniqueURLs.size)
-            // if ( uniqueURLs.size === (uURLsSize + 1) ){
-            //   uURLsSize++
+            uniqueURLs.add(bmRow.url)
+            // console.log(uniqueURLs.size)
+            if ( uniqueURLs.size === (uURLsSize + 1) ){
+              uURLsSize++
               md += getBookmark(bmRow, isLangSorted)
-            //   count++
-            // }
-            // else {
-            //   console.error('duplicate:', bmRow.url)
-            // }
+              count++
+            }
+            else {
+              console.error('duplicate:', bmRow.url)
+            }
           }
         }
       }//Items
@@ -134,8 +136,8 @@ function createMarkdown(aweArr, isAwesome=false) {
 // console.log(toc, md)
   console.log(
     'all length:', aweArr.length-1, //- header
-    // 'count', count,
-    // 'uniqueURLs', uniqueURLs.size
+    'count', count,
+    'uniqueURLs', uniqueURLs.size
   )
 
   return toc + md// + getFooter(count)
