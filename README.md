@@ -13,32 +13,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 ## Contents
 
- - [Programming](#Programming)
-   - [Community](#community)
-   - [Beginner](#beginner)
-   - [GenAI](#GenAI)
-   - [Analysis](#analysis)
-   - [AI-char](#AI-char)
-   - [Environment](#environment)
-   - [Asset](#asset)
-   - [Physics](#physics)
-   - [Shader](#shader)
-   - [Gradient](#gradient)
-   - [Texture](#texture)
-   - [Material](#material)
-   - [Niagara](#niagara)
-   - [Camera](#camera)
-   - [Blueprint](#blueprint)
-   - [C++](#c++)
-   - [Msc](#msc)
  - [Stylized-Art](#Stylized-Art)
    - [Ghibli](#Ghibli)
+   - [Zelda](#Zelda)
+   - [Fortnite](#Fortnite)
    - [Anime](#anime)
    - [Comic](#comic)
    - [Cartoon](#cartoon)
    - [Pixelized](#pixelized)
-   - [Zelda](#Zelda)
-   - [Fortnite](#Fortnite)
+   - [Retro](#retro)
+   - [Painted](#painted)
    - [Stylized](#stylized)
  - [Other-Styles](#Other-Styles)
    - [Scifi](#scifi)
@@ -46,9 +30,168 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
    - [Effect](#effect)
    - [Generic](#generic)
    - [Movie](#movie)
+   - [Audio](#audio)
+ - [General](#General)
+   - [Community](#community)
+   - [Beginner](#beginner)
+   - [GenAI](#GenAI)
+   - [Analysis](#analysis)
+   - [AI-char](#AI-char)
+   - [Environment](#environment)
+   - [MetaHuman](#MetaHuman)
+   - [Asset](#asset)
+   - [Physics](#physics)
+   - [Motion](#motion)
+   - [Shader](#shader)
+   - [Gradient](#gradient)
+   - [Material](#material)
+   - [Niagara](#niagara)
+   - [Camera](#camera)
+   - [Blueprint](#blueprint)
+   - [C++](#c++)
+   - [Msc](#msc)
+   - [General](#general)
 
 
-## Programming
+## Stylized-Art
+
+
+### Ghibli
+
+ [📺 Turn ANY rock into STYLIZED ~ GraphicLine Games](https://youtu.be/VlQ4Tq_fouQ) [asset,Lumin,shader] ([Ghibli Shader Texture Generator](https://graphicline.gumroad.com/l/dcqlie)).
+
+ [📺🏪 Ghibli-Inspired Stylized meadow ~ GraphicLine Games](https://youtu.be/2VRZrm3eCEs) [asset,blueprint] ([course files; can donate $0](https://graphicline.gumroad.com/l/opjhs)) - FULL COURSE 2.20 hours.
+
+ [📺🏪 AAA Ghibli Forest in Blender & Unreal ~ ShinGidora](https://youtu.be/2Lu2VBG1JE0) [demo,Blender,asset] - good tips, though is promotion for his TREEBOX commercial script.
+
+ [📺 BEST 3D TREE in anime STYLE ~ GraphicLine Games](https://youtu.be/kI8pSj-9Xxw) [asset].
+
+
+### Zelda
+
+ [📺 Large Scale PCG Tutorial with Gaea Maps ~ Aziel Arts](https://youtu.be/ElpH2AA4Nzc) [environment] - Zelda-inspired landscape using Procedural Content Generation.
+
+
+### Fortnite
+
+ [📺 UNDERSTAND and RECREATE a Fortnite-like Landscape Material ~ Imphenzia](https://youtu.be/W6VZcyKU_Nk) [asset,Blender,optimize,environment].
+
+
+### Anime
+
+ [📺 I Nailed the Anime Look ~ SILKROAD Project](https://youtu.be/nyRcPMOpxcI) [optimize,Houdini ,character,asset] - outline & shadows part of UV, not filter.
+
+
+### Comic
+
+ [📺 Physically Based Cel Shading ~ Visual Tech Art](https://youtu.be/eBS3BOI5KnM) [pre-process,blueprint] - Physically Based pipeline.
+
+ [📺 stylized comic book shader ~ Chris Folea Makes Things](https://youtu.be/Ctx1TP0XDUM) [pre-process,blueprint] - WITHOUT post processing.
+
+ [📺 Cel-Shader playlist ~ many](https://youtu.be/GQhdbH8O7Oc?list=PLbNPlYeHWqEYxJfm99-2w_45yHa32J17f) [post-process,Lumin,msc] - 17 videos.
+
+ [📺 Moebius-style 3D Rendering ~ Useless Game Dev](https://youtu.be/jlKNOirh66E) [pre-process,post-process,shader] - Sorbel filter on depth map, crosshatch, fader, etc.
+
+
+### Cartoon
+
+ [📺 How this UE5 film won an Oscar ~ Josh Toonen](https://youtu.be/eOQM1Tbyw0Y) [animation,character,msc].
+
+ [📄 Anime/Toon/Cel Shading Model ~ Envieous](https://forums.unrealengine.com/t/ue5-anime-toon-cel-shading-model-works-with-launcher-engine-versions/544226) [asset,game,shader] - custom shader, works with launcher.
+
+ [📺 Manga/outline Shader playlist ~ many](https://youtu.be/pJ42ylVyDpc?list=PLiq69WxS7HrMdVKU6wbEOt27tAw66ki8w) [post-process,shader] - 18 videos, outlines, toon shaders.
+
+ [📺 Advanced Cel Shader ~ Pitchfork Academy](https://youtu.be/HDyswSWIdY0) [material].
+
+ [📺 Cartoon Cel Shader 2.0 ~ Sandvector Studios](https://youtu.be/kKhTLnQW-p0) [material] ([Face Shadow Texture Generator file](https://www.artstation.com/marketplace/p/Vmvmm/face-shadow-texture-generator)).
+
+
+### Pixelized
+
+
+### Retro
+
+
+### Painted
+
+ [📺 ANIME STYLE SHADOWS ~ CuriousVertex](https://youtu.be/qSpe2T4hprM) [emulation,mesh,c++] ([files](https://www.patreon.com/posts/anime-style-145204165?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)) - uses C++ & blueprints to make sketchy effect.
+
+
+### Stylized
+
+ [🏪 Asset Manager Studio Launcher ~ master-technology](https://assetmanager.studio/) [tool,msc] ([video](https://youtu.be/PJzLVx0iVGU)).
+
+ [📺 Trees – Blender to UE5 Workflow ~ selsner](https://www.youtube.com/shorts/yWyc14-6sog?feature=share) [asset] - blob-less, recomputed, short.
+
+ [📺 Long-Form Narrative Workflow ~ Unreal Engine](https://youtu.be/UVRlNFFBa1o) [msc] - Steamroller Animation 2D cartoon.
+
+ [📺 Low Poly open world w/free assets ~  Dutchmangames](https://youtu.be/cjQKbGsWT-M) [demo,environment] ([part 2](https://youtu.be/I-xgz0GNanw)) - place prefabs for beginners.
+
+ [📺 Game Environment ~ Stylized Station](https://youtu.be/1C81K60KTtc) [environment] - sculpt, texture, lighting.
+
+ [📺 Simple Stylization Techniques | GDC 2024 ~  Chris Murphy](https://youtu.be/exMzwH7EJUY) [blueprint] ([article](https://dev.epicgames.com/community/learning/talks-and-demos/XayP/fortnite-simple-stylization-techniques-in-unreal-engine-5)) - colorized 'fog of war'.
+
+ [📺 many techniques available for Stylized Grass ~ Ghislain Girardot](https://youtu.be/pVKDfZMffpc) [Blender,asset,environment].
+
+ [📺 Materials for Linear Content ~ Unreal Engine](https://youtu.be/C-27tmCzXsE) [livestream,analysis] - various material creation techniques.
+
+ [📺 Environment Art Breakdown ~ Stylized Station](https://youtu.be/SonheTAwcUI) [Blender,environment] - by Melissa Perl.
+
+
+## Other-Styles
+
+
+### Scifi
+
+
+### Water
+
+ [📺 Witcher 4 Baked Water Simulation ~ Aziel Arts](https://youtu.be/akHCbIECFX8) [animation,physics] - easy realistic looking river.
+
+
+### Effect
+
+ [📺 Kawaii Physics-Hidden Physics Engine ~ Cobra Code](https://youtu.be/9ThmoMHnHhw) [physics] ([KawaiiPhysics  repo](https://github.com/pafuhana1213/KawaiiPhysics)) - stylized hair & clothes physics.
+
+ [📺 10 EFFECTS in 10 MINUTES ~ Gabriel Aguiar Prod](https://www.youtube.com/shorts/jagvNDg7Iaw?feature=share) [niagara] - Lightning, Rain, Heal, Loot Drop, Portal, Meteor Rain, Flamethrower, Muzzle Flash, Explosion & Projectile.
+
+
+### Generic
+
+ [📺 "Step by step" Procedural Animation ~ Lincoln Margison ](https://youtu.be/E23zeX0Mttc) [animation,character,asset] ([reddit](https://www.reddit.com/r/UnrealEngine5/comments/1qggyzu/a_few_days_ago_i_posted_a_clip_of_this_procedural/)) - spider.
+
+ [📺 How One Guy FIXED Procedural Generation ~ Game Dev Buddies](https://youtu.be/Y19Mw5YsgjI) [asset,environment] - player made landscapes semi-randomish.
+
+ [📺 adding destruction ~ EODdev](https://www.youtube.com/shorts/XIliGusbLFs?feature=share) [asset,asset].
+
+ [🏪 Odysey - 2D animations ~ PraxinosCoop](https://www.fab.com/listings/c2a71aa9-998c-4286-9d5b-df91d9cc4034) [animation,msc] ([home](https://praxinos.coop/odyssey.php)).
+
+ [📺 Achieve True Color in Unreal Engine: Disabling Tonemapper ~ Kibibyte](https://youtu.be/mNr5K2tIAg8) [post-process,pre-process,environment] - custom look, LUTs, etc.
+
+ [📺 Material Ambient Occlusion ~ William Faucher](https://youtu.be/65cgc3jbNlg) [msc] - bake Ambient Occlusion maps onto models.
+
+ [📺 BOOST Foliage Performance ~ Joshua M Kerr](https://youtu.be/fjuLE3Artic) [optimize,material] - world offset in material.
+
+ [📺📜🏪 Tactical Combat on square/hex/triangle grids ~ Alex Quevillon](https://youtu.be/D7W6qeS_zlY?list=PLBLmKCAjA25CKFIvmaA8y3tsX_URgkX4O) [game,c++] ([FAB](https://www.fab.com/listings/bd11e459-47bd-45b4-a7ce-af1a227bc5ac)) - 65 vids.
+
+ [📺 Individual Foliage Logic [Harvesting, Damage, Particles] ~ PrismaticaDev](https://youtu.be/6sjc4dqoCF0) [animation,character,blueprint].
+
+ [🏪 Interactive Foliage Physics ~ Etherion Designs](https://www.fab.com/listings/fcdb655a-8f79-4a97-994d-3c2140067604) [animation,optimize,c++] ([Pro $$$ version](https://www.fab.com/listings/a3f7729e-c68e-4533-9b51-2106357b2316)) - plants react naturally to footsteps and wind.  very cheap, .
+
+
+### Movie
+
+ [🌐 Visual Production ~ reddit](https://www.reddit.com/r/virtualproduction/) [community] - production for movies & live events.
+
+ [📺 Green Screen VFX ~ Dean Yurke](https://youtu.be/rzMRSDxg33Q) [video,camera] - Pro movie VFX artist explains his process.
+
+ [📺 Make Films 10x Faster in UE ~ Josh Toonen](https://youtu.be/RBtlrRP2fvs) [video,animation,post-process,blueprint] - cinematic environments, animated decals.
+
+
+### Audio
+
+
+## General
 
 
 ### Community
@@ -108,8 +251,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
  [📺 Materials for Linear Content ~ Unreal Engine](https://youtu.be/C-27tmCzXsE) [livestream] - various material creation techniques.
 
- [📺 how grass works in Ghost of Tsushima ~ Stylized Station](https://youtu.be/G8HH_pMKOhk) [article] ([source of talk: Eric Wohllaib](https://youtu.be/Ibe1JBF5i5Y)).
-
 
 ### AI-char
 
@@ -149,6 +290,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
  [📺 Environment Art Breakdown ~ Stylized Station](https://youtu.be/SonheTAwcUI) [Blender] - by Melissa Perl.
 
 
+### MetaHuman
+
+ [📺 CHEAPEST Motion Capture Setup for Metahumans ~ Charlie Driscoll](https://youtu.be/M799eoMK4tw) [animation,rig] - for filmmaking.
+
+
 ### Asset
 
  [📺 "Step by step" Procedural Animation ~ Lincoln Margison ](https://youtu.be/E23zeX0Mttc) [animation,character] ([reddit](https://www.reddit.com/r/UnrealEngine5/comments/1qggyzu/a_few_days_ago_i_posted_a_clip_of_this_procedural/)) - spider.
@@ -173,6 +319,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
  [📺 Kawaii Physics-Hidden Physics Engine ~ Cobra Code](https://youtu.be/9ThmoMHnHhw) ([KawaiiPhysics  repo](https://github.com/pafuhana1213/KawaiiPhysics)) - stylized hair & clothes physics.
 
 
+### Motion
+
+
 ### Shader
 
  [📺 Turn ANY rock into STYLIZED ~ GraphicLine Games](https://youtu.be/VlQ4Tq_fouQ) [asset,Lumin] ([Ghibli Shader Texture Generator](https://graphicline.gumroad.com/l/dcqlie)).
@@ -187,9 +336,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 
 ### Gradient
-
-
-### Texture
 
 
 ### Material
@@ -273,8 +419,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
  [📺 Custom Character Skeletons and Animations ~ Upside Tutorials](https://youtu.be/BLVWvxFi9vg) [animation,character].
 
- [📺 What Sells on Steam: You Don't Need a Hook ~ Jonas Tyroller](https://youtu.be/uiBDyZ-Pf2M) [marketing] - make cool experiences, hooks less important.. Four Pillars: fun, appeal, scope, monetization.
-
  [📺 free FAB newsletter ~ Zero2GameDev](https://www.youtube.com/@Zero2GameDev0) [tool] - links to free FAB packs every month.
 
  [🏪 Asset Manager Studio Launcher ~ master-technology](https://assetmanager.studio/) [tool] ([video](https://youtu.be/PJzLVx0iVGU)).
@@ -285,8 +429,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
  [📺 Long-Form Narrative Workflow ~ Unreal Engine](https://youtu.be/UVRlNFFBa1o) - Steamroller Animation 2D cartoon.
 
- [📺 Crosshairs Are Surprisingly Difficult ~ JayTheDevGuy](https://youtu.be/aLgOsEQgtmM) [UI/UX].
-
  [📄 GameplayAbilitySystem notes ~ tranek](https://github.com/tranek/GASDocumentation) [GAS].
 
  [📺 Material Ambient Occlusion ~ William Faucher](https://youtu.be/65cgc3jbNlg) - bake Ambient Occlusion maps onto models.
@@ -295,140 +437,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
  [📺 This is the Kuwahara Filter ~ Acerola](https://youtu.be/LDhN-JK3U9g) [demo] - not Unreal specific, mor about maths.
 
+
+### General
+
+ [💽 marketing indie Doc ~ Richard Zemore](https://docs.google.com/document/d/1JR8fsg6Tt_cvGHtcqb0rtdU84bbzNq7vYL_knvGCFJg/edit?tab=t.1wcppz75ozbm#heading=h.h19k42qddmeq) [marketing] ([reddit](https://www.reddit.com/r/SoloDevelopment/comments/1pq9rnw/comment/nusriyw/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)) - 1-2 man team consultant.
+
+ [📺 What Sells on Steam: You Don't Need a Hook ~ Jonas Tyroller](https://youtu.be/uiBDyZ-Pf2M) [marketing] - make cool experiences, hooks less important.. Four Pillars: fun, appeal, scope, monetization.
+
+ [📺 Crosshairs Are Surprisingly Difficult ~ JayTheDevGuy](https://youtu.be/aLgOsEQgtmM) [UI/UX].
+
  [📺 Fake Melee Attacks to Make Combat Feel Great ~ GDQuest](https://youtu.be/nLxmDdNiGaU) [character,combat] - hurt boxes.
-
-
-## Stylized-Art
-
-
-### Ghibli
-
- [📺 Turn ANY rock into STYLIZED ~ GraphicLine Games](https://youtu.be/VlQ4Tq_fouQ) [asset,Lumin,shader] ([Ghibli Shader Texture Generator](https://graphicline.gumroad.com/l/dcqlie)).
-
- [📺🏪 Ghibli-Inspired Stylized meadow ~ GraphicLine Games](https://youtu.be/2VRZrm3eCEs) [asset,blueprint] ([course files; can donate $0](https://graphicline.gumroad.com/l/opjhs)) - FULL COURSE 2.20 hours.
-
- [📺🏪 AAA Ghibli Forest in Blender & Unreal ~ ShinGidora](https://youtu.be/2Lu2VBG1JE0) [demo,Blender,asset] - good tips, though is promotion for his TREEBOX commercial script.
-
- [📺 BEST 3D TREE in anime STYLE ~ GraphicLine Games](https://youtu.be/kI8pSj-9Xxw) [asset].
-
-
-### Anime
-
- [📺 I Nailed the Anime Look ~ SILKROAD Project](https://youtu.be/nyRcPMOpxcI) [optimize,Houdini ,character,asset] - outline & shadows part of UV, not filter.
-
-
-### Comic
-
- [📺 Physically Based Cel Shading ~ Visual Tech Art](https://youtu.be/eBS3BOI5KnM) [pre-process,blueprint] - Physically Based pipeline.
-
- [📺 stylized comic book shader ~ Chris Folea Makes Things](https://youtu.be/Ctx1TP0XDUM) [pre-process,blueprint] - WITHOUT post processing.
-
- [📺 Cel-Shader playlist ~ many](https://youtu.be/GQhdbH8O7Oc?list=PLbNPlYeHWqEYxJfm99-2w_45yHa32J17f) [post-process,Lumin,msc] - 17 videos.
-
- [📺 Moebius-style 3D Rendering ~ Useless Game Dev](https://youtu.be/jlKNOirh66E) [pre-process,post-process,shader] - Sorbel filter on depth map, crosshatch, fader, etc.
-
-
-### Cartoon
-
- [📺 How this UE5 film won an Oscar ~ Josh Toonen](https://youtu.be/eOQM1Tbyw0Y) [animation,character,msc].
-
- [📄 Anime/Toon/Cel Shading Model ~ Envieous](https://forums.unrealengine.com/t/ue5-anime-toon-cel-shading-model-works-with-launcher-engine-versions/544226) [asset,game,shader] - custom shader, works with launcher.
-
- [📺 Manga/outline Shader playlist ~ many](https://youtu.be/pJ42ylVyDpc?list=PLiq69WxS7HrMdVKU6wbEOt27tAw66ki8w) [post-process,shader] - 18 videos, outlines, toon shaders.
-
- [📺 Advanced Cel Shader ~ Pitchfork Academy](https://youtu.be/HDyswSWIdY0) [material].
-
- [📺 Cartoon Cel Shader 2.0 ~ Sandvector Studios](https://youtu.be/kKhTLnQW-p0) [material] ([Face Shadow Texture Generator file](https://www.artstation.com/marketplace/p/Vmvmm/face-shadow-texture-generator)).
-
-
-### Pixelized
-
-
-### Zelda
-
- [📺 Large Scale PCG Tutorial with Gaea Maps ~ Aziel Arts](https://youtu.be/ElpH2AA4Nzc) [environment] - Zelda-inspired landscape using Procedural Content Generation.
-
-
-### Fortnite
-
- [📺 UNDERSTAND and RECREATE a Fortnite-like Landscape Material ~ Imphenzia](https://youtu.be/W6VZcyKU_Nk) [asset,Blender,optimize,environment].
-
-
-### Stylized
-
- [🏪 Asset Manager Studio Launcher ~ master-technology](https://assetmanager.studio/) [tool,msc] ([video](https://youtu.be/PJzLVx0iVGU)).
-
- [📺 Trees – Blender to UE5 Workflow ~ selsner](https://www.youtube.com/shorts/yWyc14-6sog?feature=share) [asset] - blob-less, recomputed, short.
-
- [📺 Long-Form Narrative Workflow ~ Unreal Engine](https://youtu.be/UVRlNFFBa1o) [msc] - Steamroller Animation 2D cartoon.
-
- [📺 Low Poly open world w/free assets ~  Dutchmangames](https://youtu.be/cjQKbGsWT-M) [demo,environment] ([part 2](https://youtu.be/I-xgz0GNanw)) - place prefabs for beginners.
-
- [📺 Game Environment ~ Stylized Station](https://youtu.be/1C81K60KTtc) [environment] - sculpt, texture, lighting.
-
- [📺 Simple Stylization Techniques | GDC 2024 ~  Chris Murphy](https://youtu.be/exMzwH7EJUY) [blueprint] ([article](https://dev.epicgames.com/community/learning/talks-and-demos/XayP/fortnite-simple-stylization-techniques-in-unreal-engine-5)) - colorized 'fog of war'.
-
- [📺 many techniques available for Stylized Grass ~ Ghislain Girardot](https://youtu.be/pVKDfZMffpc) [Blender,asset,environment].
-
- [📺 Materials for Linear Content ~ Unreal Engine](https://youtu.be/C-27tmCzXsE) [livestream,analysis] - various material creation techniques.
-
- [📺 Environment Art Breakdown ~ Stylized Station](https://youtu.be/SonheTAwcUI) [Blender,environment] - by Melissa Perl.
-
-
-## Other-Styles
-
-
-### Scifi
-
-
-### Water
-
- [📺 Witcher 4 Baked Water Simulation ~ Aziel Arts](https://youtu.be/akHCbIECFX8) [animation,physics] - easy realistic looking river.
-
-
-### Effect
-
- [📺 Kawaii Physics-Hidden Physics Engine ~ Cobra Code](https://youtu.be/9ThmoMHnHhw) [physics] ([KawaiiPhysics  repo](https://github.com/pafuhana1213/KawaiiPhysics)) - stylized hair & clothes physics.
-
- [📺 10 EFFECTS in 10 MINUTES ~ Gabriel Aguiar Prod](https://www.youtube.com/shorts/jagvNDg7Iaw?feature=share) [niagara] - Lightning, Rain, Heal, Loot Drop, Portal, Meteor Rain, Flamethrower, Muzzle Flash, Explosion & Projectile.
-
-
-### Generic
-
- [📺 adding destruction ~ EODdev](https://www.youtube.com/shorts/XIliGusbLFs?feature=share) [asset,asset].
-
- [🏪 Odysey - 2D animations ~ PraxinosCoop](https://www.fab.com/listings/c2a71aa9-998c-4286-9d5b-df91d9cc4034) [animation,msc] ([home](https://praxinos.coop/odyssey.php)).
-
- [📺 Intro to Custom Niagara Modules ~ PrismaticaDev](https://youtu.be/QCWrRjTdAmI) [niagara].
-
- [📺 Optimizing Foliage with WPO Disable Distance ~ PrismaticaDev](https://youtu.be/4UJp4iB53qs) [optimize,blueprint] - reduce CPU/GPU for distant vegetation .
-
- [📺 Character and Object Foliage Interaction ~ Arghanion's Puzzlebox](https://youtu.be/za6ffTin5GQ) [optimize,shader] ([free foliage tools](https://www.patreon.com/posts/118145659?pr=true)) - cheap; no bones.
-
- [📺 Achieve True Color in Unreal Engine: Disabling Tonemapper ~ Kibibyte](https://youtu.be/mNr5K2tIAg8) [post-process,pre-process,environment] - custom look, LUTs, etc.
-
- [📺📜 square & hex Grids series ~ AziApps](https://youtu.be/5a5q2X8dAu4?list=PLkppAlnCMgMmSNkD-Rak_S9owziM9-zXX) [blueprint] - 9 vids.
-
- [📺 Materials in 6 Levels of Complexity ~ pwnisher](https://youtu.be/iZgbzwBQTPY) [tool,material] ([Master Material FAB](https://www.fab.com/listings/95f437fe-024e-455e-ad8e-a14bb1128131)) - fast.
-
- [📺 Material Ambient Occlusion ~ William Faucher](https://youtu.be/65cgc3jbNlg) [msc] - bake Ambient Occlusion maps onto models.
-
- [📺 BOOST Foliage Performance ~ Joshua M Kerr](https://youtu.be/fjuLE3Artic) [optimize,material] - world offset in material.
-
- [📺📜🏪 Tactical Combat on square/hex/triangle grids ~ Alex Quevillon](https://youtu.be/D7W6qeS_zlY?list=PLBLmKCAjA25CKFIvmaA8y3tsX_URgkX4O) [game,c++] ([FAB](https://www.fab.com/listings/bd11e459-47bd-45b4-a7ce-af1a227bc5ac)) - 65 vids.
-
- [📺 how grass works in Ghost of Tsushima ~ Stylized Station](https://youtu.be/G8HH_pMKOhk) [article,analysis] ([source of talk: Eric Wohllaib](https://youtu.be/Ibe1JBF5i5Y)).
-
- [📺 MEGA TUTORIAL ~ Unreal Sensei](https://youtu.be/k-zMkzmduqI?list=PLKPWwh_viQMGQkQfKKD5lF96efA3_RWt-) [animation,beginner] ([5.6 update](https://youtu.be/GWremmdhmdg)) - 10 vids, ~30 hours, v5.5 nanite & lumen.
-
- [📺 Individual Foliage Logic [Harvesting, Damage, Particles] ~ PrismaticaDev](https://youtu.be/6sjc4dqoCF0) [animation,character,blueprint].
-
- [🏪 Interactive Foliage Physics ~ Etherion Designs](https://www.fab.com/listings/fcdb655a-8f79-4a97-994d-3c2140067604) [animation,optimize,c++] ([Pro $$$ version](https://www.fab.com/listings/a3f7729e-c68e-4533-9b51-2106357b2316)) - plants react naturally to footsteps and wind.  very cheap, .
-
-
-### Movie
-
- [📺 Green Screen VFX ~ Dean Yurke](https://youtu.be/rzMRSDxg33Q) [video,camera] - Pro movie VFX artist explains his process.
 
 
 ## Also by Author
@@ -437,8 +455,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 ## License
 
-Copyright (c)2025-2026, JS code Copyright (c)2019-2025
+Copyright (c)2025-2026, JS code Copyright (c)2019-2026
 You may fork &/or copy to your own harddrive if you intend to make improvements and send them back to this repo.
-You may NOT republish/repurpose the entire list (in readme.md, all.md, &/or the CSV file) to any other platform.
+You may NOT republish/repurpose the entire list (in readme.md, all.md, &/or the CSV file) to any other platform, as is, as HTML, or any other format.
 
 You are free link to this repo, so please share a link in your blog, YouTube channel, Reddit, etc.

@@ -37,9 +37,72 @@ export let append = `
 
 ## License
 
-Copyright (c)2025-2026, JS code Copyright (c)2019-2025
+Copyright (c)2025-2026, JS code Copyright (c)2019-2026
 You may fork &/or copy to your own harddrive if you intend to make improvements and send them back to this repo.
-You may NOT republish/repurpose the entire list (in readme.md, all.md, &/or the CSV file) to any other platform.
+You may NOT republish/repurpose the entire list (in readme.md, all.md, &/or the CSV file) to any other platform, as is, as HTML, or any other format.
 
 You are free link to this repo, so please share a link in your blog, YouTube channel, Reddit, etc.
 `
+
+// S2 = selected topics
+export let S2 = {
+  'Stylized-Art': {
+    about: '"Stylized" in games is a off-realistic, more minimal interpretation, though sometimes (eg with characters) may be exaggerated.',
+    list: [
+      'Ghibli',
+      'Zelda',
+      'Fortnite',
+      'anime',
+      'comic',
+      'cartoon',
+      'pixelized',
+      'retro',
+      'painted',
+      'stylized',
+    ]
+  },
+
+  'Other-Styles': {
+    about: 'More interesting Unreal Engine links.',
+    list: [
+      'scifi',
+      'water',
+      'effect',
+      'generic',
+      'movie',
+      'audio',
+    ]
+  },
+  
+  'General': {
+    about: "Miscellaneous topics that do not directly apply to any art style.",
+    list: [
+      //TODO: sub-topic language
+      'none'
+    ],
+    'lang': {
+      about: "Focus",
+      list: [  // general to specific
+        "community",
+        "beginner",
+        "GenAI",
+        "analysis",
+        "AI-char",
+        "environment",
+        "MetaHuman",
+        "asset",
+        "physics",
+        "motion",
+        "shader",
+        "gradient",
+        "material",
+        "niagara",
+        'camera',
+        "blueprint",
+        "c++",
+        "msc", // fall back UE
+        "general" // outside UE
+      ]
+    }
+  },
+}

@@ -5,7 +5,8 @@
 
 import Papa from 'papaparse'
 import fs from 'node:fs'
-import { awesomePreamble, allPreamble, append } from './copy.js'
+import { awesomePreamble, allPreamble, append, S2 } from './copy.js'
+// improt {  }
 
 function getIconFormat(format){
   let ret = ''
@@ -75,68 +76,6 @@ function getFooter(count){
 
 *updated: ${new Date().toISOString()}, bookmarks listed: ${count}*
 `
-}
-
-const S2 = {
-  // 'Community': {
-  //   about: 'Forums and other hangouts to find new news and help.',
-  //   list: [
-  //     //TODO: sort by author
-  //     'community',
-  //   ]
-  // },
-  'Programming': {
-    about: "Miscellaneous programming topics that don't directly apply to any art style.",
-    list: [
-      //TODO: sub-topic language
-      'none'
-    ],
-    'lang': {
-      about: "Focus",
-      list: [  // general to specific
-        "community",
-        "beginner",
-        "GenAI",
-        "analysis",
-        "AI-char",
-        "environment",
-        "asset",
-        "physics",
-        "shader",
-        "gradient",
-        "texture",
-        "material",
-        "niagara",
-        'camera',
-        "blueprint",
-        "c++",
-        "msc" // fall back
-      ]
-    }
-  }, //Programming
-  'Stylized-Art': {
-    about: '"Stylized" in games is a off-realistic, more minimal interpretation, though sometimes (eg with characters) may be exaggerated.',
-    list: [
-      'Ghibli',
-      'anime',
-      'comic',
-      'cartoon',
-      'pixelized',
-      'Zelda',
-      'Fortnite',
-      'stylized'
-    ]
-  },
-  'Other-Styles': {
-    about: 'More interesting Unreal Engine links.',
-    list: [
-      'scifi',
-      'water',
-      'effect',
-      'generic',
-      'movie', //TODO seperate 
-    ]
-  },
 }
 
 function createMarkdown(aweArr, isAwesome=false) {
