@@ -1,7 +1,7 @@
 // 'copy' here means "Suitable source material for journalism"
 
 export let awesomePreamble = `# Awesome Unreal Engine
-![Unreal Engine Logo](https://private-user-images.githubusercontent.com/1308419/505749918-3a449023-7463-4302-a14e-536fb937181f.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjkzMjMzNDUsIm5iZiI6MTc2OTMyMzA0NSwicGF0aCI6Ii8xMzA4NDE5LzUwNTc0OTkxOC0zYTQ0OTAyMy03NDYzLTQzMDItYTE0ZS01MzZmYjkzNzE4MWYuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDEyNSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjAxMjVUMDYzNzI1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZTQ4ZDczNmQ1YWFkOWJlZjJjZTI5MDVjNzhmZmEyMzMzNzI0YWI1NmUxZGQ3MzFhYWZjZTliMDZhODllMjU5ZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.O8xnvCI_EEyYhRfIlvrTvGN1C-cwWPqpYh2Dwxt9ckg)
+![Unreal Engine Logo](i/unreal-engine-bookmarks-awesome.avif)
 ## UE5 tutorials, assets, and articles
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -14,8 +14,8 @@ Beginners should start with [Community](#community) & [beginner](#beginner).  Ex
 Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-file#gaming) list.
 `
 
-export let allPreamble = `# Unreal Engine Bookmarks
-![Unreal Engine Logo](https://private-user-images.githubusercontent.com/1308419/505749918-3a449023-7463-4302-a14e-536fb937181f.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjkzMjMzNDUsIm5iZiI6MTc2OTMyMzA0NSwicGF0aCI6Ii8xMzA4NDE5LzUwNTc0OTkxOC0zYTQ0OTAyMy03NDYzLTQzMDItYTE0ZS01MzZmYjkzNzE4MWYuanBnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDEyNSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjAxMjVUMDYzNzI1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZTQ4ZDczNmQ1YWFkOWJlZjJjZTI5MDVjNzhmZmEyMzMzNzI0YWI1NmUxZGQ3MzFhYWZjZTliMDZhODllMjU5ZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.O8xnvCI_EEyYhRfIlvrTvGN1C-cwWPqpYh2Dwxt9ckg)
+export let allPreamble = `# More Unreal Engine Bookmarks
+![Unreal Engine Logo](i/unreal-engine-bookmarks-more.avif)
 ## UE5 tutorials, assets, and articles
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
