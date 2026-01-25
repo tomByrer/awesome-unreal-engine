@@ -5,7 +5,9 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome articles & resources for **[Unreal game engine](https://www.unrealengine.com/)**.
-Resources focused on a particular art direction are separated out.  You may find a few links not specific to UE, but are about 3d assets, game or movie production, etc.
+Resources focused on a particular art direction are separated out.  You may find a few links [not specific to UE](#other), but are about 3d assets, game or [movie](#movie) production, etc.
+
+Beginners should start with [Community](#community) & [beginner](#beginner).
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-file#gaming) list.
 (A bit different, since the CSV bookmark dump &
@@ -49,8 +51,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
    - [Camera](#camera)
    - [Blueprint](#blueprint)
    - [C++](#c++)
-   - [Msc](#msc)
-   - [General](#general)
+   - [Msc-ue](#msc-ue)
+   - [Other](#other)
 
 
 ## Stylized-Art
@@ -88,14 +90,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
  [📺 stylized comic book shader ~ Chris Folea Makes Things](https://youtu.be/Ctx1TP0XDUM) [pre-process,blueprint] - WITHOUT post processing.
 
- [📺 Cel-Shader playlist ~ many](https://youtu.be/GQhdbH8O7Oc?list=PLbNPlYeHWqEYxJfm99-2w_45yHa32J17f) [post-process,Lumin,msc] - 17 videos.
+ [📺 Cel-Shader playlist ~ many](https://youtu.be/GQhdbH8O7Oc?list=PLbNPlYeHWqEYxJfm99-2w_45yHa32J17f) [post-process,Lumin,msc-ue] - 17 videos.
 
  [📺 Moebius-style 3D Rendering ~ Useless Game Dev](https://youtu.be/jlKNOirh66E) [pre-process,post-process,shader] - Sorbel filter on depth map, crosshatch, fader, etc.
 
 
 ### Cartoon
-
- [📺 How this UE5 film won an Oscar ~ Josh Toonen](https://youtu.be/eOQM1Tbyw0Y) [animation,character,msc].
 
  [📄 Anime/Toon/Cel Shading Model ~ Envieous](https://forums.unrealengine.com/t/ue5-anime-toon-cel-shading-model-works-with-launcher-engine-versions/544226) [asset,game,shader] - custom shader, works with launcher.
 
@@ -119,11 +119,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 ### Stylized
 
- [🏪 Asset Manager Studio Launcher ~ master-technology](https://assetmanager.studio/) [tool,msc] ([video](https://youtu.be/PJzLVx0iVGU)).
+ [🏪 Asset Manager Studio Launcher ~ master-technology](https://assetmanager.studio/) [tool,msc-ue] ([video](https://youtu.be/PJzLVx0iVGU)).
 
  [📺 Trees – Blender to UE5 Workflow ~ selsner](https://www.youtube.com/shorts/yWyc14-6sog?feature=share) [asset] - blob-less, recomputed, short.
 
- [📺 Long-Form Narrative Workflow ~ Unreal Engine](https://youtu.be/UVRlNFFBa1o) [msc] - Steamroller Animation 2D cartoon.
+ [📺 Long-Form Narrative Workflow ~ Unreal Engine](https://youtu.be/UVRlNFFBa1o) [msc-ue] - Steamroller Animation 2D cartoon.
 
  [📺 Low Poly open world w/free assets ~  Dutchmangames](https://youtu.be/cjQKbGsWT-M) [demo,environment] ([part 2](https://youtu.be/I-xgz0GNanw)) - place prefabs for beginners.
 
@@ -164,11 +164,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
  [📺 adding destruction ~ EODdev](https://www.youtube.com/shorts/XIliGusbLFs?feature=share) [asset,asset].
 
- [🏪 Odysey - 2D animations ~ PraxinosCoop](https://www.fab.com/listings/c2a71aa9-998c-4286-9d5b-df91d9cc4034) [animation,msc] ([home](https://praxinos.coop/odyssey.php)).
+ [🏪 Odysey - 2D animations ~ PraxinosCoop](https://www.fab.com/listings/c2a71aa9-998c-4286-9d5b-df91d9cc4034) [animation,msc-ue] ([home](https://praxinos.coop/odyssey.php)).
 
  [📺 Achieve True Color in Unreal Engine: Disabling Tonemapper ~ Kibibyte](https://youtu.be/mNr5K2tIAg8) [post-process,pre-process,environment] - custom look, LUTs, etc.
 
- [📺 Material Ambient Occlusion ~ William Faucher](https://youtu.be/65cgc3jbNlg) [msc] - bake Ambient Occlusion maps onto models.
+ [📺 Material Ambient Occlusion ~ William Faucher](https://youtu.be/65cgc3jbNlg) [msc-ue] - bake Ambient Occlusion maps onto models.
 
  [📺 BOOST Foliage Performance ~ Joshua M Kerr](https://youtu.be/fjuLE3Artic) [optimize,material] - world offset in material.
 
@@ -180,6 +180,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 
 ### Movie
+
+ [📺 How this UE5 film won an Oscar ~ Josh Toonen](https://youtu.be/eOQM1Tbyw0Y) [animation,character,msc-ue].
 
  [🌐 Visual Production ~ reddit](https://www.reddit.com/r/virtualproduction/) [community] - production for movies & live events.
 
@@ -321,6 +323,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 ### Motion
 
+ [📺 Custom Character Skeletons and Animations ~ Upside Tutorials](https://youtu.be/BLVWvxFi9vg) [animation,character].
+
 
 ### Shader
 
@@ -405,7 +409,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
  [🏪 Interactive Foliage Physics ~ Etherion Designs](https://www.fab.com/listings/fcdb655a-8f79-4a97-994d-3c2140067604) [animation,optimize] ([Pro $$$ version](https://www.fab.com/listings/a3f7729e-c68e-4533-9b51-2106357b2316)) - plants react naturally to footsteps and wind.  very cheap, .
 
 
-### Msc
+### Msc-ue
 
  [📺 How this UE5 film won an Oscar ~ Josh Toonen](https://youtu.be/eOQM1Tbyw0Y) [animation,character].
 
@@ -416,8 +420,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
  [💽🌐 UE4.27 vs 5.6 performance ~ reddit](https://www.reddit.com/r/unrealengine/comments/1oeq1ve/comment/nl4qnh7/) [project,optimize].
 
  [🏪 CG Marketplace ~ Flipped Normals](https://flippednormals.com/) [asset,commercial] - tutorials & assets.
-
- [📺 Custom Character Skeletons and Animations ~ Upside Tutorials](https://youtu.be/BLVWvxFi9vg) [animation,character].
 
  [📺 free FAB newsletter ~ Zero2GameDev](https://www.youtube.com/@Zero2GameDev0) [tool] - links to free FAB packs every month.
 
@@ -435,16 +437,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
  [📺 Cel-Shader playlist ~ many](https://youtu.be/GQhdbH8O7Oc?list=PLbNPlYeHWqEYxJfm99-2w_45yHa32J17f) [post-process,Lumin] - 17 videos.
 
- [📺 This is the Kuwahara Filter ~ Acerola](https://youtu.be/LDhN-JK3U9g) [demo] - not Unreal specific, mor about maths.
 
-
-### General
+### Other
 
  [💽 marketing indie Doc ~ Richard Zemore](https://docs.google.com/document/d/1JR8fsg6Tt_cvGHtcqb0rtdU84bbzNq7vYL_knvGCFJg/edit?tab=t.1wcppz75ozbm#heading=h.h19k42qddmeq) [marketing] ([reddit](https://www.reddit.com/r/SoloDevelopment/comments/1pq9rnw/comment/nusriyw/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)) - 1-2 man team consultant.
 
  [📺 What Sells on Steam: You Don't Need a Hook ~ Jonas Tyroller](https://youtu.be/uiBDyZ-Pf2M) [marketing] - make cool experiences, hooks less important.. Four Pillars: fun, appeal, scope, monetization.
 
  [📺 Crosshairs Are Surprisingly Difficult ~ JayTheDevGuy](https://youtu.be/aLgOsEQgtmM) [UI/UX].
+
+ [📺 This is the Kuwahara Filter ~ Acerola](https://youtu.be/LDhN-JK3U9g) [demo] - not Unreal specific, more about maths.
 
  [📺 Fake Melee Attacks to Make Combat Feel Great ~ GDQuest](https://youtu.be/nLxmDdNiGaU) [character,combat] - hurt boxes.
 

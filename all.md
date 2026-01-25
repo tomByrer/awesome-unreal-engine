@@ -5,7 +5,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome articles & resources for **[Unreal game engine](https://www.unrealengine.com/)**.
-Resources focused on a particular art direction are separated out.  You may find a few links not specific to UE, but are about 3d assets, game or movie production, etc.
+Resources focused on a particular art direction are separated out.  You may find a few links [not specific to UE](#other), but are about 3d assets, game or [movie](#movie) production, etc.
 
 Not all resources are [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-file#gaming).
 But hopefully all of these will find their audience.
@@ -49,8 +49,8 @@ But hopefully all of these will find their audience.
    - [Camera](#camera)
    - [Blueprint](#blueprint)
    - [C++](#c++)
-   - [Msc](#msc)
-   - [General](#general)
+   - [Msc-ue](#msc-ue)
+   - [Other](#other)
 
 
 ## Stylized-Art
@@ -102,7 +102,7 @@ But hopefully all of these will find their audience.
 
  [📺 Color Correcting Stylized Cartoony Graphics ~ The Bradshacalypse](https://youtu.be/BKfIgBUYfSg) [post-process,asset] - turn down "tone curve amount" in post.
 
- [📺 Cel-Shader playlist ~ many](https://youtu.be/GQhdbH8O7Oc?list=PLbNPlYeHWqEYxJfm99-2w_45yHa32J17f) [post-process,Lumin,msc] - 17 videos.
+ [📺 Cel-Shader playlist ~ many](https://youtu.be/GQhdbH8O7Oc?list=PLbNPlYeHWqEYxJfm99-2w_45yHa32J17f) [post-process,Lumin,msc-ue] - 17 videos.
 
  [📺 Moebius-style 3D Rendering ~ Useless Game Dev](https://youtu.be/jlKNOirh66E) [pre-process,post-process,shader] - Sorbel filter on depth map, crosshatch, fader, etc.
 
@@ -110,8 +110,6 @@ But hopefully all of these will find their audience.
 
 
 ### Cartoon
-
- [📺 How this UE5 film won an Oscar ~ Josh Toonen](https://youtu.be/eOQM1Tbyw0Y) [animation,character,msc].
 
  [📄 Anime/Toon/Cel Shading Model ~ Envieous](https://forums.unrealengine.com/t/ue5-anime-toon-cel-shading-model-works-with-launcher-engine-versions/544226) [asset,game,shader] - custom shader, works with launcher.
 
@@ -131,7 +129,7 @@ But hopefully all of these will find their audience.
 
 ### Retro
 
- [📺 100% Accurate PS1 Graphics in Modern Software ~ pwnisher](https://youtu.be/cUiyph17F3A) [emulation,general].
+ [📺 100% Accurate PS1 Graphics in Modern Software ~ pwnisher](https://youtu.be/cUiyph17F3A) [emulation,other].
 
 
 ### Painted
@@ -163,15 +161,15 @@ But hopefully all of these will find their audience.
 
  [🏪 lessons & resources ~ 3dex](https://3dex.gumroad.com/) [asset].
 
- [🏪 MeshBlend ~ Tore Lervik](https://www.fab.com/listings/1f4abe73-4cda-42db-995a-c9f8ca4790e5) [msc] - controllable blending of meshes.
+ [🏪 MeshBlend ~ Tore Lervik](https://www.fab.com/listings/1f4abe73-4cda-42db-995a-c9f8ca4790e5) [msc-ue] - controllable blending of meshes.
 
- [🏪 Asset Manager Studio Launcher ~ master-technology](https://assetmanager.studio/) [tool,msc] ([video](https://youtu.be/PJzLVx0iVGU)).
+ [🏪 Asset Manager Studio Launcher ~ master-technology](https://assetmanager.studio/) [tool,msc-ue] ([video](https://youtu.be/PJzLVx0iVGU)).
 
  [🏪 Blueprint Generator Ai ~ Kibibyte](https://www.fab.com/listings/6aa00d98-0db0-4f13-8950-e21f0a0eda2c) [commercial,asset,blueprint].
 
  [📺 watercolor SHADER in BLENDER ~ GraphicLine Games](https://youtu.be/gaO_27QRpUY) [Blender,shader].
 
- [📺 Lighting Stylized Assets ~ Stylized Schools](https://youtu.be/4x8F6wxtquM) [asset,msc].
+ [📺 Lighting Stylized Assets ~ Stylized Schools](https://youtu.be/4x8F6wxtquM) [asset,environment].
 
  [📺 Interactive GRASS & FOLIAGE ~ GraphicLine Games](https://youtu.be/Lf0LgD_GJ58) [blueprint] - grass reacts dynamically when your character walks through.
 
@@ -181,7 +179,7 @@ But hopefully all of these will find their audience.
 
  [📺 Trees – Blender to UE5 Workflow ~ selsner](https://www.youtube.com/shorts/yWyc14-6sog?feature=share) [asset] - blob-less, recomputed, short.
 
- [📺 Long-Form Narrative Workflow ~ Unreal Engine](https://youtu.be/UVRlNFFBa1o) [msc] - Steamroller Animation 2D cartoon.
+ [📺 Long-Form Narrative Workflow ~ Unreal Engine](https://youtu.be/UVRlNFFBa1o) [msc-ue] - Steamroller Animation 2D cartoon.
 
  [📺 Stylized WATER shader for Beginners ~ Stylized Craft](https://youtu.be/HWhZuz287FI) [shader] - AI voice, but still good info.
 
@@ -274,7 +272,7 @@ But hopefully all of these will find their audience.
 
  [📺 How One Guy FIXED Procedural Generation ~ Game Dev Buddies](https://youtu.be/Y19Mw5YsgjI) [asset,environment] - player made landscapes semi-randomish.
 
- [📺 Vue 3D & Plant Factory Are Going Opensource ~ askNK](https://youtu.be/mgq4APBRlw8) [msc].
+ [📺 Vue 3D & Plant Factory Are Going Opensource ~ askNK](https://youtu.be/mgq4APBRlw8) [msc-ue].
 
  [📺🏪 Calysto World 2/Massive World PCG Map Toolkit ~ Michael Simard](https://youtu.be/hHu3mEdT1c8) [demo,commercial,environment] ([FAB](https://www.fab.com/listings/8631308a-67a3-4e20-b3e4-74be19813f77)) - procedural world generation.
 
@@ -282,7 +280,7 @@ But hopefully all of these will find their audience.
 
  [📺 adding destruction ~ EODdev](https://www.youtube.com/shorts/XIliGusbLFs?feature=share) [asset,asset].
 
- [📺 Intro to Hand-drawing Animation Effects ~ Pixel Prof](https://youtu.be/DMoxrO7I6Qk) [animation,msc] - Odyssey plugin.
+ [📺 Intro to Hand-drawing Animation Effects ~ Pixel Prof](https://youtu.be/DMoxrO7I6Qk) [animation,msc-ue] - Odyssey plugin.
 
  [📺 Animation Blueprints for Multiple Characters ~ Zero2GameDev](https://youtu.be/9o3QCmZDL98) [blueprint].
 
@@ -290,7 +288,7 @@ But hopefully all of these will find their audience.
 
  [📺 Make Your Game Objects Blend Into Terrain ~ Upside Tutorials](https://youtu.be/mBR0xIn5-jg) [texture,shader].
 
- [🏪 Odysey - 2D animations ~ PraxinosCoop](https://www.fab.com/listings/c2a71aa9-998c-4286-9d5b-df91d9cc4034) [animation,msc] ([home](https://praxinos.coop/odyssey.php)).
+ [🏪 Odysey - 2D animations ~ PraxinosCoop](https://www.fab.com/listings/c2a71aa9-998c-4286-9d5b-df91d9cc4034) [animation,msc-ue] ([home](https://praxinos.coop/odyssey.php)).
 
  [📺 world generator tool is too powerful ~ Connor "Bluedrake42" Hill](https://youtu.be/Em5Wnch-STk) [demo,commercial,AI-char] - Polygon World Dash.
 
@@ -302,9 +300,9 @@ But hopefully all of these will find their audience.
 
  [📺 Blending Objects into Landscapes ~ Mohammad Solei](https://youtu.be/GSJFuoerkaw) [environment] - Runtime Virtual Texture.
 
- [📺 Material Ambient Occlusion ~ William Faucher](https://youtu.be/65cgc3jbNlg) [msc] - bake Ambient Occlusion maps onto models.
+ [📺 Material Ambient Occlusion ~ William Faucher](https://youtu.be/65cgc3jbNlg) [msc-ue] - bake Ambient Occlusion maps onto models.
 
- [📺 ALL Unreal Engine Plugins ~ Kibibyte](https://youtu.be/zCkRsYEGD5s) [demo,tool,msc] - review/showcase.
+ [📺 ALL Unreal Engine Plugins ~ Kibibyte](https://youtu.be/zCkRsYEGD5s) [demo,tool,msc-ue] - review/showcase.
 
  [📺 BOOST Foliage Performance ~ Joshua M Kerr](https://youtu.be/fjuLE3Artic) [optimize,material] - world offset in material.
 
@@ -318,6 +316,8 @@ But hopefully all of these will find their audience.
 
 
 ### Movie
+
+ [📺 How this UE5 film won an Oscar ~ Josh Toonen](https://youtu.be/eOQM1Tbyw0Y) [animation,character,msc-ue].
 
  [🌐 Visual Production ~ reddit](https://www.reddit.com/r/virtualproduction/) [community] - production for movies & live events.
 
@@ -372,6 +372,8 @@ But hopefully all of these will find their audience.
  [📺 Learn UE5: Create an Adventure Game ~ Gorka Games](https://youtu.be/4r9TYrQu8QY) - 2 hours, beginner.
 
  [📺 NTRCT | Characters for Dummies ~ Yu Fujishiro](https://www.youtube.com/playlist?list=PLvSZaVrgRBTp4mo_XUiE66Tqk7qsokoXm) [animation] - 'interactive art'.
+
+ [📺 beginner tips ~ Unreal University](https://youtu.be/ZDqX6T1-tA0) [article] - diversion VCS, migrate assets from packs, early playtesting, consistent styles.
 
  [📺  Things You Should Disable for Better Performance ~ TUF](https://youtu.be/cF50MNi9FU4?t=14) [optimize].
 
@@ -495,6 +497,8 @@ But hopefully all of these will find their audience.
 
  [📺🏪 Calysto World 2/Massive World PCG Map Toolkit ~ Michael Simard](https://youtu.be/hHu3mEdT1c8) [demo,commercial] ([FAB](https://www.fab.com/listings/8631308a-67a3-4e20-b3e4-74be19813f77)) - procedural world generation.
 
+ [📺 Lighting Stylized Assets ~ Stylized Schools](https://youtu.be/4x8F6wxtquM) [asset].
+
  [🏪 Stylized Environment V1 ~ AeonShaper](https://www.fab.com/listings/6ae05e13-e0ee-468b-a6b0-07404b73d978) [commercial,asset] - trees, rocks, stones, cliffs, water, grass, flowers, and bushes, vfx.
 
  [📺 Optimized Open World Interactive Forest Foliage & Resource Systems ~ Warmar Games](https://youtu.be/2R8GRKWQQjk) [livestream,optimize] - dynamic, interactive environments.
@@ -616,6 +620,8 @@ But hopefully all of these will find their audience.
 ### Motion
 
  [📺 Full Body Animation from Footage using iClone ~ Solomon Jagwe](https://youtu.be/kWftA5rVLC8) [animation,character,rig] - video MOCAP, no suit.
+
+ [📺 Custom Character Skeletons and Animations ~ Upside Tutorials](https://youtu.be/BLVWvxFi9vg) [animation,character].
 
 
 ### Shader
@@ -871,15 +877,13 @@ But hopefully all of these will find their audience.
  [🏪 Interactive Foliage Physics ~ Etherion Designs](https://www.fab.com/listings/fcdb655a-8f79-4a97-994d-3c2140067604) [animation,optimize] ([Pro $$$ version](https://www.fab.com/listings/a3f7729e-c68e-4533-9b51-2106357b2316)) - plants react naturally to footsteps and wind.  very cheap, .
 
 
-### Msc
+### Msc-ue
 
  [🏪 Endless Runner Game Kit ~ Bree](https://www.fab.com/listings/55f8ca1e-bde7-4b39-80aa-79362f68fabe) [animation,commercial,game].
 
  [📺 10 Awesome Free Plugins ~ Unreal University](https://youtu.be/dmTF57Zwlbc) [demo].
 
  [📺 Vue 3D & Plant Factory Are Going Opensource ~ askNK](https://youtu.be/mgq4APBRlw8).
-
- [📺 How game design handles newbies ~ DerangedDoomer](https://youtu.be/jVX4C1-PPtc) [character,marketing].
 
  [📺 How this UE5 film won an Oscar ~ Josh Toonen](https://youtu.be/eOQM1Tbyw0Y) [animation,character].
 
@@ -897,17 +901,11 @@ But hopefully all of these will find their audience.
 
  [📺💽 texture 3D objects with oil paint ~ BOBERT_art](https://youtu.be/fdI1ZJtAJmI) [texture,OSS] - real-time texturing via video cam.
 
- [📺 unmet expectations = bad reviews ~ Thomas Brush](https://youtu.be/ZjtUE-wUvVg) [game,marketing] - tips on researching game launch.
-
  [📺 Easy Toolbag ~ William Faucher](https://www.fab.com/listings/b6d9b879-1b66-4b47-b8f3-572a3b038e7f) [tool] ([video](https://youtu.be/5A6xysLmbxM)) - toolbar & utilites in UE.
 
  [🏪 CG Marketplace ~ Flipped Normals](https://flippednormals.com/) [asset,commercial] - tutorials & assets.
 
- [📺 You're Making Game Development Too Hard ~ Andrew Chambers](https://www.youtube.com/watch?v=kJyvnMFYTQw) [plan] - niche games, barebones docs, iterate.
-
  [📺 20 Tips That Make UE EASY ~ Ben Crawshaw](https://youtu.be/8uPf4VDCWIo) [optimize].
-
- [📺 Custom Character Skeletons and Animations ~ Upside Tutorials](https://youtu.be/BLVWvxFi9vg) [animation,character].
 
  [📺 Story Framework 5 - Interactive Template ~ V1 Projects](https://www.fab.com/listings/108a7e42-a307-42fb-b1e9-e21a4c1905d7) [game].
 
@@ -923,11 +921,7 @@ But hopefully all of these will find their audience.
 
  [📄 build dynamic matchmaking with PubNub ~ epicgames](https://onlineservices.epicgames.com/en-US/news/creating-dynamic-matchmaking-systems-with-pubnub-and-epic-online-services) [multiplayer].
 
- [📺 beginner tips ~ Unreal University](https://youtu.be/ZDqX6T1-tA0) [article] - diversion VCS, migrate assets from packs, early playtesting, consistent styles.
-
  [🏪 OSS Omega Game Framework ~ StudioSyndiCatCaius](https://github.com/StudioSyndiCatCaius/OmegaGameFramework) [data,OSS] - free Alpha game system.
-
- [📺 Lighting Stylized Assets ~ Stylized Schools](https://youtu.be/4x8F6wxtquM) [asset].
 
  [🏪 Threepeat Anim Tools ~ Threepeat Games](https://www.fab.com/listings/a5d3b60d-b886-4564-bf6d-15d46a8d27fe) [animation,character,rig] ([video](https://youtu.be/xQKvecYSuEE)) - rig picker and curve editor.
 
@@ -959,14 +953,14 @@ But hopefully all of these will find their audience.
 
  [📺 po-excel-translate ~ NotYetGames](https://github.com/NotYetGames/po-excel-translate) - excel files to update translations from po (portable object) files.
 
- [📺 This is the Kuwahara Filter ~ Acerola](https://youtu.be/LDhN-JK3U9g) [demo] - not Unreal specific, mor about maths.
-
  [📺 AI Random Roam ~ Matt Aspland](https://youtu.be/Mi7r0LqUmOE) [NPC].
 
  [💽 Console Variables and Commands ~ digilander](https://digilander.libero.it//ZioYuri78/) [CLI] - toggle list.
 
 
-### General
+### Other
+
+ [📺 How game design handles newbies ~ DerangedDoomer](https://youtu.be/jVX4C1-PPtc) [character,marketing].
 
  [📺 How I Make 225K/Year ~ Brandon Lerry](https://youtu.be/fL0eqWbPIcs).
 
@@ -980,9 +974,13 @@ But hopefully all of these will find their audience.
 
  [🏪 video hosting ~ Streamable](https://streamable.com/) [video].
 
+ [📺 unmet expectations = bad reviews ~ Thomas Brush](https://youtu.be/ZjtUE-wUvVg) [game,marketing] - tips on researching game launch.
+
  [🏪 1:1 by hour mentoring ~ various](https://www.gamedevmentors.com/).
 
  [📺 How Blender 5.0 changes nodes ~ harry blends](https://youtu.be/4kKR891KTvQ) - new connector types.
+
+ [📺 You're Making Game Development Too Hard ~ Andrew Chambers](https://www.youtube.com/watch?v=kJyvnMFYTQw) [plan] - niche games, barebones docs, iterate.
 
  [📺 What Sells on Steam: You Don't Need a Hook ~ Jonas Tyroller](https://youtu.be/uiBDyZ-Pf2M) [marketing] - make cool experiences, hooks less important.. Four Pillars: fun, appeal, scope, monetization.
 
@@ -997,6 +995,8 @@ But hopefully all of these will find their audience.
  [📺 100% Accurate PS1 Graphics in Modern Software ~ pwnisher](https://youtu.be/cUiyph17F3A) [emulation].
 
  [📺 Crosshairs Are Surprisingly Difficult ~ JayTheDevGuy](https://youtu.be/aLgOsEQgtmM) [UI/UX].
+
+ [📺 This is the Kuwahara Filter ~ Acerola](https://youtu.be/LDhN-JK3U9g) [demo] - not Unreal specific, more about maths.
 
  [📺 Fake Melee Attacks to Make Combat Feel Great ~ GDQuest](https://youtu.be/nLxmDdNiGaU) [character,combat] - hurt boxes.
 
