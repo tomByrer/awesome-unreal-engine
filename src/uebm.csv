@@ -10,7 +10,7 @@
 219,Color Correcting Stylized Cartoony Graphics,The Bradshacalypse,https://youtu.be/BKfIgBUYfSg,2023-12-07,2025-09-07,,UE5,video,comic,asset,post-process,"turn down ""tone curve amount"" in post",,
 220,Making stylized animations….in #Blueprints,rowdydev,https://www.youtube.com/shorts/SYI54wk5K0U?feature=share,2025-01-13,2025-09-07,,UE5,video,stylized,blueprint,animation,timeline node for easy animations,,
 221,your first water shader ,Stylized Station,https://youtu.be/kXH1-uY0wjY,2022-09-12,2025-09-15,,UE5,video,water,blueprint,,"preview.... refraction, etc",,
-222,Game Environment,Stylized Station,https://youtu.be/1C81K60KTtc,2024-11-04,2025-09-15,course,UE5,video,stylized,environment,,"sculpt, texture, lighting",,
+222,Game Environment,Stylized Station,https://youtu.be/1C81K60KTtc,2024-11-04,2026-01-25,,UE5,video,stylized,environment,,"sculpt, texture, lighting",,
 223,Smoke VFX - Niagara,Gabriel Aguiar Prod,https://youtu.be/HRagD5L-WF8,2024-03-12,2025-09-15,,UE5,video,effect,niagara,,Smoke effect done with Niagara particle system,,
 224,10 EFFECTS in 10 MINUTES,Gabriel Aguiar Prod,https://www.youtube.com/shorts/jagvNDg7Iaw?feature=share,2024-12-04,2025-09-15,tutorial,UE5,video,effect,niagara,,"Lightning, Rain, Heal, Loot Drop, Portal, Meteor Rain, Flamethrower, Muzzle Flash, Explosion & Projectile",,
 225,Stylized Environment V1,AeonShaper,https://www.fab.com/listings/6ae05e13-e0ee-468b-a6b0-07404b73d978,2025-06-13,2025-09-07,,UE5,store,stylized,environment,"commercial,asset","trees, rocks, stones, cliffs, water, grass, flowers, and bushes, vfx",,
@@ -38,7 +38,7 @@
 249,Intro to Flow Maps,PrismaticaDev,https://youtu.be/FvbPnndigL4,2024-07-23,2026-01-25,,UE5,video,none,physics,,"alternative to Panners and  effects like oceans, rivers and lakes",,
 250,Complex Scenes Made Simple! |Environment Art Tips,VertexLock,https://youtu.be/U7ZX-DXCleU,2024-10-13,2025-09-07,,UE5,video,generic,environment,article,"preplan, smaller kit that gets reused",,
 251,AAA Ghibli Forest in Blender & Unreal,ShinGidora,https://youtu.be/2Lu2VBG1JE0,2025-06-19,2025-09-15,course,UE5,"video,store",Ghibli,asset,"demo,Blender","good tips, though is promotion for his TREEBOX commercial script",,
-252,Environment Art Breakdown,Stylized Station,https://youtu.be/SonheTAwcUI,2022-06-06,2025-09-15,tutorial,UE4,video,stylized,environment,Blender,by Melissa Perl,,
+252,Environment Art Breakdown,Stylized Station,https://youtu.be/SonheTAwcUI,2022-06-06,2026-01-25,analysis,UE4,video,stylized,environment,Blender,by Melissa Perl,,
 254,Upgrade Your Graphics With Gradients,Marpy,https://youtu.be/hZxPUqKx8p8,2021-11-29,2025-09-15,,UE4,video,stylized,environment,post-process,blend colors in fog & leaves,,
 255,Retro Shader Tutorial | Pixelation & Color Posterization,Pixel Perfect,https://youtu.be/dUhoCvpDcIw,2024-08-26,2025-09-15,,UE5,video,pixelized,blueprint,post-process,customizable Post Processing Material,,
 256,30 Seconds Anime-Style Grass,StylizedStation,https://www.youtube.com/shorts/8z645zPawhY?feature=share,2021-08-03,2025-09-15,,UE4,video,stylized,asset,"Blender,asset",,,
@@ -58,7 +58,7 @@
 277,Interactive Foliage Physics,Etherion Designs,https://www.fab.com/listings/fcdb655a-8f79-4a97-994d-3c2140067604,,2025-09-07,tool,UE5,store,generic,c++,"animation,optimize","plants react naturally to footsteps and wind.  very cheap, ",Pro $$$ version,https://www.fab.com/listings/a3f7729e-c68e-4533-9b51-2106357b2316
 278,Optimized Open World Interactive Forest Foliage & Resource Systems,Warmar Games,https://youtu.be/2R8GRKWQQjk,2025-03-20,2025-09-07,,UE5,video,generic,environment,"livestream,optimize","dynamic, interactive environments",,
 279,300.000 Performant Interactable Foliage Items,ThirstyThursten,https://youtu.be/IS6zMKyCFcA,2023-08-25,2026-01-25,,UE5,video,none,msc-ue,"optimize,demo",PCG,,
-281,stylized 3d explosions,CFMakesThings,https://www.youtube.com/shorts/xdxz9Rn6384?feature=share,2024-04-29,2025-09-15,,UE5,video,effect,gradient,,,,
+281,stylized 3d explosions,CFMakesThings,https://www.youtube.com/shorts/xdxz9Rn6384?feature=share,2024-04-29,2026-01-25,,UE5,video,effect,material,,,,
 282,Character and Object Foliage Interaction,Arghanion's Puzzlebox,https://youtu.be/za6ffTin5GQ,2024-12-19,2026-01-25,tutorial,"UE4,UE5",video,none,shader,optimize,cheap; no bones,free foliage tools,https://www.patreon.com/posts/118145659?pr=true
 283,Surface Forge,Arghanion's Puzzlebox,https://www.fab.com/listings/9d27e228-5ee3-4bb5-a4a2-87ba386cb53a,2025-09-03,2025-09-07,,UE5,store,generic,material,tool,surface painter designed for any mesh,video,https://youtu.be/uCbnTOKhyWg
 284,ALL Unreal Engine Plugins,Kibibyte,https://youtu.be/zCkRsYEGD5s,2023-08-23,2025-09-07,,UE5,video,generic,msc-ue,"demo,tool",review/showcase,,
@@ -67,8 +67,8 @@
 287,Calysto World 2/Massive World PCG Map Toolkit,Michael Simard,https://youtu.be/hHu3mEdT1c8,2025-09-04,2025-09-15,,UE5,"video,store",generic,environment,"demo,commercial",procedural world generation,FAB,https://www.fab.com/listings/8631308a-67a3-4e20-b3e4-74be19813f77
 288,Complete AI Toolkit,Ludus AI,https://ludusengine.com/,2025-09-04,2025-09-07,,UE5,store,none,c++,"commercial,asset","generate C++ code, 3D models, and functional Blueprints",YouTube,https://www.youtube.com/@LudusAI
 289,Boost your Optimization,Taken Grace,https://youtu.be/aeCNMYpoBQk?list=PLV-MOgRkz798siDrye0LnPhrj9Q5HjjuM,2025-08-30,2025-09-30,,UE5,playlist,none,c++,,13+vids,,
-290,Asset Manager Studio Launcher,master-technology,https://assetmanager.studio/,2025-09-04,2025-09-14,tool,UE5,store,stylized,msc-ue,tool,,video,https://youtu.be/PJzLVx0iVGU
-291,Achieve True Color in Unreal Engine: Disabling Tonemapper,Kibibyte,https://youtu.be/mNr5K2tIAg8,2024-11-07,2025-09-15,tutorial,UE5,video,generic,environment,"post-process,pre-process","custom look, LUTs, etc",,
+290,Asset Manager Studio Launcher,master-technology,https://assetmanager.studio/,2025-09-04,2026-01-25,tool,UE5,store,generic,msc-ue,tool,,video,https://youtu.be/PJzLVx0iVGU
+291,Achieve True Color in Unreal Engine: Disabling Tonemapper,Kibibyte,https://youtu.be/mNr5K2tIAg8,2024-11-07,2026-01-25,tutorial,UE5,video,movie,environment,"post-process,pre-process","custom look, LUTs, etc",,
 292,"Individual Foliage Logic [Harvesting, Damage, Particles]",PrismaticaDev,https://youtu.be/6sjc4dqoCF0,2021-10-01,2025-09-15,tutorial,UE5,video,generic,blueprint,"animation,character",,,
 293,Long-Form Narrative Workflow,Unreal Engine,https://youtu.be/UVRlNFFBa1o,2025-03-21,2025-09-15,analysis,UE5,video,stylized,msc-ue,,Steamroller Animation 2D cartoon,,
 294,Easy Stylized Grass,Aziel Arts,https://youtu.be/pPNsGrfuaCc,2024-05-20,2025-09-15,,UE5,video,stylized,asset,,,,
@@ -101,7 +101,7 @@
 324,UE5 C++ Tutorial,Lötwig Fusel,https://youtu.be/nvruYLgjKkk?list=PL-m4pn2uJvXHL5rxdudkhqrSRM5gN43YN&t=157,2021-12-29,2025-09-15,,UE5,video,none,c++,,"long, 15 parts, older",,
 325,From Blueprints to C++,Ali Elzoheiry,https://youtu.be/4AdGIPV1Yw4,2025-05-23,2025-09-15,,UE5,video,none,c++,,1 hour,,
 326,Software Design Patterns series,Ali Elzoheiry,https://youtu.be/YFtLd-bKl-U?list=PLNwKK6OwH7eVw8SIE9ziJOJMog2eXK-6r,2024-08-14,2025-09-30,course,UE5,playlist,none,analysis,optimize,"C++/Blueprints, quality",blog refrence,https://refactoring.guru/design-patterns/observer
-327,Interaction System series,Ali Elzoheiry,https://youtu.be/RiGTU96KiIk?list=PLNwKK6OwH7eVj0NU_ImdvPXEmVFyWfd8E,2025-02-27,2025-09-30,course,UE5,playlist,none,c++,character,"interfaces, event dispatchers, actor components, enums, structs, NPC AI, etc",files on Patreon,https://www.patreon.com/cw/Alizoh
+327,Interaction System series,Ali Elzoheiry,https://youtu.be/RiGTU96KiIk?list=PLNwKK6OwH7eVj0NU_ImdvPXEmVFyWfd8E,2025-02-27,2026-01-25,,UE5,playlist,none,c++,character,"interfaces, event dispatchers, actor components, enums, structs, NPC AI, etc",files on Patreon,https://www.patreon.com/cw/Alizoh
 328,Essential C++ Programming Basics,Pobato Tutorials,https://youtu.be/VdGpv2IzUAw?list=PLUafV3PKFG2loWC7UjIfTibPqfHaTIIz-,2024-09-04,2025-09-30,tutorial,UE5,playlist,none,c++,,"23 short vids, focused topics, no fluff",,
 329,Beginner Mistakes,Pobato Tutorials,https://youtu.be/zqK-RVlWyL4,2025-06-18,2025-09-15,,UE5,video,none,msc-ue,,"coding, pipeline, & building tips",,
 330,change how you DEBUG,Pobato Tutorials,https://youtu.be/pFyMPOnFYwU,2025-07-18,2025-09-08,,UE5,video,none,c++,article,Visual Logger,,
@@ -147,7 +147,7 @@
 371,Be a better game dev series,LeafBranchGames,https://www.youtube.com/playlist?list=PLNBX4kIrA68nX9tTCMbuBM8up9JVq29fv,2024-11-26,2025-09-30,,UE5,playlist,none,blueprint,optimize,,,
 372,Anime/Toon/Cel Shading Model,Envieous,https://forums.unrealengine.com/t/ue5-anime-toon-cel-shading-model-works-with-launcher-engine-versions/544226,2025-09-16,2025-09-22,tool,UE5,blog,cartoon,shader,"asset,game","custom shader, works with launcher",,
 373,GameplayAbilitySystem notes,tranek,https://github.com/tranek/GASDocumentation,2024-04-06,2025-09-23,article,UE5,blog,none,msc-ue,GAS,,,
-374,Gameplay Ability System,Zhi Kang Shao,https://dev.epicgames.com/community/learning/tutorials/8Xn9/unreal-engine-epic-for-indies-your-first-60-minutes-with-gameplay-ability-system,2025-09-09,2025-09-23,article,UE5,blog,none,c++,GAS,for beginners.  Epic staff writer,,
+374,Gameplay Ability System,Zhi Kang Shao,https://dev.epicgames.com/community/learning/tutorials/8Xn9/unreal-engine-epic-for-indies-your-first-60-minutes-with-gameplay-ability-system,2025-09-09,2026-01-25,,UE5,blog,none,c++,GAS,for beginners.  Epic staff writer,,
 375,AI and Games channel,AIandGames,https://www.youtube.com/@AIandGames/videos,2025-09-01,2025-09-25,analysis,UE5,video,none,AI-char,tool,mostly breakdowns on games,,
 376,"Game Loops Are Out, Chains Are In",Indie Game Clinic,https://youtu.be/6SYX17NzNqE,2025-09-29,2025-09-30,,UE5,video,none,analysis,game,,,
 378,AI of F.E.A.R. with GOAP,AI and Games,https://youtu.be/PaOLBOuyswI,2020-05-06,2025-09-30,,UE5,video,none,AI-char,article,Goal Oriented Action Planning,,
@@ -232,8 +232,9 @@
 462,IndieDev,reddit,https://www.reddit.com/r/IndieDev/,2025-10-27,2025-10-27,community,,forum,none,community,,casual: better place to showcase,,
 463,Visual Production,reddit,https://www.reddit.com/r/virtualproduction/,2025-10-27,2026-01-25,community,UE5,forum,movie,community,,production for movies & live events,,
 464,Game Development,reddit,https://www.reddit.com/r/gamedev/,2025-10-27,2025-10-27,community,,forum,none,community,,general advise & promotions for games,,
-465,game industry job board,reddit,https://www.reddit.com/r/gameDevClassifieds/,2025-10-27,2025-10-27,,,forum,none,community,,,,
+465,game industry job board,reddit,https://www.reddit.com/r/gameDevClassifieds/,2025-10-27,2026-01-26,community,,forum,none,community,,,,
 466,Official Forum,Epic,https://forums.unrealengine.com/categories?tag=unreal-engine,2025-10-27,2025-10-27,community,UE5,forum,none,community,,,,
+813,Game Design,,https://www.reddit.com/r/gamedesign/,2026-01-26,2026-01-26,community,UE5,forum,none,community,,no specific platform,,
 467,texture 3D objects with oil paint,BOBERT_art,https://youtu.be/fdI1ZJtAJmI,2025-10-26,2025-10-27,,,"video,repo",none,msc-ue,"texture,OSS",real-time texturing via video cam,repo,
 468,Threepeat Anim Tools,Threepeat Games,https://www.fab.com/listings/a5d3b60d-b886-4564-bf6d-15d46a8d27fe,2025-06-19,2025-10-27,,UE5.4,store,none,msc-ue,"animation,character,rig",rig picker and curve editor,video,https://youtu.be/xQKvecYSuEE
 469,Scaling Lighting for Quality & Performance,Alexis Argyriou,https://youtu.be/Q1whHlGJB_o,2025-10-13,2025-10-27,analysis,UE5,video,none,environment,"optimize,Lumin",,,
@@ -285,7 +286,7 @@
 791,10 Lighting Tips for Beginners,Matt Aspland,https://youtu.be/-EADwK57u9E,2025-03-11,2025-11-24,tutorial,UE5,video,none,environment,,,,
 792,Baking out vertex animation in editor with AnimToTexture,epicgames,https://dev.epicgames.com/community/learning/tutorials/daE9/unreal-engine-baking-out-vertex-animation-in-editor-with-animtotexture,2023-02-25,2025-11-27,,UE5,blog,none,niagara,crowd,simulating large crowds,,
 793,ActorIO,HorizonGamesRoland,https://github.com/HorizonGamesRoland/ActorIO,2025-12-18,2026-01-01,repo,UE5,repo,none,msc-ue,"NPC,combat",Source Engine inspired level scripting tool,demo,https://github.com/HorizonGamesRoland/ActorIOSample
-794,marketing indie Doc,Richard Zemore,https://docs.google.com/document/d/1JR8fsg6Tt_cvGHtcqb0rtdU84bbzNq7vYL_knvGCFJg/edit?tab=t.1wcppz75ozbm#heading=h.h19k42qddmeq,2025-12-17,2026-01-03,repo,UE5,repo,none,other,marketing,1-2 man team consultant,reddit,https://www.reddit.com/r/SoloDevelopment/comments/1pq9rnw/comment/nusriyw/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+794,marketing indie Doc,Richard Zemore,https://docs.google.com/document/d/1JR8fsg6Tt_cvGHtcqb0rtdU84bbzNq7vYL_knvGCFJg/edit?tab=t.1wcppz75ozbm#heading=h.h19k42qddmeq,2025-12-17,2026-01-25,repo,none,repo,none,other,marketing,1-2 man team consultant,reddit,https://www.reddit.com/r/SoloDevelopment/comments/1pq9rnw/comment/nusriyw/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 795,How game design handles newbies,DerangedDoomer,https://youtu.be/jVX4C1-PPtc,2025-12-28,2026-01-25,,UE5,video,none,other,"character,marketing",,,
 796,ANIME STYLE SHADOWS,CuriousVertex,https://youtu.be/qSpe2T4hprM,2025-12-06,2026-01-02,tutorial,UE5,video,painted,c++,"emulation,mesh",uses C++ & blueprints to make sketchy effect,files,https://www.patreon.com/posts/anime-style-145204165?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
 797,How I Make 225K/Year,Brandon Lerry,https://youtu.be/fL0eqWbPIcs,2025-12-19,2026-01-03,,msc,video,none,other,,,,
@@ -303,3 +304,20 @@
 809,ARIS: Echoes: demo game,oscaem,https://github.com/oscaem/ARIS-Unreal-GPT,2023-07-03,2026-01-13,,UE5,repo,none,AI-char,,"GPT-4, Azure TTS",,
 810,How One Guy FIXED Procedural Generation,Game Dev Buddies,https://youtu.be/Y19Mw5YsgjI,2026-01-08,2026-01-25,analysis,none,video,generic,environment,asset,player made landscapes semi-randomish,,
 811,"""Step by step"" Procedural Animation",Lincoln Margison ,https://youtu.be/E23zeX0Mttc,2026-01-16,2026-01-25,course,UE5.7,video,generic,asset,"animation,character",spider,reddit,https://www.reddit.com/r/UnrealEngine5/comments/1qggyzu/a_few_days_ago_i_posted_a_clip_of_this_procedural/
+812,indie games are in a golden age right now,zukalous,https://howtomarketagame.com/2025/11/04/the-optimistic-case-that-indie-games-are-in-a-golden-age-right-now/,2025-11-04,2026-01-25,analysis,none,blog,none,other,marketing,,,
+814,Motion Capture for MetaHumans on a Budget,Charlie Driscoll,https://youtu.be/wys5jEhtpY0,2026-01-25,2026-01-26,,UE5,video,movie,MetaHuman,animation,Mimem.AI,,
+815,10 Simple Habits to Make Better Games,Andrew Chambers,https://youtu.be/R6RLP-Js2dc,2025-08-22,2026-01-30,analysis,none,video,none,other,plan,,,
+816,Animators React to KPop Demon Hunters - ft. THE DIRECTORS,Corridor Crew,https://youtu.be/e7L-ka-MsEE,2026-01-31,2026-02-01,analysis,none,video,movie,other,animation,,,
+817,Animation Budget Paradox,Miguel Munuera,https://youtu.be/5kKZxNbxSMA,2026-01-28,2026-02-01,,none,video,movie,other,"animation,profit",smaller budgets = more creative,,
+818,We Don’t Play Dungeons Like They Used To,Mystic Arts,https://youtu.be/zyl73XLJWhE,2026-01-29,2026-02-01,,none,video,none,other,game,time and dangers in turn based dungeons,,
+819,Unfun Work That Actually Makes Games Succeed,NyeDigitalGames,https://youtu.be/tCScnoA3t6k,2026-01-30,2026-02-01,,none,video,none,other,"game,profit","""volume over perfection""",,
+820,SDL 3.4: Better Graphics,Gamefromscratch,https://youtu.be/8L_tS8Y1V7Q,2026-01-05,2026-02-02,,none,video,none,other,,Simple DirectMedia Layer,,
+821,How Endless Content Is Ruining Games,Radical Cap,https://youtu.be/b42_9zWkLpk,2026-01-21,2026-02-02,,none,video,none,other,"article,plan",hot take on game length,,
+822,Every Reason the Gaming Industry Is Degrading,Radical Cap,https://youtu.be/4SBsdAbBsfk,2025-09-12,2026-02-02,,none,video,none,other,article,"bad scripts, empty open worlds, etc",,
+823,How Environment Artists Texture Massive Surfaces,Next Level Game Art,https://youtu.be/sucmOAE9W9A,2026-01-27,2026-02-02,,UE5,video,generic,msc-ue,texture,avoid obvious repetition  of tiles,,
+824,What Studio Ghibli Does That Disney Doesn’t,omeroy Art Academy,https://youtu.be/UXAM9v32Q-g,2026-01-27,2026-02-04,analysis,none,video,none,other,"animation,character",stylistic differences,,
+825,Make Pixel Art In Blender,KitagawaGameDev,https://youtu.be/PBIPJdEECWg,2025-10-03,2026-02-04,,Blender,video,retro,other,"animation,character",,,
+826,Game Dev Books in 2026,Cobra Code,https://youtu.be/ZkUzouaNDso,2026-02-04,2026-02-04,analysis,none,video,none,msc-ue,,paper books,,
+827,free alternative to Substance Designer,InspirationTuts,https://youtu.be/SqsesULU-KM,2026-02-02,2026-02-05,,none,video,none,material,tool,"standalone tool, based on Godoh",,
+828,Outline a Book with a PLOT GRID,Write with Claire Fraise,https://youtu.be/Fd9_4efYEYQ,2025-07-07,2026-02-13,tutorial,none,video,none,other,storytelling,pre-plan plot arcs,spreadsheet,https://docs.google.com/spreadsheets/d/1XH8d-gWQ5Wgd2-HPky1BOxT3qUjH2Kt27-4ikkyngcE/copy?usp=sharing
+829,EOSIntegrationKit,betidestudio,https://github.com/betidestudio/EOSIntegrationKit,2026-01-12,2026-02-10,,UE5,repo,none,c++,"online,multiplayer",Epic Online Services Integration Kit,,

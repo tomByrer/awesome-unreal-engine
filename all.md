@@ -128,6 +128,8 @@ But hopefully all of these will find their audience.
 
 ### Retro
 
+ [📺 Make Pixel Art In Blender ~ KitagawaGameDev](https://youtu.be/PBIPJdEECWg) [animation,character,other].
+
  [📺 100% Accurate PS1 Graphics in Modern Software ~ pwnisher](https://youtu.be/cUiyph17F3A) [emulation,other].
 
 
@@ -161,8 +163,6 @@ But hopefully all of these will find their audience.
  [🏪 lessons & resources ~ 3dex](https://3dex.gumroad.com/) [asset].
 
  [🏪 MeshBlend ~ Tore Lervik](https://www.fab.com/listings/1f4abe73-4cda-42db-995a-c9f8ca4790e5) [msc-ue] - controllable blending of meshes.
-
- [🏪 Asset Manager Studio Launcher ~ master-technology](https://assetmanager.studio/) [tool,msc-ue] ([video](https://youtu.be/PJzLVx0iVGU)).
 
  [🏪 Blueprint Generator Ai ~ Kibibyte](https://www.fab.com/listings/6aa00d98-0db0-4f13-8950-e21f0a0eda2c) [commercial,asset,blueprint].
 
@@ -260,18 +260,22 @@ But hopefully all of these will find their audience.
 
  [📺 10 EFFECTS in 10 MINUTES ~ Gabriel Aguiar Prod](https://www.youtube.com/shorts/jagvNDg7Iaw?feature=share) [niagara] - Lightning, Rain, Heal, Loot Drop, Portal, Meteor Rain, Flamethrower, Muzzle Flash, Explosion & Projectile.
 
- [📺 stylized 3d explosions ~ CFMakesThings](https://www.youtube.com/shorts/xdxz9Rn6384?feature=share) [gradient].
+ [📺 stylized 3d explosions ~ CFMakesThings](https://www.youtube.com/shorts/xdxz9Rn6384?feature=share) [material].
 
  [📺 Smoke VFX - Niagara ~ Gabriel Aguiar Prod](https://youtu.be/HRagD5L-WF8) [niagara] - Smoke effect done with Niagara particle system.
 
 
 ### Generic
 
+ [📺 How Environment Artists Texture Massive Surfaces ~ Next Level Game Art](https://youtu.be/sucmOAE9W9A) [texture,msc-ue] - avoid obvious repetition  of tiles.
+
  [📺 "Step by step" Procedural Animation ~ Lincoln Margison ](https://youtu.be/E23zeX0Mttc) [animation,character,asset] ([reddit](https://www.reddit.com/r/UnrealEngine5/comments/1qggyzu/a_few_days_ago_i_posted_a_clip_of_this_procedural/)) - spider.
 
  [📺 How One Guy FIXED Procedural Generation ~ Game Dev Buddies](https://youtu.be/Y19Mw5YsgjI) [asset,environment] - player made landscapes semi-randomish.
 
  [📺 Vue 3D & Plant Factory Are Going Opensource ~ askNK](https://youtu.be/mgq4APBRlw8) [msc-ue].
+
+ [🏪 Asset Manager Studio Launcher ~ master-technology](https://assetmanager.studio/) [tool,msc-ue] ([video](https://youtu.be/PJzLVx0iVGU)).
 
  [📺🏪 Calysto World 2/Massive World PCG Map Toolkit ~ Michael Simard](https://youtu.be/hHu3mEdT1c8) [demo,commercial,environment] ([FAB](https://www.fab.com/listings/8631308a-67a3-4e20-b3e4-74be19813f77)) - procedural world generation.
 
@@ -292,8 +296,6 @@ But hopefully all of these will find their audience.
  [📺 world generator tool is too powerful ~ Connor "Bluedrake42" Hill](https://youtu.be/Em5Wnch-STk) [demo,commercial,AI-char] - Polygon World Dash.
 
  [📺 Optimized Open World Interactive Forest Foliage & Resource Systems ~ Warmar Games](https://youtu.be/2R8GRKWQQjk) [livestream,optimize,environment] - dynamic, interactive environments.
-
- [📺 Achieve True Color in Unreal Engine: Disabling Tonemapper ~ Kibibyte](https://youtu.be/mNr5K2tIAg8) [post-process,pre-process,environment] - custom look, LUTs, etc.
 
  [📺 Complex Scenes Made Simple! |Environment Art Tips ~ VertexLock](https://youtu.be/U7ZX-DXCleU) [article,environment] - preplan, smaller kit that gets reused.
 
@@ -316,6 +318,12 @@ But hopefully all of these will find their audience.
 
 ### Movie
 
+ [📺 Animators React to KPop Demon Hunters - ft. THE DIRECTORS ~ Corridor Crew](https://youtu.be/e7L-ka-MsEE) [animation,other].
+
+ [📺 Animation Budget Paradox ~ Miguel Munuera](https://youtu.be/5kKZxNbxSMA) [animation,profit,other] - smaller budgets = more creative.
+
+ [📺 Motion Capture for MetaHumans on a Budget ~ Charlie Driscoll](https://youtu.be/wys5jEhtpY0) [animation,MetaHuman] - Mimem.AI.
+
  [📺 How this UE5 film won an Oscar ~ Josh Toonen](https://youtu.be/eOQM1Tbyw0Y) [animation,character,msc-ue].
 
  [🌐 Visual Production ~ reddit](https://www.reddit.com/r/virtualproduction/) [community] - production for movies & live events.
@@ -325,6 +333,8 @@ But hopefully all of these will find their audience.
  [📺 Make Films 10x Faster in UE ~ Josh Toonen](https://youtu.be/RBtlrRP2fvs) [video,animation,post-process,blueprint] - cinematic environments, animated decals.
 
  [📺 3d controlled AI video generation ~ Utopai Studios](https://youtu.be/301tJ7HCApk) [commercial,demo,AI-char] - real-time control over scene composition.
+
+ [📺 Achieve True Color in Unreal Engine: Disabling Tonemapper ~ Kibibyte](https://youtu.be/mNr5K2tIAg8) [post-process,pre-process,environment] - custom look, LUTs, etc.
 
 
 ### Audio
@@ -336,6 +346,8 @@ But hopefully all of these will find their audience.
 
 
 ### Community
+
+ [🌐 Game Design ~ ](https://www.reddit.com/r/gamedesign/) - no specific platform.
 
  [🌐 Official Forum ~ Epic](https://forums.unrealengine.com/categories?tag=unreal-engine).
 
@@ -526,6 +538,8 @@ But hopefully all of these will find their audience.
 
 ### Material
 
+ [📺 free alternative to Substance Designer ~ InspirationTuts](https://youtu.be/SqsesULU-KM) [tool] - standalone tool, based on Godoh.
+
  [📺 Perceptual Tonemapper - Open Beta ~ Visual Tech Art](https://youtu.be/VIt6qsMY24k) [post-process,pre-process] ([store](https://jumpeter.gumroad.com/l/TonemapBeta)).
 
  [📺 VFX Texture Creation ~ Le Lu](https://youtu.be/dMthnzpR-eU) - lists tools.
@@ -632,6 +646,8 @@ But hopefully all of these will find their audience.
 
 ### C++
 
+ [💽 EOSIntegrationKit ~ betidestudio](https://github.com/betidestudio/EOSIntegrationKit) [online,multiplayer] - Epic Online Services Integration Kit.
+
  [💽 mobile forward rendering quality toggle ~ Vaei](https://github.com/Vaei/ForwardRender) [optimize] ([reddit post](https://www.reddit.com/r/unrealengine/comments/1od0raf/is_there_a_way_to_use_unreal_engine_5_without/)).
 
  [💽 Dialogue Plugin System ~ NotYetGames](https://github.com/NotYetGames/DlgSystem) ([tutorial](https://www.youtube.com/playlist?list=PLXwmPAN4LZ4aqXZSVepF27qyAzoGqZpfB)).
@@ -674,6 +690,8 @@ But hopefully all of these will find their audience.
  [🏪 Endless Runner Game Kit ~ Bree](https://www.fab.com/listings/55f8ca1e-bde7-4b39-80aa-79362f68fabe) [animation,commercial,game].
 
  [📺 10 Awesome Free Plugins ~ Unreal University](https://youtu.be/dmTF57Zwlbc) [demo].
+
+ [📺 Game Dev Books in 2026 ~ Cobra Code](https://youtu.be/ZkUzouaNDso) - paper books.
 
  [💽 ActorIO ~ HorizonGamesRoland](https://github.com/HorizonGamesRoland/ActorIO) [NPC,combat] ([demo](https://github.com/HorizonGamesRoland/ActorIOSample)) - Source Engine inspired level scripting tool.
 
@@ -732,6 +750,16 @@ But hopefully all of these will find their audience.
 
 ### Other
 
+ [📺 Unfun Work That Actually Makes Games Succeed ~ NyeDigitalGames](https://youtu.be/tCScnoA3t6k) [game,profit] - "volume over perfection".
+
+ [📺 We Don’t Play Dungeons Like They Used To ~ Mystic Arts](https://youtu.be/zyl73XLJWhE) [game] - time and dangers in turn based dungeons.
+
+ [📺 What Studio Ghibli Does That Disney Doesn’t ~ omeroy Art Academy](https://youtu.be/UXAM9v32Q-g) [animation,character] - stylistic differences.
+
+ [📺 How Endless Content Is Ruining Games ~ Radical Cap](https://youtu.be/b42_9zWkLpk) [article,plan] - hot take on game length.
+
+ [📺 SDL 3.4: Better Graphics ~ Gamefromscratch](https://youtu.be/8L_tS8Y1V7Q) - Simple DirectMedia Layer.
+
  [📺 How game design handles newbies ~ DerangedDoomer](https://youtu.be/jVX4C1-PPtc) [character,marketing].
 
  [📺 How I Make 225K/Year ~ Brandon Lerry](https://youtu.be/fL0eqWbPIcs).
@@ -741,6 +769,8 @@ But hopefully all of these will find their audience.
  [📺 What It REALLY Takes to Make an Animated Feature Film ALONE ~ The VFX Process](https://youtu.be/0dDR0N_pHmQ).
 
  [📺 Motion Designer Reacts to Fantastic4 Title Sequences ~ The Video Shop](https://youtu.be/pfapONWRaHc) [animation,marketing].
+
+ [📄 indie games are in a golden age right now ~ zukalous](https://howtomarketagame.com/2025/11/04/the-optimistic-case-that-indie-games-are-in-a-golden-age-right-now/) [marketing].
 
  [📺 Flax Engine 1.11 - It's Indie UE ~ Gamefromscratch](https://youtu.be/KKtQw-5bx4M) ([blog](https://gamefromscratch.com/flax-engine-1-11-released/)) - smaller but powerful game engine.
 
@@ -756,7 +786,13 @@ But hopefully all of these will find their audience.
 
  [📺 What Sells on Steam: You Don't Need a Hook ~ Jonas Tyroller](https://youtu.be/uiBDyZ-Pf2M) [marketing] - make cool experiences, hooks less important.. Four Pillars: fun, appeal, scope, monetization.
 
+ [📺 Every Reason the Gaming Industry Is Degrading ~ Radical Cap](https://youtu.be/4SBsdAbBsfk) [article] - bad scripts, empty open worlds, etc.
+
+ [📺 10 Simple Habits to Make Better Games ~ Andrew Chambers](https://youtu.be/R6RLP-Js2dc) [plan].
+
  [📺 Insanely Original Games That Play Like Nothing ELSE ~ gameranx](https://youtu.be/EpJpE7YEeI4).
+
+ [📺 Outline a Book with a PLOT GRID ~ Write with Claire Fraise](https://youtu.be/Fd9_4efYEYQ) [storytelling] ([spreadsheet](https://docs.google.com/spreadsheets/d/1XH8d-gWQ5Wgd2-HPky1BOxT3qUjH2Kt27-4ikkyngcE/copy?usp=sharing)) - pre-plan plot arcs.
 
  [📺 Friction: open-source alternative to After Effects? ~ Momo PTFL](https://youtu.be/HPIt6ICjzGM) [animation] - 2d animation.
 

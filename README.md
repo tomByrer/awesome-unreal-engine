@@ -7,7 +7,7 @@
 A curated list of awesome articles & resources for **[Unreal game engine](https://www.unrealengine.com/)**.
 Resources focused on a particular art direction are separated out.  You may find a few links [not specific to UE](#other), but are about 3d assets, game or [movie](#movie) production, etc.
 
-Beginners should start with [Community](#community) & [beginner](#beginner).  Experts can find many more links in the [all page](https://github.com/tomByrer/awesome-unreal-engine/blob/main/all.md#unreal-engine--bookmarks).
+Beginners should start with [Community](#community) & [beginner](#beginner).  Experts can find 320+ links in the [all page](https://github.com/tomByrer/awesome-unreal-engine/blob/main/all.md#unreal-engine--bookmarks).
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-file#gaming) list.
 
@@ -116,15 +116,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 ### Stylized
 
- [🏪 Asset Manager Studio Launcher ~ master-technology](https://assetmanager.studio/) [tool,msc-ue] ([video](https://youtu.be/PJzLVx0iVGU)).
-
  [📺 Trees – Blender to UE5 Workflow ~ selsner](https://www.youtube.com/shorts/yWyc14-6sog?feature=share) [asset] - blob-less, recomputed, short.
 
  [📺 Long-Form Narrative Workflow ~ Unreal Engine](https://youtu.be/UVRlNFFBa1o) [msc-ue] - Steamroller Animation 2D cartoon.
 
  [📺 Low Poly open world w/free assets ~  Dutchmangames](https://youtu.be/cjQKbGsWT-M) [demo,environment] ([part 2](https://youtu.be/I-xgz0GNanw)) - place prefabs for beginners.
-
- [📺 Game Environment ~ Stylized Station](https://youtu.be/1C81K60KTtc) [environment] - sculpt, texture, lighting.
 
  [📺 Simple Stylization Techniques | GDC 2024 ~  Chris Murphy](https://youtu.be/exMzwH7EJUY) [blueprint] ([article](https://dev.epicgames.com/community/learning/talks-and-demos/XayP/fortnite-simple-stylization-techniques-in-unreal-engine-5)) - colorized 'fog of war'.
 
@@ -159,11 +155,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
  [📺 How One Guy FIXED Procedural Generation ~ Game Dev Buddies](https://youtu.be/Y19Mw5YsgjI) [asset,environment] - player made landscapes semi-randomish.
 
+ [🏪 Asset Manager Studio Launcher ~ master-technology](https://assetmanager.studio/) [tool,msc-ue] ([video](https://youtu.be/PJzLVx0iVGU)).
+
  [📺 adding destruction ~ EODdev](https://www.youtube.com/shorts/XIliGusbLFs?feature=share) [asset,asset].
 
  [🏪 Odysey - 2D animations ~ PraxinosCoop](https://www.fab.com/listings/c2a71aa9-998c-4286-9d5b-df91d9cc4034) [animation,msc-ue] ([home](https://praxinos.coop/odyssey.php)).
-
- [📺 Achieve True Color in Unreal Engine: Disabling Tonemapper ~ Kibibyte](https://youtu.be/mNr5K2tIAg8) [post-process,pre-process,environment] - custom look, LUTs, etc.
 
  [📺 Material Ambient Occlusion ~ William Faucher](https://youtu.be/65cgc3jbNlg) [msc-ue] - bake Ambient Occlusion maps onto models.
 
@@ -178,6 +174,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 ### Movie
 
+ [📺 Animators React to KPop Demon Hunters - ft. THE DIRECTORS ~ Corridor Crew](https://youtu.be/e7L-ka-MsEE) [animation,other].
+
  [📺 How this UE5 film won an Oscar ~ Josh Toonen](https://youtu.be/eOQM1Tbyw0Y) [animation,character,msc-ue].
 
  [🌐 Visual Production ~ reddit](https://www.reddit.com/r/virtualproduction/) [community] - production for movies & live events.
@@ -185,6 +183,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
  [📺 Green Screen VFX ~ Dean Yurke](https://youtu.be/rzMRSDxg33Q) [video,camera] - Pro movie VFX artist explains his process.
 
  [📺 Make Films 10x Faster in UE ~ Josh Toonen](https://youtu.be/RBtlrRP2fvs) [video,animation,post-process,blueprint] - cinematic environments, animated decals.
+
+ [📺 Achieve True Color in Unreal Engine: Disabling Tonemapper ~ Kibibyte](https://youtu.be/mNr5K2tIAg8) [post-process,pre-process,environment] - custom look, LUTs, etc.
 
 
 ### Audio
@@ -195,7 +195,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 ### Community
 
+ [🌐 Game Design ~ ](https://www.reddit.com/r/gamedesign/) - no specific platform.
+
  [🌐 Official Forum ~ Epic](https://forums.unrealengine.com/categories?tag=unreal-engine).
+
+ [🌐 game industry job board ~ reddit](https://www.reddit.com/r/gameDevClassifieds/).
 
  [🌐 Game Development ~ reddit](https://www.reddit.com/r/gamedev/) - general advise & promotions for games.
 
@@ -322,16 +326,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
  [💽 mobile forward rendering quality toggle ~ Vaei](https://github.com/Vaei/ForwardRender) [optimize] ([reddit post](https://www.reddit.com/r/unrealengine/comments/1od0raf/is_there_a_way_to_use_unreal_engine_5_without/)).
 
- [📄 Gameplay Ability System ~ Zhi Kang Shao](https://dev.epicgames.com/community/learning/tutorials/8Xn9/unreal-engine-epic-for-indies-your-first-60-minutes-with-gameplay-ability-system) [GAS] - for beginners.  Epic staff writer.
-
- [📺📜 Interaction System series ~ Ali Elzoheiry](https://youtu.be/RiGTU96KiIk?list=PLNwKK6OwH7eVj0NU_ImdvPXEmVFyWfd8E) [character] ([files on Patreon](https://www.patreon.com/cw/Alizoh)) - interfaces, event dispatchers, actor components, enums, structs, NPC AI, etc.
-
  [📺📜 Essential C++ Programming Basics ~ Pobato Tutorials](https://youtu.be/VdGpv2IzUAw?list=PLUafV3PKFG2loWC7UjIfTibPqfHaTIIz-) - 23 short vids, focused topics, no fluff.
 
  [📺 Software-Occlusion-Culling ~ ArmainAP](https://github.com/ArmainAP/Unreal-Engine-Software-Occlusion-Culling) [optimize] - reintroducing the functionality of CPU-based occlusion culling.
 
 
 ### Msc-ue
+
+ [📺 Game Dev Books in 2026 ~ Cobra Code](https://youtu.be/ZkUzouaNDso) - paper books.
 
  [💽 ActorIO ~ HorizonGamesRoland](https://github.com/HorizonGamesRoland/ActorIO) [NPC,combat] ([demo](https://github.com/HorizonGamesRoland/ActorIOSample)) - Source Engine inspired level scripting tool.
 
@@ -350,9 +352,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome?tab=readme-ov-
 
 ### Other
 
+ [📺 What Studio Ghibli Does That Disney Doesn’t ~ omeroy Art Academy](https://youtu.be/UXAM9v32Q-g) [animation,character] - stylistic differences.
+
  [💽 marketing indie Doc ~ Richard Zemore](https://docs.google.com/document/d/1JR8fsg6Tt_cvGHtcqb0rtdU84bbzNq7vYL_knvGCFJg/edit?tab=t.1wcppz75ozbm#heading=h.h19k42qddmeq) [marketing] ([reddit](https://www.reddit.com/r/SoloDevelopment/comments/1pq9rnw/comment/nusriyw/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)) - 1-2 man team consultant.
 
+ [📄 indie games are in a golden age right now ~ zukalous](https://howtomarketagame.com/2025/11/04/the-optimistic-case-that-indie-games-are-in-a-golden-age-right-now/) [marketing].
+
  [📺 What Sells on Steam: You Don't Need a Hook ~ Jonas Tyroller](https://youtu.be/uiBDyZ-Pf2M) [marketing] - make cool experiences, hooks less important.. Four Pillars: fun, appeal, scope, monetization.
+
+ [📺 10 Simple Habits to Make Better Games ~ Andrew Chambers](https://youtu.be/R6RLP-Js2dc) [plan].
+
+ [📺 Outline a Book with a PLOT GRID ~ Write with Claire Fraise](https://youtu.be/Fd9_4efYEYQ) [storytelling] ([spreadsheet](https://docs.google.com/spreadsheets/d/1XH8d-gWQ5Wgd2-HPky1BOxT3qUjH2Kt27-4ikkyngcE/copy?usp=sharing)) - pre-plan plot arcs.
 
  [📺 Crosshairs Are Surprisingly Difficult ~ JayTheDevGuy](https://youtu.be/aLgOsEQgtmM) [UI/UX].
 
